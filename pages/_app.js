@@ -7,11 +7,3 @@ export default function App({ Component, pageProps }) {
       <Component {...pageProps} />
     </SessionProvider>
   )
-}
-```
-
-Salve com **Ctrl+S** e feche. Depois:
-```
-git add .
-git commit -m "corrige SessionProvider"
-git push
