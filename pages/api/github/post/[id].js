@@ -1,6 +1,6 @@
 import { getServerSession } from 'next-auth/next'
 import { authOptions } from '../../auth/[...nextauth]'
-import { getPost, deletePost } from '../../../lib/github'
+import { getPost, deletePost } from '../../../../lib/github'
 
 export default async function handler(req, res) {
   const session = await getServerSession(req, res, authOptions)
