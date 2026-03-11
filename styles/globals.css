@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --gold: #B8943F;
+  --burgundy: #5C1E1E;
+  --cream: #FAF7F2;
+  --ink: #1A1208;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--cream);
+  color: var(--ink);
+  font-family: 'EB Garamond', serif;
+}
+
+/* Decorative divider */
+.ornamental-divider {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: var(--gold);
+}
+
+.ornamental-divider::before,
+.ornamental-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--gold), transparent);
+}
+
+/* Article content styles */
+.prose-ecclesiae h2 {
+  font-family: 'Cinzel', serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--burgundy);
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #D4AF6A44;
+}
+
+.prose-ecclesiae h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  font-style: italic;
+  color: #7D2E2E;
+  margin: 2rem 0 0.75rem;
+}
+
+.prose-ecclesiae p {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.2rem;
+  line-height: 1.9;
+  color: #2A1F10;
+  margin-bottom: 1.5rem;
+}
+
+.prose-ecclesiae blockquote {
+  border-left: 3px solid var(--gold);
+  padding: 1rem 1.5rem;
+  margin: 2rem 0;
+  background: #F0E9DC;
+  font-style: italic;
+  font-size: 1.25rem;
+  color: var(--burgundy);
+}
+
+.prose-ecclesiae a {
+  color: var(--burgundy);
+  text-decoration: underline;
+  text-decoration-color: #D4AF6A;
+}
+
+.prose-ecclesiae strong {
+  font-weight: 700;
+  color: var(--burgundy);
+}
+
+/* Page transitions */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-up {
+  animation: fadeInUp 0.6s ease forwards;
+}
+
+.animate-fade-up-delay-1 { animation-delay: 0.1s; opacity: 0; animation-fill-mode: forwards; animation-duration: 0.6s; animation-name: fadeInUp; }
+.animate-fade-up-delay-2 { animation-delay: 0.2s; opacity: 0; animation-fill-mode: forwards; animation-duration: 0.6s; animation-name: fadeInUp; }
+.animate-fade-up-delay-3 { animation-delay: 0.3s; opacity: 0; animation-fill-mode: forwards; animation-duration: 0.6s; animation-name: fadeInUp; }
+
+/* Gold shimmer on hover */
+.gold-hover {
+  position: relative;
+  overflow: hidden;
+}
+
+.gold-hover::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, transparent 40%, rgba(184,148,63,0.15) 50%, transparent 60%);
+  transform: translateX(-100%);
+  transition: transform 0.5s ease;
+}
+
+.gold-hover:hover::after {
+  transform: translateX(100%);
+}
