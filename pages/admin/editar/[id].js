@@ -11,19 +11,33 @@ export async function getServerSideProps(ctx) {
   if (!session) return { redirect: { destination: '/admin/login', permanent: false } }
 
   const { id } = ctx.params
+
   try {
     const { getPost } = await import('../../../lib/github')
     const post = await getPost(id)
+
+    // Parse categories — support both old single category and new array
+    let categories = []
+    if (Array.isArray(post.categories)) {
+      categories = post.categories
+    } else if (typeof post.categories === 'string' && post.categories.trim()) {
+      categories = post.categories.split(',').map(c => c.trim()).filter(Boolean)
+    } else if (post.category) {
+      categories = [post.category]
+    }
+
     return {
       props: {
         postData: {
           title: post.title || '',
           date: post.date || '',
+          categories: categories,
           category: post.category || '',
           author: post.author || '',
           excerpt: post.excerpt || '',
           slug: post.slug || id,
           status: post.status || 'published',
+          coverImage: post.coverImage || '',
           metaTitle: post.metaTitle || '',
           metaDescription: post.metaDescription || '',
           tags: Array.isArray(post.tags) ? post.tags.join(', ') : (post.tags || ''),
