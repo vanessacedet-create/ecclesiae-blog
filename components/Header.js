@@ -10,7 +10,7 @@ export default function Header({ categorias = [] }) {
 
       <div className="bg-cross-pattern">
         <div className="max-w-5xl mx-auto px-6 py-8 text-center">
-          <div className="text-gold text-2xl mb-3 tracking-widest font-display">✦ ✦ ✦</div>
+          <div className="text-gold text-2xl mb-3 tracking-widest font-display">{"\u2726 \u2726 \u2726"}</div>
 
           <Link href="/" className="group inline-block">
             <p className="font-display text-xs tracking-[0.4em] text-gold uppercase mb-2">
@@ -20,25 +20,25 @@ export default function Header({ categorias = [] }) {
               O BLOG
             </h1>
             <p className="font-sans italic text-gold-light text-lg mt-2 tracking-wide">
-              Fé, Cultura e Tradição Católica
+              {"F\u00e9, Cultura e Tradi\u00e7\u00e3o Cat\u00f3lica"}
             </p>
           </Link>
 
           <div className="flex items-center justify-center gap-4 my-5">
             <div className="h-px w-24 bg-gradient-to-r from-transparent to-gold" />
-            <span className="text-gold text-lg">✠</span>
+            <span className="text-gold text-lg">{"\u2720"}</span>
             <div className="h-px w-24 bg-gradient-to-l from-transparent to-gold" />
           </div>
 
-          {/* Navigation — categorias dinâmicas */}
+          {/* Navigation */}
           <nav className="hidden md:flex items-center justify-center gap-6 font-display text-xs tracking-[0.2em] uppercase flex-wrap">
             <Link href="/" className="text-cream/80 hover:text-gold transition-colors duration-200">
-              Início
+              {"In\u00edcio"}
             </Link>
 
             {categorias.map((cat, i) => (
               <span key={cat.id} className="flex items-center gap-6">
-                <span className="text-gold/40">·</span>
+                <span className="text-gold/40">{"\u00b7"}</span>
                 <Link
                   href={`/categorias/${cat.slug}`}
                   className="text-cream/80 hover:text-gold transition-colors duration-200"
@@ -48,14 +48,14 @@ export default function Header({ categorias = [] }) {
               </span>
             ))}
 
-            <span className="text-gold/40">·</span>
+            <span className="text-gold/40">{"\u00b7"}</span>
             <a
               href="https://www.editoraecclesiae.com.br"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gold hover:text-gold-light transition-colors duration-200"
             >
-              Loja ↗
+              {"Loja \u2197"}
             </a>
           </nav>
 
@@ -64,13 +64,13 @@ export default function Header({ categorias = [] }) {
             className="md:hidden mt-2 text-gold font-display text-xs tracking-widest uppercase"
             onClick={() => setMenuOpen(!menuOpen)}
           >
-            {menuOpen ? 'Fechar ✕' : 'Menu ≡'}
+            {menuOpen ? 'Fechar \u2715' : 'Menu \u2261'}
           </button>
 
           {menuOpen && (
             <nav className="md:hidden flex flex-col items-center gap-4 mt-4 font-display text-xs tracking-widest uppercase">
               <Link href="/" className="text-cream/80 hover:text-gold" onClick={() => setMenuOpen(false)}>
-                Início
+                {"In\u00edcio"}
               </Link>
               {categorias.map(cat => (
                 <Link
@@ -88,7 +88,7 @@ export default function Header({ categorias = [] }) {
                 rel="noopener noreferrer"
                 className="text-gold"
               >
-                Loja ↗
+                {"Loja \u2197"}
               </a>
             </nav>
           )}
