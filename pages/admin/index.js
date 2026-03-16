@@ -14,6 +14,37 @@ export default function AdminDashboard() {
 
   if (status === 'loading' || !session) return null
 
+  const cards = [
+    {
+      href: '/admin/novo',
+      icon: '\u270E',
+      title: 'Novo Artigo',
+      desc: 'Escrever e publicar um novo post',
+      dark: true,
+    },
+    {
+      href: '/admin/categorias',
+      icon: '\u2630',
+      title: 'Categorias',
+      desc: 'Gerenciar categorias do blog',
+      dark: false,
+    },
+    {
+      href: '/admin/logo',
+      icon: '\U0001f3a8',
+      title: 'Logo do Blog',
+      desc: 'Enviar ou trocar a logo',
+      dark: false,
+    },
+    {
+      href: '/',
+      icon: '\U0001f310',
+      title: 'Ver Blog',
+      desc: 'Abrir o blog como visitante',
+      dark: false,
+    },
+  ]
+
   return (
     <>
       <Head>
@@ -47,7 +78,7 @@ export default function AdminDashboard() {
               color: '#FAF7F2',
               letterSpacing: '0.15em',
             }}>
-              {"\u2720"} CMS Ecclesiae
+              {'\u2720'} CMS Ecclesiae
             </span>
           </div>
           <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
@@ -83,7 +114,7 @@ export default function AdminDashboard() {
 
           {/* Welcome */}
           <div style={{ textAlign: 'center', marginBottom: '48px' }}>
-            <div style={{ fontSize: '32px', color: '#B8943F', marginBottom: '12px' }}>{"\u2720"}</div>
+            <div style={{ fontSize: '32px', color: '#B8943F', marginBottom: '12px' }}>{'\u2720'}</div>
             <h1 style={{
               fontFamily: "'Cinzel', serif",
               fontSize: '28px',
@@ -106,109 +137,42 @@ export default function AdminDashboard() {
           {/* Action cards */}
           <div style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))',
             gap: '20px',
             marginBottom: '48px',
           }}>
-
-            {/* Novo Post */}
-            <Link href="/admin/novo" style={{ textDecoration: 'none' }}>
-              <div style={{
-                background: '#5C1E1E',
-                padding: '28px 24px',
-                cursor: 'pointer',
-                transition: 'transform 0.15s',
-                textAlign: 'center',
-              }}>
-                <div style={{ fontSize: '28px', marginBottom: '12px' }}>{"\u270E"}</div>
-                <p style={{
-                  fontFamily: "'Cinzel', serif",
-                  fontSize: '13px',
-                  fontWeight: '600',
-                  letterSpacing: '0.15em',
-                  textTransform: 'uppercase',
-                  color: '#FAF7F2',
-                  margin: '0 0 6px',
+            {cards.map((card) => (
+              <Link key={card.href} href={card.href} style={{ textDecoration: 'none' }}>
+                <div style={{
+                  background: card.dark ? '#5C1E1E' : 'white',
+                  border: card.dark ? 'none' : '1px solid rgba(92,30,30,0.12)',
+                  padding: '28px 24px',
+                  cursor: 'pointer',
+                  textAlign: 'center',
                 }}>
-                  Novo Artigo
-                </p>
-                <p style={{
-                  fontSize: '13px',
-                  color: 'rgba(250,247,242,0.5)',
-                  fontStyle: 'italic',
-                  margin: 0,
-                }}>
-                  Escrever e publicar um novo post
-                </p>
-              </div>
-            </Link>
-
-            {/* Categorias */}
-            <Link href="/admin/categorias" style={{ textDecoration: 'none' }}>
-              <div style={{
-                background: 'white',
-                border: '1px solid rgba(92,30,30,0.12)',
-                padding: '28px 24px',
-                cursor: 'pointer',
-                transition: 'transform 0.15s',
-                textAlign: 'center',
-              }}>
-                <div style={{ fontSize: '28px', marginBottom: '12px' }}>{"\u2630"}</div>
-                <p style={{
-                  fontFamily: "'Cinzel', serif",
-                  fontSize: '13px',
-                  fontWeight: '600',
-                  letterSpacing: '0.15em',
-                  textTransform: 'uppercase',
-                  color: '#5C1E1E',
-                  margin: '0 0 6px',
-                }}>
-                  Categorias
-                </p>
-                <p style={{
-                  fontSize: '13px',
-                  color: '#999',
-                  fontStyle: 'italic',
-                  margin: 0,
-                }}>
-                  Gerenciar categorias do blog
-                </p>
-              </div>
-            </Link>
-
-            {/* Ver Blog */}
-            <Link href="/" style={{ textDecoration: 'none' }}>
-              <div style={{
-                background: 'white',
-                border: '1px solid rgba(92,30,30,0.12)',
-                padding: '28px 24px',
-                cursor: 'pointer',
-                transition: 'transform 0.15s',
-                textAlign: 'center',
-              }}>
-                <div style={{ fontSize: '28px', marginBottom: '12px' }}>{"\u{1F310}"}</div>
-                <p style={{
-                  fontFamily: "'Cinzel', serif",
-                  fontSize: '13px',
-                  fontWeight: '600',
-                  letterSpacing: '0.15em',
-                  textTransform: 'uppercase',
-                  color: '#5C1E1E',
-                  margin: '0 0 6px',
-                }}>
-                  Ver Blog
-                </p>
-                <p style={{
-                  fontSize: '13px',
-                  color: '#999',
-                  fontStyle: 'italic',
-                  margin: 0,
-                }}>
-                  Abrir o blog como visitante
-                </p>
-              </div>
-            </Link>
-
+                  <div style={{ fontSize: '28px', marginBottom: '12px' }}>{card.icon}</div>
+                  <p style={{
+                    fontFamily: "'Cinzel', serif",
+                    fontSize: '13px',
+                    fontWeight: '600',
+                    letterSpacing: '0.15em',
+                    textTransform: 'uppercase',
+                    color: card.dark ? '#FAF7F2' : '#5C1E1E',
+                    margin: '0 0 6px',
+                  }}>
+                    {card.title}
+                  </p>
+                  <p style={{
+                    fontSize: '13px',
+                    color: card.dark ? 'rgba(250,247,242,0.5)' : '#999',
+                    fontStyle: 'italic',
+                    margin: 0,
+                  }}>
+                    {card.desc}
+                  </p>
+                </div>
+              </Link>
+            ))}
           </div>
 
           {/* Info box */}
@@ -222,9 +186,8 @@ export default function AdminDashboard() {
             lineHeight: 1.6,
             textAlign: 'center',
           }}>
-            {"\u2720"} Use o menu acima para criar artigos, gerenciar categorias ou visualizar o blog.
+            {'\u2720'} Use os cards acima para criar artigos, gerenciar categorias, trocar a logo ou visualizar o blog.
           </div>
-
         </div>
       </div>
     </>
