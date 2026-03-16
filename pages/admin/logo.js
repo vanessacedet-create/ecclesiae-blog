@@ -146,12 +146,12 @@ export default function AdminLogo() {
         />
       </Head>
 
-      <div style={{ minHeight: '100vh', background: '#FAF7F2', fontFamily: "'EB Garamond', serif" }}>
+      <div style={{ minHeight: '100vh', background: '#fffdf7', fontFamily: "'EB Garamond', serif" }}>
 
         {/* Header */}
         <header style={{
-          background: '#5C1E1E',
-          borderBottom: '2px solid #B8943F',
+          background: '#926d47',
+          borderBottom: '2px solid #f3be4a',
           padding: '0 32px',
           display: 'flex',
           alignItems: 'center',
@@ -176,7 +176,7 @@ export default function AdminLogo() {
             <span style={{
               fontFamily: "'Cinzel', serif",
               fontSize: '12px',
-              color: '#FAF7F2',
+              color: '#fffdf7',
               letterSpacing: '0.15em',
             }}>
               {'\U0001f3a8'} Logo do Blog
@@ -186,7 +186,7 @@ export default function AdminLogo() {
             <span style={{
               fontFamily: "'Cinzel', serif",
               fontSize: '11px',
-              color: '#B8943F',
+              color: '#f3be4a',
               letterSpacing: '0.1em',
             }}>
               {'\u2713'} Salvo com sucesso!
@@ -202,7 +202,7 @@ export default function AdminLogo() {
               fontFamily: "'Cinzel', serif",
               fontSize: '24px',
               fontWeight: '600',
-              color: '#5C1E1E',
+              color: '#926d47',
               margin: '0 0 8px',
             }}>
               Logo do Blog
@@ -222,7 +222,7 @@ export default function AdminLogo() {
             <div style={{
               textAlign: 'center',
               padding: '60px',
-              color: '#B8943F',
+              color: '#f3be4a',
             }}>
               <div style={{ fontSize: '28px', marginBottom: '12px' }}>{'\u2720'}</div>
               <p style={{ fontStyle: 'italic', color: '#888' }}>Carregando...</p>
@@ -243,7 +243,7 @@ export default function AdminLogo() {
                     fontSize: '10px',
                     letterSpacing: '0.25em',
                     textTransform: 'uppercase',
-                    color: '#B8943F',
+                    color: '#f3be4a',
                     marginBottom: '16px',
                   }}>
                     Logo Atual
@@ -288,7 +288,7 @@ export default function AdminLogo() {
               {preview && (
                 <div style={{
                   background: 'white',
-                  border: '2px solid #B8943F',
+                  border: '2px solid #f3be4a',
                   padding: '24px',
                   marginBottom: '24px',
                 }}>
@@ -298,7 +298,7 @@ export default function AdminLogo() {
                     fontSize: '10px',
                     letterSpacing: '0.25em',
                     textTransform: 'uppercase',
-                    color: '#B8943F',
+                    color: '#f3be4a',
                     marginBottom: '16px',
                   }}>
                     Pr\u00e9-visualiza\u00e7\u00e3o
@@ -326,7 +326,7 @@ export default function AdminLogo() {
                     fontSize: '10px',
                     letterSpacing: '0.25em',
                     textTransform: 'uppercase',
-                    color: '#B8943F',
+                    color: '#f3be4a',
                     marginBottom: '12px',
                   }}>
                     Como fica no blog
@@ -366,7 +366,7 @@ export default function AdminLogo() {
                       onClick={handleUpload}
                       disabled={uploading}
                       style={{
-                        background: uploading ? 'rgba(184,148,63,0.5)' : '#B8943F',
+                        background: uploading ? 'rgba(184,148,63,0.5)' : '#f3be4a',
                         border: 'none',
                         color: '#1a0f0a',
                         fontFamily: "'Cinzel', serif",
@@ -386,7 +386,7 @@ export default function AdminLogo() {
                       style={{
                         background: 'transparent',
                         border: '1px solid rgba(92,30,30,0.2)',
-                        color: '#5C1E1E',
+                        color: '#926d47',
                         fontFamily: "'Cinzel', serif",
                         fontSize: '10px',
                         fontWeight: '600',
@@ -412,7 +412,7 @@ export default function AdminLogo() {
                   style={{
                     background: dragOver ? 'rgba(184,148,63,0.08)' : 'white',
                     border: dragOver
-                      ? '2px dashed #B8943F'
+                      ? '2px dashed #f3be4a'
                       : '2px dashed rgba(92,30,30,0.15)',
                     padding: '48px 24px',
                     textAlign: 'center',
@@ -424,7 +424,7 @@ export default function AdminLogo() {
                   <div style={{
                     fontSize: '36px',
                     marginBottom: '12px',
-                    color: dragOver ? '#B8943F' : '#ccc',
+                    color: dragOver ? '#f3be4a' : '#ccc',
                   }}>
                     {'\u2191'}
                   </div>
@@ -433,7 +433,7 @@ export default function AdminLogo() {
                     fontSize: '13px',
                     fontWeight: '600',
                     letterSpacing: '0.1em',
-                    color: '#5C1E1E',
+                    color: '#926d47',
                     margin: '0 0 6px',
                   }}>
                     {logoUrl ? 'Trocar Logo' : 'Enviar Logo'}
@@ -469,7 +469,7 @@ export default function AdminLogo() {
                 background: 'rgba(184,148,63,0.08)',
                 border: '1px solid rgba(184,148,63,0.2)',
                 fontSize: '14px',
-                color: '#8B6914',
+                color: '#c99a2e',
                 fontStyle: 'italic',
                 lineHeight: 1.6,
               }}>
