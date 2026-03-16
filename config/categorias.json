@@ -1,8 +1,24 @@
 {
   "categorias": [
-    { "id": "biblia", "label": "Bíblia", "slug": "biblia" },
-    { "id": "guias-de-leitura", "label": "Guias de leitura", "slug": "guias-de-leitura" },
-    { "id": "vida-dos-santos", "label": "Vida dos santos", "slug": "vida-dos-santos" },
-    { "id": "catolicismo", "label": "Catolicismo", "slug": "catolicismo" }
+    {
+      "id": "biblia",
+      "label": "Bíblia",
+      "slug": "biblia"
+    },
+    {
+      "id": "guias-de-leitura",
+      "label": "Guias de leitura",
+      "slug": "guias-de-leitura"
+    },
+    {
+      "id": "vida-dos-santos",
+      "label": "Vida dos santos",
+      "slug": "vida-dos-santos"
+    },
+    {
+      "id": "catolicismo",
+      "label": "Catolicismo",
+      "slug": "catolicismo"
+    }
   ]
 }
