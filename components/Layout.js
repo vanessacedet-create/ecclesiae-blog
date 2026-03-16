@@ -1,6 +1,8 @@
 import Header from './Header'
 import Footer from './Footer'
 import Head from 'next/head'
+import path from 'path'
+import fs from 'fs'
 
 export default function Layout({ children, title, description, categorias = [] }) {
   const siteTitle = title
@@ -23,6 +25,7 @@ export default function Layout({ children, title, description, categorias = [] }
         <meta name="twitter:card" content="summary_large_image" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
       <div className="min-h-screen flex flex-col bg-cream">
         <Header categorias={categorias} />
         <main className="flex-1">
