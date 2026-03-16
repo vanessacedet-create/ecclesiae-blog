@@ -1,8 +1,7 @@
 import Header from './Header'
 import Footer from './Footer'
 import Head from 'next/head'
-import path from 'path'
-import fs from 'fs'
+
 
 export default function Layout({ children, title, description, categorias = [] }) {
   const siteTitle = title
