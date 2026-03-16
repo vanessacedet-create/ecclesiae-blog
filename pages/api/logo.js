@@ -1,5 +1,5 @@
 import { getServerSession } from 'next-auth/next'
-import { authOptions } from '../auth/[...nextauth]'
+import { authOptions } from './auth/[...nextauth]'
 import { Octokit } from '@octokit/rest'
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
