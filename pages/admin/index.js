@@ -55,12 +55,12 @@ export default function AdminDashboard() {
         />
       </Head>
 
-      <div style={{ minHeight: '100vh', background: '#FAF7F2', fontFamily: "'EB Garamond', serif" }}>
+      <div style={{ minHeight: '100vh', background: '#fffdf7', fontFamily: "'EB Garamond', serif" }}>
 
         {/* Header */}
         <header style={{
-          background: '#5C1E1E',
-          borderBottom: '2px solid #B8943F',
+          background: '#926d47',
+          borderBottom: '2px solid #f3be4a',
           padding: '0 32px',
           display: 'flex',
           alignItems: 'center',
@@ -75,7 +75,7 @@ export default function AdminDashboard() {
               fontFamily: "'Cinzel', serif",
               fontSize: '14px',
               fontWeight: '600',
-              color: '#FAF7F2',
+              color: '#fffdf7',
               letterSpacing: '0.15em',
             }}>
               {'\u2720'} CMS Ecclesiae
@@ -94,7 +94,7 @@ export default function AdminDashboard() {
               style={{
                 background: 'transparent',
                 border: '1px solid rgba(184,148,63,0.4)',
-                color: '#B8943F',
+                color: '#f3be4a',
                 fontFamily: "'Cinzel', serif",
                 fontSize: '10px',
                 fontWeight: '600',
@@ -114,12 +114,12 @@ export default function AdminDashboard() {
 
           {/* Welcome */}
           <div style={{ textAlign: 'center', marginBottom: '48px' }}>
-            <div style={{ fontSize: '32px', color: '#B8943F', marginBottom: '12px' }}>{'\u2720'}</div>
+            <div style={{ fontSize: '32px', color: '#f3be4a', marginBottom: '12px' }}>{'\u2720'}</div>
             <h1 style={{
               fontFamily: "'Cinzel', serif",
               fontSize: '28px',
               fontWeight: '600',
-              color: '#5C1E1E',
+              color: '#926d47',
               margin: '0 0 8px',
             }}>
               Painel Administrativo
@@ -144,7 +144,7 @@ export default function AdminDashboard() {
             {cards.map((card) => (
               <Link key={card.href} href={card.href} style={{ textDecoration: 'none' }}>
                 <div style={{
-                  background: card.dark ? '#5C1E1E' : 'white',
+                  background: card.dark ? '#926d47' : 'white',
                   border: card.dark ? 'none' : '1px solid rgba(92,30,30,0.12)',
                   padding: '28px 24px',
                   cursor: 'pointer',
@@ -157,7 +157,7 @@ export default function AdminDashboard() {
                     fontWeight: '600',
                     letterSpacing: '0.15em',
                     textTransform: 'uppercase',
-                    color: card.dark ? '#FAF7F2' : '#5C1E1E',
+                    color: card.dark ? '#fffdf7' : '#926d47',
                     margin: '0 0 6px',
                   }}>
                     {card.title}
@@ -181,7 +181,7 @@ export default function AdminDashboard() {
             background: 'rgba(184,148,63,0.08)',
             border: '1px solid rgba(184,148,63,0.2)',
             fontSize: '14px',
-            color: '#8B6914',
+            color: '#c99a2e',
             fontStyle: 'italic',
             lineHeight: 1.6,
             textAlign: 'center',
