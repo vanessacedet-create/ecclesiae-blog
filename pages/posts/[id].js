@@ -1,6 +1,8 @@
 import Layout from '../../components/Layout'
+import SocialSidebar from '../../components/SocialSidebar'
 import { getAllPostIds, getPostData, getSortedPostsData } from '../../lib/posts'
 import { getCategoriasLocal } from '../../lib/categorias'
+import { getSettings } from '../../lib/settings'
 import { format, parseISO } from 'date-fns'
 import { ptBR } from 'date-fns/locale'
 import Link from 'next/link'
@@ -33,7 +35,7 @@ function ReadingProgress() {
   )
 }
 
-export default function Post({ postData, categorias, relatedPosts }) {
+export default function Post({ postData, categorias, relatedPosts, settings }) {
   const formattedDate = postData.date
     ? format(parseISO(postData.date), "d 'de' MMMM 'de' yyyy", { locale: ptBR })
     : ''
@@ -42,11 +44,17 @@ export default function Post({ postData, categorias, relatedPosts }) {
     ? postData.category.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-')
     : ''
 
+  // Get all categories for display
+  const postCategories = postData.categories && Array.isArray(postData.categories)
+    ? postData.categories
+    : postData.category ? [postData.category] : []
+
   return (
     <Layout title={postData.title} description={postData.excerpt} categorias={categorias}>
       <ReadingProgress />
+      <SocialSidebar settings={settings} />
 
-      {/* ─── Hero: Cover Image (full width) ─── */}
+      {/* Hero: Cover Image */}
       {postData.coverImage && (
         <div className="w-full bg-ink/5">
           <img
@@ -59,18 +67,24 @@ export default function Post({ postData, categorias, relatedPosts }) {
 
       <article className="max-w-3xl mx-auto px-6">
 
-        {/* ─── Post Header ─── */}
+        {/* Post Header */}
         <header className={`${postData.coverImage ? 'pt-10' : 'pt-16'} pb-8`}>
 
-          {/* Category tag */}
-          {postData.category && (
-            <div className="mb-5">
-              <Link
-                href={`/categorias/${categorySlug}`}
-                className="inline-block font-display text-xs tracking-[0.25em] uppercase text-burgundy border border-burgundy/30 px-3 py-1 hover:bg-burgundy hover:text-cream transition-all duration-200"
-              >
-                {postData.category}
-              </Link>
+          {/* Category tags */}
+          {postCategories.length > 0 && (
+            <div className="flex flex-wrap gap-2 mb-5">
+              {postCategories.map(cat => {
+                const slug = cat.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, '-')
+                return (
+                  <Link
+                    key={cat}
+                    href={`/categorias/${slug}`}
+                    className="inline-block font-display text-xs tracking-[0.25em] uppercase text-burgundy border border-burgundy/30 px-3 py-1 hover:bg-burgundy hover:text-cream transition-all duration-200"
+                  >
+                    {cat}
+                  </Link>
+                )
+              })}
             </div>
           )}
 
@@ -79,14 +93,14 @@ export default function Post({ postData, categorias, relatedPosts }) {
             {postData.title}
           </h1>
 
-          {/* Excerpt as subtitle */}
+          {/* Excerpt */}
           {postData.excerpt && (
             <p className="font-serif text-xl md:text-2xl text-ink/55 leading-relaxed mb-6">
               {postData.excerpt}
             </p>
           )}
 
-          {/* Meta: author, date, reading time */}
+          {/* Meta */}
           <div className="flex flex-wrap items-center gap-3 text-sm text-ink/40 font-sans">
             {postData.author && (
               <>
@@ -104,23 +118,22 @@ export default function Post({ postData, categorias, relatedPosts }) {
           </div>
         </header>
 
-        {/* ─── Divider ─── */}
         <div className="h-px bg-gray-200 mb-10" />
 
-        {/* ─── Article Content ─── */}
+        {/* Article Content */}
         <div
           className="post-content prose-ecclesiae"
           dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
         />
 
-        {/* ─── End ornament ─── */}
+        {/* End ornament */}
         <div className="flex items-center justify-center gap-4 mt-16 mb-10">
           <div className="h-px w-16 bg-gradient-to-r from-transparent to-gold/40" />
           <span className="text-gold text-lg">{"\u2720"}</span>
           <div className="h-px w-16 bg-gradient-to-l from-transparent to-gold/40" />
         </div>
 
-        {/* ─── Navigation ─── */}
+        {/* Navigation */}
         <div className="flex items-center justify-between py-6 border-t border-gray-200 mb-12">
           <Link
             href="/"
@@ -138,7 +151,7 @@ export default function Post({ postData, categorias, relatedPosts }) {
           )}
         </div>
 
-        {/* ─── Related Posts ─── */}
+        {/* Related Posts */}
         {relatedPosts && relatedPosts.length > 0 && (
           <section className="pb-16">
             <div className="flex items-center gap-4 mb-8">
@@ -193,23 +206,19 @@ export default function Post({ postData, categorias, relatedPosts }) {
 
 export async function getStaticPaths() {
   const paths = getAllPostIds()
-  return {
-    paths,
-    fallback: false,
-  }
+  return { paths, fallback: false }
 }
 
 export async function getStaticProps({ params }) {
   const postData = await getPostData(params.id)
   const categorias = getCategoriasLocal()
   const allPosts = getSortedPostsData()
+  const settings = await getSettings()
 
-  // Find related posts: same category, excluding current
   const relatedPosts = allPosts
     .filter(p => p.id !== params.id && p.category === postData.category)
     .slice(0, 3)
 
-  // If not enough related by category, fill with recent posts
   if (relatedPosts.length < 3) {
     const remaining = allPosts
       .filter(p => p.id !== params.id && !relatedPosts.find(r => r.id === p.id))
@@ -218,10 +227,6 @@ export async function getStaticProps({ params }) {
   }
 
   return {
-    props: {
-      postData,
-      categorias,
-      relatedPosts,
-    },
+    props: { postData, categorias, relatedPosts, settings },
   }
 }
