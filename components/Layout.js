@@ -2,7 +2,7 @@ import Header from './Header'
 import Footer from './Footer'
 import Head from 'next/head'
 
-export default function Layout({ children, title, description }) {
+export default function Layout({ children, title, description, categorias = [] }) {
   const siteTitle = title
     ? `${title} | Blog da Editora Ecclesiae`
     : 'Blog da Editora Ecclesiae — Fé, Cultura e Tradição Católica'
@@ -23,9 +23,8 @@ export default function Layout({ children, title, description }) {
         <meta name="twitter:card" content="summary_large_image" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <div className="min-h-screen flex flex-col bg-cream">
-        <Header />
+        <Header categorias={categorias} />
         <main className="flex-1">
           {children}
         </main>
