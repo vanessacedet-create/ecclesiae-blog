@@ -160,4 +160,68 @@ export default function AdminCategorias() {
                       color: index === categorias.length - 1 ? '#ddd' : '#5C1E1E',
                       width: '24px', height: '22px', cursor: index === categorias.length - 1 ? 'not-allowed' : 'pointer',
                       fontSize: '10px', lineHeight: 1, padding: 0,
-                    }}>▼</button
+                    }}>▼</button>
+                  </div>
+                  <span style={{ fontFamily: "'Cinzel', serif", fontSize: '11px', color: '#B8943F', minWidth: '20px', textAlign: 'center' }}>
+                    {index + 1}
+                  </span>
+                  <input type="text" value={cat.label} onChange={e => handleRename(cat.id, e.target.value)} style={{
+                    flex: 1, padding: '8px 12px',
+                    border: '1px solid rgba(92,30,30,0.15)',
+                    fontFamily: "'EB Garamond', serif", fontSize: '17px',
+                    color: '#1A1208', outline: 'none', background: '#FAF7F2',
+                  }} />
+                  <button onClick={() => handleDelete(cat.id)} style={{
+                    background: 'transparent', border: '1px solid rgba(198,40,40,0.25)',
+                    color: '#c62828', width: '32px', height: '32px',
+                    cursor: 'pointer', fontSize: '14px', flexShrink: 0,
+                  }}>✕</button>
+                </div>
+              ))}
+            </div>
+          )}
+
+          <div style={{ background: 'white', border: '1px solid rgba(92,30,30,0.12)', padding: '20px' }}>
+            <label style={{
+              display: 'block', fontFamily: "'Cinzel', serif", fontSize: '10px',
+              letterSpacing: '0.25em', textTransform: 'uppercase', color: '#B8943F', marginBottom: '10px',
+            }}>Adicionar Nova Categoria</label>
+            <div style={{ display: 'flex', gap: '10px' }}>
+              <input type="text" value={novaCategoria} onChange={e => setNovaCategoria(e.target.value)}
+                onKeyDown={e => e.key === 'Enter' && handleAdd()}
+                placeholder="Ex: Orações, Liturgia, Filosofia..."
+                style={{
+                  flex: 1, padding: '10px 14px',
+                  border: '1px solid rgba(92,30,30,0.2)',
+                  fontFamily: "'EB Garamond', serif", fontSize: '17px',
+                  color: '#1A1208', outline: 'none',
+                }} />
+              <button onClick={handleAdd} style={{
+                background: '#5C1E1E', border: 'none', color: '#FAF7F2',
+                fontFamily: "'Cinzel', serif", fontSize: '10px',
+                fontWeight: '600', letterSpacing: '0.2em', textTransform: 'uppercase',
+                padding: '10px 20px', cursor: 'pointer',
+              }}>+ Adicionar</button>
+            </div>
+          </div>
+
+          <div style={{
+            marginTop: '24px', padding: '16px 20px',
+            background: 'rgba(184,148,63,0.08)', border: '1px solid rgba(184,148,63,0.2)',
+            fontSize: '14px', color: '#8B6914', fontStyle: 'italic', lineHeight: 1.6,
+          }}>
+            ✠ As alterações só são aplicadas após clicar em <strong>"Salvar Categorias"</strong>.
+          </div>
+        </div>
+      </div>
+    </>
+  )
+}
+
+export async function getServerSideProps(ctx) {
+  const { getServerSession } = await import('next-auth/next')
+  const { authOptions } = await import('../api/auth/[...nextauth]')
+  const session = await getServerSession(ctx.req, ctx.res, authOptions)
+  if (!session) return { redirect: { destination: '/admin/login', permanent: false } }
+  return { props: {} }
+}
