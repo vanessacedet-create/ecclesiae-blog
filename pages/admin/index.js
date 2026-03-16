@@ -1,213 +1,229 @@
-import { useSession, signOut } from 'next-auth/react'
-import { useRouter } from 'next/router'
-import { useEffect, useState } from 'react'
-import Head from 'next/head'
+import Layout from '../components/Layout'
+import PostCard from '../components/PostCard'
+import { getSortedPostsData } from '../lib/posts'
+import { getCategoriasLocal } from '../lib/categorias'
 import Link from 'next/link'
 
-const STATUS_LABELS = {
-  published: { label: 'Publicado', color: '#4caf50' },
-  draft: { label: 'Rascunho', color: '#ff9800' },
-  scheduled: { label: 'Agendado', color: '#2196f3' },
-}
+export default function Home({ allPostsData, categorias }) {
+  const featuredPost = allPostsData[0]
+  const popularPosts = allPostsData.slice(1, 5)
+  const restPosts = allPostsData.slice(1)
 
-export default function AdminDashboard() {
-  const { data: session, status } = useSession()
-  const router = useRouter()
-  const [posts, setPosts] = useState([])
-  const [loading, setLoading] = useState(true)
-  const [deleting, setDeleting] = useState(null)
-  const [search, setSearch] = useState('')
-
-  useEffect(() => {
-    if (status === 'unauthenticated') router.push('/admin/login')
-  }, [status])
-
-  useEffect(() => {
-    if (session) fetchPosts()
-  }, [session])
-
-  async function fetchPosts() {
-    setLoading(true)
-    const res = await fetch('/api/github/posts')
-    const data = await res.json()
-    setPosts(Array.isArray(data) ? data : [])
-    setLoading(false)
-  }
-
-  async function handleDelete(post) {
-    if (!confirm(`Tem certeza que deseja excluir "${post.title}"?`)) return
-    setDeleting(post.id)
-    await fetch(`/api/github/post/${post.id}`, {
-      method: 'DELETE',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ sha: post.sha, title: post.title }),
-    })
-    await fetchPosts()
-    setDeleting(null)
-  }
-
-  const filtered = posts.filter(p =>
-    !search || p.title?.toLowerCase().includes(search.toLowerCase()) ||
-    p.category?.toLowerCase().includes(search.toLowerCase())
-  )
-
-  if (status === 'loading' || !session) return null
+  // Group posts by category
+  const postsByCategory = {}
+  categorias.forEach(cat => {
+    const catPosts = allPostsData.filter(
+      p => p.category && p.category.toLowerCase() === cat.label.toLowerCase()
+    )
+    if (catPosts.length > 0) {
+      postsByCategory[cat.slug] = {
+        label: cat.label,
+        slug: cat.slug,
+        posts: catPosts.slice(0, 4),
+      }
+    }
+  })
 
   return (
-    <>
-      <Head>
-        <title>Painel — CMS Ecclesiae</title>
-        <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet" />
-      </Head>
-      <div style={{ minHeight: '100vh', background: '#FAF7F2', fontFamily: "'EB Garamond', serif" }}>
+    <Layout categorias={categorias}>
 
-        <header style={{
-          background: '#5C1E1E', borderBottom: '2px solid #B8943F',
-          padding: '0 32px', display: 'flex', alignItems: 'center',
-          justifyContent: 'space-between', height: '64px',
-        }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-            <span style={{ color: '#B8943F', fontSize: '20px' }}>✠</span>
-            <span style={{
-              fontFamily: "'Cinzel', serif", fontSize: '13px',
-              fontWeight: '600', letterSpacing: '0.2em', textTransform: 'uppercase', color: '#FAF7F2',
-            }}>Ecclesiae CMS</span>
-          </div>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '24px' }}>
-            <a href="/" target="_blank" style={{
-              fontFamily: "'Cinzel', serif", fontSize: '10px',
-              letterSpacing: '0.2em', textTransform: 'uppercase', color: '#B8943F', textDecoration: 'none',
-            }}>Ver Blog ↗</a>
-            <button onClick={() => signOut({ callbackUrl: '/admin/login' })} style={{
-              background: 'transparent', border: '1px solid rgba(184,148,63,0.4)',
-              color: 'rgba(250,247,242,0.6)', fontFamily: "'Cinzel', serif",
-              fontSize: '10px', letterSpacing: '0.2em', textTransform: 'uppercase',
-              padding: '6px 14px', cursor: 'pointer',
-            }}>Sair</button>
-          </div>
-        </header>
-
-        <div style={{ maxWidth: '1100px', margin: '0 auto', padding: '40px 24px' }}>
-
-          <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between', marginBottom: '32px', flexWrap: 'wrap', gap: '16px' }}>
-            <div>
-              <h1 style={{ fontFamily: "'Cinzel', serif", fontSize: '26px', fontWeight: '600', color: '#5C1E1E', margin: '0 0 6px' }}>
-                Posts do Blog
-              </h1>
-              <p style={{ margin: 0, color: '#888', fontStyle: 'italic', fontSize: '16px' }}>
-                {posts.length} artigo{posts.length !== 1 ? 's' : ''} no repositório
-              </p>
-            </div>
-            <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
-              <Link href="/admin/categorias" style={{
-                display: 'inline-flex', alignItems: 'center', gap: '8px',
-                background: 'transparent', color: '#5C1E1E', textDecoration: 'none',
-                border: '1px solid rgba(92,30,30,0.3)',
-                fontFamily: "'Cinzel', serif", fontSize: '11px',
-                letterSpacing: '0.2em', textTransform: 'uppercase', padding: '12px 20px',
-              }}>
-                ⚙️ Categorias
-              </Link>
-              <Link href="/admin/novo" style={{
-                display: 'inline-flex', alignItems: 'center', gap: '8px',
-                background: '#5C1E1E', color: '#FAF7F2', textDecoration: 'none',
-                fontFamily: "'Cinzel', serif", fontSize: '11px',
-                letterSpacing: '0.2em', textTransform: 'uppercase', padding: '12px 24px',
-              }}>
-                <span style={{ fontSize: '16px' }}>+</span> Novo Post
-              </Link>
-            </div>
-          </div>
-
-          <div style={{ marginBottom: '24px' }}>
-            <input type="text" placeholder="Buscar por título ou categoria..."
-              value={search} onChange={e => setSearch(e.target.value)}
-              style={{
-                width: '100%', maxWidth: '400px', padding: '10px 16px',
-                border: '1px solid rgba(92,30,30,0.2)', background: 'white',
-                fontFamily: "'EB Garamond', serif", fontSize: '16px', color: '#1A1208', outline: 'none', boxSizing: 'border-box',
-              }} />
-          </div>
-
-          {loading ? (
-            <div style={{ textAlign: 'center', padding: '80px', color: '#B8943F' }}>
-              <div style={{ fontSize: '32px', marginBottom: '16px' }}>✠</div>
-              <p style={{ fontStyle: 'italic', color: '#888' }}>Carregando posts do GitHub...</p>
-            </div>
-          ) : filtered.length === 0 ? (
-            <div style={{ textAlign: 'center', padding: '80px', border: '1px dashed rgba(184,148,63,0.3)', background: 'white' }}>
-              <div style={{ fontSize: '40px', color: 'rgba(184,148,63,0.3)', marginBottom: '16px' }}>✠</div>
-              <p style={{ fontFamily: "'Cinzel', serif", fontSize: '14px', color: '#5C1E1E', marginBottom: '8px' }}>
-                {search ? 'Nenhum post encontrado' : 'Nenhum post ainda'}
-              </p>
-              {!search && (
-                <Link href="/admin/novo" style={{ color: '#B8943F', fontStyle: 'italic', fontSize: '15px' }}>
-                  Criar o primeiro artigo →
-                </Link>
-              )}
-            </div>
-          ) : (
-            <div style={{ background: 'white', border: '1px solid rgba(92,30,30,0.1)' }}>
-              {filtered.map((post, i) => (
-                <div key={post.id} style={{
-                  display: 'grid', gridTemplateColumns: '1fr auto', alignItems: 'center',
-                  gap: '16px', padding: '18px 24px',
-                  borderBottom: i < filtered.length - 1 ? '1px solid rgba(92,30,30,0.07)' : 'none',
-                  background: 'white',
-                }}
-                  onMouseEnter={e => e.currentTarget.style.background = '#FAF7F2'}
-                  onMouseLeave={e => e.currentTarget.style.background = 'white'}
-                >
-                  <div>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '4px', flexWrap: 'wrap' }}>
-                      <span style={{ fontFamily: "'Cinzel', serif", fontSize: '15px', fontWeight: '600', color: '#5C1E1E' }}>
-                        {post.title || post.id}
-                      </span>
-                      {post.status && STATUS_LABELS[post.status] && (
-                        <span style={{
-                          fontSize: '10px', fontFamily: "'Cinzel', serif", letterSpacing: '0.15em', textTransform: 'uppercase',
-                          color: STATUS_LABELS[post.status].color, border: `1px solid ${STATUS_LABELS[post.status].color}`, padding: '2px 8px',
-                        }}>{STATUS_LABELS[post.status].label}</span>
-                      )}
-                      {post.category && (
-                        <span style={{ fontSize: '10px', fontFamily: "'Cinzel', serif", letterSpacing: '0.15em', textTransform: 'uppercase', color: '#B8943F' }}>
-                          {post.category}
-                        </span>
-                      )}
-                    </div>
-                    <div style={{ fontSize: '13px', color: '#999', fontStyle: 'italic' }}>
-                      {post.date && <span>{post.date}</span>}
-                      {post.author && <span> · {post.author}</span>}
-                    </div>
-                  </div>
-                  <div style={{ display: 'flex', gap: '8px' }}>
-                    <Link href={`/admin/editar/${post.id}`} style={{
-                      fontFamily: "'Cinzel', serif", fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase',
-                      color: '#5C1E1E', textDecoration: 'none', border: '1px solid rgba(92,30,30,0.3)', padding: '6px 14px',
-                    }}>Editar</Link>
-                    <button onClick={() => handleDelete(post)} disabled={deleting === post.id} style={{
-                      fontFamily: "'Cinzel', serif", fontSize: '10px', letterSpacing: '0.15em', textTransform: 'uppercase',
-                      color: '#c62828', background: 'transparent', border: '1px solid rgba(198,40,40,0.3)',
-                      padding: '6px 14px', cursor: deleting === post.id ? 'not-allowed' : 'pointer',
-                      opacity: deleting === post.id ? 0.5 : 1,
-                    }}>
-                      {deleting === post.id ? '...' : 'Excluir'}
-                    </button>
-                  </div>
+      {/* ═══ HERO: Featured Post ═══ */}
+      {featuredPost && (
+        <section className="relative bg-burgundy overflow-hidden">
+          <div className="absolute inset-0 bg-cross-pattern opacity-30" />
+          <div className="relative max-w-6xl mx-auto px-6 py-16 md:py-24">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
+              {/* Text */}
+              <div className="order-2 lg:order-1">
+                {featuredPost.category && (
+                  <span className="inline-block font-display text-xs tracking-[0.3em] uppercase text-gold mb-4 border border-gold/30 px-3 py-1">
+                    {featuredPost.category}
+                  </span>
+                )}
+                <h2 className="font-display text-3xl md:text-4xl lg:text-5xl font-bold text-cream leading-tight mb-5">
+                  <Link href={`/posts/${featuredPost.id}`} className="hover:text-gold-light transition-colors duration-300">
+                    {featuredPost.title}
+                  </Link>
+                </h2>
+                {featuredPost.excerpt && (
+                  <p className="font-serif text-lg text-cream/70 leading-relaxed mb-6 italic line-clamp-3">
+                    {featuredPost.excerpt}
+                  </p>
+                )}
+                <div className="flex items-center gap-4">
+                  {featuredPost.readingTime && (
+                    <span className="font-sans text-sm text-cream/50">
+                      {featuredPost.readingTime} min de leitura
+                    </span>
+                  )}
+                  <Link
+                    href={`/posts/${featuredPost.id}`}
+                    className="inline-flex items-center gap-2 font-display text-xs tracking-[0.2em] uppercase text-gold hover:text-gold-light transition-colors duration-200"
+                  >
+                    {"Ler artigo \u2192"}
+                  </Link>
                 </div>
-              ))}
+              </div>
+              {/* Image placeholder */}
+              <div className="order-1 lg:order-2">
+                {featuredPost.coverImage ? (
+                  <Link href={`/posts/${featuredPost.id}`} className="block overflow-hidden">
+                    <img
+                      src={featuredPost.coverImage}
+                      alt={featuredPost.title}
+                      className="w-full h-64 md:h-80 lg:h-96 object-cover hover:scale-105 transition-transform duration-500"
+                    />
+                  </Link>
+                ) : (
+                  <div className="w-full h-64 md:h-80 lg:h-96 bg-burgundy-light/30 border border-gold/20 flex items-center justify-center">
+                    <span className="font-display text-6xl text-gold/20">{"\u2720"}</span>
+                  </div>
+                )}
+              </div>
             </div>
-          )}
+          </div>
+        </section>
+      )}
+
+      {/* ═══ POPULAR POSTS: Grid ═══ */}
+      {popularPosts.length > 0 && (
+        <section className="max-w-6xl mx-auto px-6 py-16">
+          <div className="flex items-center justify-between mb-10">
+            <div className="flex items-center gap-4">
+              <div className="h-px w-12 bg-gold/40" />
+              <h2 className="font-display text-xs tracking-[0.3em] uppercase text-gold">
+                Populares
+              </h2>
+              <div className="h-px w-12 bg-gold/40" />
+            </div>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            {popularPosts.map((post) => (
+              <PostCard
+                key={post.id}
+                id={post.id}
+                title={post.title}
+                date={post.date}
+                excerpt={post.excerpt}
+                category={post.category}
+                coverImage={post.coverImage}
+                readingTime={post.readingTime}
+                variant="compact"
+              />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* ═══ SECTIONS BY CATEGORY ═══ */}
+      {Object.keys(postsByCategory).map((slug) => {
+        const section = postsByCategory[slug]
+        return (
+          <section key={slug} className="border-t border-gold/15">
+            <div className="max-w-6xl mx-auto px-6 py-14">
+              {/* Category header */}
+              <div className="flex items-center justify-between mb-10">
+                <h2 className="font-display text-2xl font-bold text-burgundy">
+                  <Link href={`/categorias/${slug}`} className="hover:text-gold transition-colors duration-200">
+                    {section.label}
+                  </Link>
+                </h2>
+                <Link
+                  href={`/categorias/${slug}`}
+                  className="font-display text-xs tracking-[0.2em] uppercase text-gold hover:text-burgundy transition-colors duration-200"
+                >
+                  {"Ver todos \u2192"}
+                </Link>
+              </div>
+
+              {/* First post large + rest as list */}
+              <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
+                {/* Main post */}
+                {section.posts[0] && (
+                  <div className="lg:col-span-7">
+                    <PostCard
+                      id={section.posts[0].id}
+                      title={section.posts[0].title}
+                      date={section.posts[0].date}
+                      excerpt={section.posts[0].excerpt}
+                      category={section.posts[0].category}
+                      coverImage={section.posts[0].coverImage}
+                      readingTime={section.posts[0].readingTime}
+                      variant="large"
+                    />
+                  </div>
+                )}
+
+                {/* Side posts */}
+                {section.posts.length > 1 && (
+                  <div className="lg:col-span-5 flex flex-col gap-6">
+                    {section.posts.slice(1, 4).map((post) => (
+                      <PostCard
+                        key={post.id}
+                        id={post.id}
+                        title={post.title}
+                        date={post.date}
+                        excerpt={post.excerpt}
+                        category={post.category}
+                        coverImage={post.coverImage}
+                        readingTime={post.readingTime}
+                        variant="horizontal"
+                      />
+                    ))}
+                  </div>
+                )}
+              </div>
+            </div>
+          </section>
+        )
+      })}
+
+      {/* ═══ EMPTY STATE ═══ */}
+      {allPostsData.length === 0 && (
+        <div className="max-w-5xl mx-auto px-6 py-32 text-center">
+          <span className="font-display text-6xl text-gold/30">{"\u2720"}</span>
+          <p className="font-serif text-2xl text-burgundy mt-6 mb-3">Em breve, novos artigos</p>
+          <p className="font-sans text-ink/50 italic">O blog est\u00e1 sendo preparado com muito cuidado.</p>
         </div>
-      </div>
-    </>
+      )}
+
+      {/* ═══ QUOTE / CTA SECTION ═══ */}
+      <section className="bg-burgundy border-t border-gold/20">
+        <div className="max-w-6xl mx-auto px-6 py-16 md:py-20">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+            <div className="text-center md:text-left">
+              <span className="text-gold text-2xl">{"\u2720"}</span>
+              <blockquote className="font-serif text-2xl italic text-cream/90 mt-4 mb-3 leading-relaxed">
+                {'"Senhor, para quem iremos? Tu tens palavras de vida eterna."'}
+              </blockquote>
+              <cite className="font-display text-xs tracking-[0.3em] uppercase text-gold">
+                {"Jo\u00e3o 6, 68"}
+              </cite>
+            </div>
+            <div className="text-center md:text-right">
+              <p className="font-serif text-lg text-cream/70 italic mb-6">
+                {"Conhe\u00e7a os livros da Editora Ecclesiae e aprofunde sua f\u00e9."}
+              </p>
+              <a
+                href="https://www.editoraecclesiae.com.br"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block font-display text-xs tracking-[0.2em] uppercase text-burgundy bg-gold hover:bg-gold-light px-8 py-3 transition-colors duration-200"
+              >
+                {"Visite a Loja \u2197"}
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </Layout>
   )
 }
 
-export async function getServerSideProps(ctx) {
-  const { getServerSession } = await import('next-auth/next')
-  const { authOptions } = await import('../api/auth/[...nextauth]')
-  const session = await getServerSession(ctx.req, ctx.res, authOptions)
-  if (!session) return { redirect: { destination: '/admin/login', permanent: false } }
-  return { props: {} }
+export async function getStaticProps() {
+  const allPostsData = getSortedPostsData()
+  const categorias = getCategoriasLocal()
+  return {
+    props: { allPostsData, categorias },
+  }
 }
