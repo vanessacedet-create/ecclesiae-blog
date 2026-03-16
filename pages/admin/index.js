@@ -41,6 +41,7 @@ export default function AdminDashboard({ posts: initialPosts }) {
     { href: '/admin/novo', icon: '\u270E', title: 'Novo Artigo', desc: 'Escrever e publicar', dark: true },
     { href: '/admin/categorias', icon: '\u2630', title: 'Categorias', desc: 'Gerenciar categorias', dark: false },
     { href: '/admin/logo', icon: '\uD83C\uDFA8', title: 'Logo', desc: 'Enviar ou trocar', dark: false },
+    { href: '/admin/settings', icon: '\u2699', title: 'Configura\u00e7\u00f5es', desc: 'Redes sociais e loja', dark: false },
     { href: '/', icon: '\uD83C\uDF10', title: 'Ver Blog', desc: 'Abrir como visitante', dark: false },
   ]
 
