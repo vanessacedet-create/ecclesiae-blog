@@ -1,6 +1,18 @@
 import Link from 'next/link'
-export default function Footer() {
+
+export default function Footer({ settings = {} }) {
   const year = new Date().getFullYear()
+  const storeUrl = settings.storeUrl || 'https://www.editoraecclesiae.com.br'
+  const email = settings.email || 'contato@editoraecclesiae.com.br'
+
+  const socials = [
+    { key: 'instagram', label: 'Instagram' },
+    { key: 'facebook', label: 'Facebook' },
+    { key: 'youtube', label: 'YouTube' },
+    { key: 'twitter', label: 'X' },
+    { key: 'tiktok', label: 'TikTok' },
+  ].filter(s => settings[s.key])
+
   return (
     <footer className="bg-burgundy-dark text-cream/70 mt-20">
       <div className="h-px bg-gradient-to-r from-transparent via-gold to-transparent" />
@@ -23,28 +35,41 @@ export default function Footer() {
               <li><Link href="/categorias" className="hover:text-gold transition-colors">Categorias</Link></li>
               <li><Link href="/sobre" className="hover:text-gold transition-colors">Sobre o Blog</Link></li>
               <li>
-                <a href="https://www.editoraecclesiae.com.br" target="_blank" rel="noopener noreferrer"
+                <a href={storeUrl} target="_blank" rel="noopener noreferrer"
                   className="hover:text-gold transition-colors">
                   {"Loja da Editora \u2197"}
                 </a>
               </li>
             </ul>
           </div>
-          {/* Contact */}
+          {/* Contact & Social */}
           <div className="text-center md:text-right">
             <p className="font-display text-xs tracking-[0.3em] text-gold uppercase mb-4">Contato</p>
-            <p className="font-sans text-sm text-cream/60 mb-1">contato@editoraecclesiae.com.br</p>
-            <div className="flex justify-center md:justify-end gap-4 mt-4">
-              <a href="https://instagram.com/editoraecclesiae" target="_blank" rel="noopener noreferrer"
-                className="font-display text-xs tracking-widest uppercase hover:text-gold transition-colors">
-                Instagram
-              </a>
-              <span className="text-gold/30">{"\u00b7"}</span>
-              <a href="https://facebook.com/editoraecclesiae" target="_blank" rel="noopener noreferrer"
-                className="font-display text-xs tracking-widest uppercase hover:text-gold transition-colors">
-                Facebook
-              </a>
-            </div>
+            <p className="font-sans text-sm text-cream/60 mb-3">{email}</p>
+            {socials.length > 0 && (
+              <div className="flex justify-center md:justify-end gap-4 mt-4 flex-wrap">
+                {socials.map((social, i) => (
+                  <span key={social.key} className="flex items-center gap-4">
+                    {i > 0 && <span className="text-gold/30">{"\u00b7"}</span>}
+                    <a
+                      href={settings[social.key]}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="font-display text-xs tracking-widest uppercase hover:text-gold transition-colors"
+                    >
+                      {social.label}
+                    </a>
+                  </span>
+                ))}
+              </div>
+            )}
+            {socials.length === 0 && (
+              <div className="flex justify-center md:justify-end gap-4 mt-4">
+                <span className="font-display text-xs tracking-widest uppercase text-cream/40">
+                  Redes sociais em breve
+                </span>
+              </div>
+            )}
           </div>
         </div>
         {/* Bottom */}
