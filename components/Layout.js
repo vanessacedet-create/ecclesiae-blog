@@ -2,14 +2,13 @@ import Header from './Header'
 import Footer from './Footer'
 import Head from 'next/head'
 
-
-export default function Layout({ children, title, description, categorias = [] }) {
+export default function Layout({ children, title, description, categorias = [], settings = {} }) {
   const siteTitle = title
     ? `${title} | Blog da Editora Ecclesiae`
-    : 'Blog da Editora Ecclesiae — Fé, Cultura e Tradição Católica'
+    : 'Blog da Editora Ecclesiae \u2014 F\u00e9, Cultura e Tradi\u00e7\u00e3o Cat\u00f3lica'
 
   const siteDesc = description ||
-    'Artigos sobre fé católica, espiritualidade, teologia, liturgia e cultura cristã. Blog da Editora Ecclesiae.'
+    'Artigos sobre f\u00e9 cat\u00f3lica, espiritualidade, teologia, liturgia e cultura crist\u00e3. Blog da Editora Ecclesiae.'
 
   return (
     <>
@@ -26,11 +25,11 @@ export default function Layout({ children, title, description, categorias = [] }
       </Head>
 
       <div className="min-h-screen flex flex-col bg-cream">
-        <Header categorias={categorias} />
+        <Header categorias={categorias} settings={settings} />
         <main className="flex-1">
           {children}
         </main>
-        <Footer />
+        <Footer settings={settings} />
       </div>
     </>
   )
