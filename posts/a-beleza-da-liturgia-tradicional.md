@@ -6,7 +6,7 @@ categories: ["Liturgia"]
 author: "Redação Ecclesiae"
 excerpt: "A liturgia não é apenas um rito: é a forma pela qual a Igreja, ao longo dos séculos, elevou seu coração a Deus com toda a beleza que lhe é possível."
 slug: "a-beleza-da-liturgia-tradicional"
-status: "published"
+status: "draft"
 ---
 
 A liturgia da Igreja sempre foi muito mais do que um conjunto de ritos e orações. Ela é a expressão viva da fé, o lugar onde o tempo se encontra com a eternidade, onde o homem — fraco, limitado, pecador — é elevado à presença do Altíssimo. Preservá-la e transmiti-la às novas gerações é um ato de caridade para com o futuro da Igreja.
