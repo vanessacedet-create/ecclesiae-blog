@@ -5,11 +5,12 @@ category: "Catolicismo"
 categories: ["Catolicismo"]
 excerpt: "Falar da “tradição dos papas” é, antes de tudo, falar da própria continuidade da Igreja ao longo da história."
 slug: "a-tradicao-dos-papas-continuidade-viva-da-igreja"
-status: "draft"
+status: "published"
 tags: ["papas", "tradição"]
 ---
 
-**### A origem: Pedro e a promessa de Cristo**
+
+## A origem: Pedro e a promessa de Cristo
 
 A tradição papal não nasce de uma construção meramente humana ou institucional. Ela encontra seu fundamento nas palavras de Cristo a Pedro: “Tu és Pedro, e sobre esta pedra edificarei a minha Igreja” (Mt 16,18). Ao confiar a Pedro as chaves do Reino, Cristo institui um princípio de unidade visível para sua Igreja.
 
@@ -17,7 +18,7 @@ Esse gesto não foi simbólico no sentido fraco, mas real e eficaz:
 
 > Pedro recebeu uma missão concreta de confirmar os irmãos na fé (cf. Lc 22,32) e apascentar o rebanho (cf. Jo 21,15-17). A tradição católica reconhece que essa missão não termina com a morte de Pedro, mas continua em seus sucessores — os bispos de Roma.
 
-**### Sucessão apostólica: mais que uma linha histórica**
+## Sucessão apostólica: mais que uma linha histórica
 
 A chamada sucessão apostólica garante que a Igreja de hoje é a mesma Igreja fundada por Cristo. No caso do Papa, essa sucessão é particularmente significativa, pois o bispo de Roma é considerado o sucessor direto de Pedro.
 
