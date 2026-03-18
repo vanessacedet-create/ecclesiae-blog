@@ -2,6 +2,7 @@
 title: "A Beleza da Liturgia Tradicional"
 date: "2025-03-10"
 category: "Liturgia"
+categories: ["Liturgia"]
 author: "Redação Ecclesiae"
 excerpt: "A liturgia não é apenas um rito: é a forma pela qual a Igreja, ao longo dos séculos, elevou seu coração a Deus com toda a beleza que lhe é possível."
 slug: "a-beleza-da-liturgia-tradicional"
