@@ -1,8 +1,11 @@
 ---
 title: "A Tradição dos Papas: continuidade viva da Igreja"
 date: "2026-03-18"
+category: "Catolicismo"
+categories: ["Catolicismo"]
 slug: "a-tradicao-dos-papas-continuidade-viva-da-igreja"
 status: "draft"
+tags: ["papas", "tradição"]
 ---
 
 ## Falar da “tradição dos papas” é, antes de tudo, falar da própria continuidade da Igreja ao longo da história. Em um mundo marcado por rupturas, modas passageiras e reinvenções constantes, a Igreja Católica se apresenta como um corpo vivo que permanece o mesmo, ainda que atravesse séculos, culturas e desafios distintos. E, no coração dessa continuidade visível, está o ministério do Papa.
