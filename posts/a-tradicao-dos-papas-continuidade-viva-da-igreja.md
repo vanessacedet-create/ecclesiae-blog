@@ -5,10 +5,9 @@ category: "Catolicismo"
 categories: ["Catolicismo"]
 excerpt: "Falar da “tradição dos papas” é, antes de tudo, falar da própria continuidade da Igreja ao longo da história."
 slug: "a-tradicao-dos-papas-continuidade-viva-da-igreja"
-status: "published"
+status: "draft"
 tags: ["papas", "tradição"]
 ---
-
 
 ## A origem: Pedro e a promessa de Cristo
 
