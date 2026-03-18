@@ -11,6 +11,8 @@ status: "draft"
 
 A liturgia da Igreja sempre foi muito mais do que um conjunto de ritos e orações. Ela é a expressão viva da fé, o lugar onde o tempo se encontra com a eternidade, onde o homem — fraco, limitado, pecador — é elevado à presença do Altíssimo.
 
+
+
 ## A Lex Orandi e a Lex Credendi
 
 Existe um princípio antigo na tradição da Igreja, formulado por Próspero de Aquitânia no século V: *lex orandi, lex credendi* — a lei da oração é a lei da fé. Isso significa que aquilo que a Igreja celebra molda aquilo que a Igreja acredita, e vice-versa.
