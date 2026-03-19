@@ -1,9 +1,13 @@
 ---
 title: "O Rosário: Escola de Contemplação Mariana"
 date: "2025-02-28"
+categories: ["Espiritualidade"]
 category: "Espiritualidade"
 author: "Redação Ecclesiae"
 excerpt: "Mais do que uma devoção popular, o Rosário é uma escola de oração contemplativa que nos une a Maria no mistério de Cristo."
+slug: "o-rosario-escola-de-contemplacao"
+status: "draft"
+coverImage: "https://www.oursundayvisitor.com/wp-content/uploads/2025/05/shutterstock_2482399379-scaled-e1746626906137.jpg"
 ---
 
 Poucos devotos sabem que o Rosário, na sua forma atual, é fruto de um longo desenvolvimento histórico. Suas raízes remontam às práticas monásticas medievais de recitação dos 150 Salmos, que leigos analfabetos substituíam por 150 *Ave-Marias*.
