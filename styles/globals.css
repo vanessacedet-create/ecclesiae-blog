@@ -222,3 +222,19 @@ body {
 .gold-hover:hover::after {
   transform: translateX(100%);
 }
+
+/* ─── Buttons inside posts ─── */
+.prose-ecclesiae a[style*="display:inline-block"] {
+  transition: opacity 0.2s;
+}
+.prose-ecclesiae a[style*="display:inline-block"]:hover {
+  opacity: 0.85;
+}
+
+/* ─── Center block elements in posts ─── */
+.prose-ecclesiae > a[style*="display:inline-block"] {
+  display: block !important;
+  text-align: center;
+  margin: 2rem auto;
+  width: fit-content;
+}
