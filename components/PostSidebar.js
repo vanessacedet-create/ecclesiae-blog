@@ -2,15 +2,15 @@ import Link from 'next/link'
 
 export default function PostSidebar({ settings = {}, recentPosts = [] }) {
   return (
-    <aside className="space-y-8">
+    <aside className="space-y-6">
 
       {/* Recent posts */}
       {recentPosts.length > 0 && (
         <div>
-          <h3 className="font-display text-xs tracking-[0.25em] uppercase text-burgundy font-semibold mb-5">
+          <h3 className="font-display text-xs tracking-[0.25em] uppercase text-burgundy font-semibold mb-4">
             Posts Recentes
           </h3>
-          <div className="flex flex-col gap-6">
+          <div className="flex flex-col gap-4">
             {recentPosts.map(post => (
               <Link key={post.id} href={`/posts/${post.id}`} className="group block">
                 <article>
@@ -39,15 +39,15 @@ export default function PostSidebar({ settings = {}, recentPosts = [] }) {
         </div>
       )}
 
-      {/* Store CTA - with spacing */}
+      {/* Store CTA */}
       {settings.storeUrl && (
         <>
-          <div className="h-px bg-gray-200 my-2" />
+          <div className="h-px bg-gray-200" />
           <a
             href={settings.storeUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="block text-center font-display text-xs tracking-[0.15em] uppercase font-semibold text-cream bg-burgundy hover:bg-burgundy-light px-4 py-3 transition-colors duration-200 mt-4"
+            className="block text-center font-display text-xs tracking-[0.15em] uppercase font-semibold text-cream bg-burgundy hover:bg-burgundy-light px-4 py-3 transition-colors duration-200"
           >
             {"Visite a Loja \u2197"}
           </a>
