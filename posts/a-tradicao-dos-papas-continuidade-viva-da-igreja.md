@@ -7,7 +7,7 @@ author: "Redação Ecclesiae"
 excerpt: "Falar da “tradição dos papas” é, antes de tudo, falar da própria continuidade da Igreja ao longo da história."
 slug: "a-tradicao-dos-papas-continuidade-viva-da-igreja"
 status: "draft"
-coverImage: "https://mkt.brasilparalelo.com.br/60ff690cd7b0537edb99a29a/6829b3cf01c34b6d3810d866_Missa-inaugural-do-papa-Le%25C3%25A3o-XIV.webp"
+coverImage: "https://res.cloudinary.com/ewtn/image/upload/c_fill,w_3840,h_2160,g_auto/f_auto/q_80/v1/PopeLeoGeneralAudience1031826_oqlsvk.jpg?_a=BAVMn6E70"
 tags: ["papas", "tradição"]
 ---
 
