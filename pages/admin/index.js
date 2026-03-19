@@ -331,19 +331,25 @@ export default function AdminDashboard({ posts: initialPosts }) {
 }
 
 export async function getServerSideProps(ctx) {
-  const { getServerSession } = await import('next-auth/next')
-  const { authOptions } = await import('../api/auth/[...nextauth]')
-  const session = await getServerSession(ctx.req, ctx.res, authOptions)
-  if (!session) return { redirect: { destination: '/admin/login', permanent: false } }
-
-  // Fetch posts list
-  let posts = []
   try {
-    const { listPosts } = await import('../../lib/github')
-    posts = await listPosts()
-  } catch (e) {
-    console.error('Error loading posts:', e)
-  }
+    const { getServerSession } = await import('next-auth/next')
+    const { authOptions } = await import('../api/auth/[...nextauth]')
+    const session = await getServerSession(ctx.req, ctx.res, authOptions)
+    if (!session) return { redirect: { destination: '/admin/login', permanent: false } }
 
-  return { props: { posts } }
+    let posts = []
+    try {
+      const { listPosts } = await import('../../lib/github')
+      posts = await listPosts()
+      // Serialize posts to plain objects (avoid Next.js serialization issues)
+      posts = JSON.parse(JSON.stringify(posts))
+    } catch (e) {
+      console.error('Error loading posts:', e)
+    }
+
+    return { props: { posts } }
+  } catch (e) {
+    console.error('Admin SSR error:', e)
+    return { redirect: { destination: '/admin/login', permanent: false } }
+  }
 }
