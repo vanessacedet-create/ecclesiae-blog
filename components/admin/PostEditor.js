@@ -32,7 +32,7 @@ export default function PostEditor({ initialData, sha, isEditing }) {
     title: '', date: new Date().toISOString().split('T')[0],
     categories: [], author: '', excerpt: '', slug: '',
     status: 'draft', metaTitle: '', metaDescription: '',
-    tags: '', scheduledAt: '', body: '', coverImage: '',
+    tags: '', scheduledAt: '', body: '', coverImage: '', coverPosition: 'center center',
     ...initialData,
     categories: parseInitialCategories(initialData?.categories || initialData?.category),
   })
@@ -350,24 +350,72 @@ export default function PostEditor({ initialData, sha, isEditing }) {
                 )}
               </Field>
 
-              <Field label="Imagem de Capa (URL)" hint="URL da imagem para o topo do artigo" fullWidth>
+              <Field label="Imagem de Capa" hint="Tamanho ideal: 1920x800px (formato panor\u00e2mico)" fullWidth>
+                <div style={{ fontSize: '12px', color: '#aaa', marginBottom: '8px', lineHeight: 1.5 }}>
+                  A imagem ser\u00e1 exibida em largura total no topo do artigo. Use imagens com no m\u00ednimo <strong style={{ color: '#926d47' }}>1920x800 pixels</strong> para melhor qualidade. Formatos: JPG, PNG ou WebP.
+                </div>
                 <input
                   type="text"
                   value={form.coverImage || ''}
                   onChange={e => set('coverImage', e.target.value)}
-                  placeholder="Ex: /images/minha-imagem.jpg ou https://..."
+                  placeholder="Cole a URL da imagem aqui..."
                   style={inputStyle}
                 />
                 {form.coverImage && (
-                  <div style={{
-                    marginTop: '10px',
-                    background: 'repeating-conic-gradient(#f0f0f0 0% 25%, white 0% 50%) 50% / 20px 20px',
-                    padding: '12px',
-                    border: '1px solid rgba(146,109,71,0.1)',
-                  }}>
-                    <img src={form.coverImage} alt="Preview" style={{ maxHeight: '120px', maxWidth: '100%' }}
-                      onError={e => e.target.style.display = 'none'} />
-                  </div>
+                  <>
+                    <div style={{
+                      marginTop: '10px',
+                      border: '1px solid rgba(146,109,71,0.1)',
+                      overflow: 'hidden',
+                    }}>
+                      <img src={form.coverImage} alt="Preview"
+                        style={{
+                          width: '100%', height: '160px', objectFit: 'cover',
+                          objectPosition: form.coverPosition || 'center center',
+                          display: 'block',
+                        }}
+                        onError={e => e.target.style.display = 'none'} />
+                    </div>
+
+                    {/* Position selector */}
+                    <div style={{ marginTop: '10px' }}>
+                      <label style={{ fontFamily: "'Cinzel', serif", fontSize: '9px', letterSpacing: '0.2em', textTransform: 'uppercase', color: '#f3be4a', display: 'block', marginBottom: '6px' }}>
+                        {"Centraliza\u00e7\u00e3o da imagem"}
+                      </label>
+                      <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
+                        {[
+                          { value: 'top center', label: 'Topo' },
+                          { value: 'center center', label: 'Centro' },
+                          { value: 'bottom center', label: 'Base' },
+                          { value: 'left center', label: 'Esquerda' },
+                          { value: 'right center', label: 'Direita' },
+                        ].map(pos => {
+                          const isActive = (form.coverPosition || 'center center') === pos.value
+                          return (
+                            <button
+                              key={pos.value}
+                              type="button"
+                              onClick={() => set('coverPosition', pos.value)}
+                              style={{
+                                padding: '5px 12px',
+                                border: isActive ? '2px solid #926d47' : '1px solid rgba(146,109,71,0.2)',
+                                background: isActive ? '#926d47' : 'white',
+                                color: isActive ? '#fffdf7' : '#926d47',
+                                fontFamily: "'Cinzel', serif",
+                                fontSize: '9px',
+                                letterSpacing: '0.1em',
+                                textTransform: 'uppercase',
+                                cursor: 'pointer',
+                                fontWeight: isActive ? '600' : '400',
+                              }}
+                            >
+                              {pos.label}
+                            </button>
+                          )
+                        })}
+                      </div>
+                    </div>
+                  </>
                 )}
               </Field>
 
