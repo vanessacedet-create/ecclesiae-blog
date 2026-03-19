@@ -31,15 +31,35 @@ async function getSettings() {
 }
 
 async function saveSettings({ settings, sha }) {
-  const content = JSON.stringify(settings, null, 2)
+  // Merge with defaults to ensure all fields are present
+  const merged = { ...defaultSettings, ...settings }
+  const content = JSON.stringify(merged, null, 2)
   const encoded = Buffer.from(content).toString('base64')
-  await octokit.repos.createOrUpdateFileContents({
-    owner, repo, branch,
-    path: 'config/settings.json',
-    message: '\u2720 Atualiza configura\u00e7\u00f5es do blog',
-    content: encoded,
-    ...(sha ? { sha } : {}),
-  })
+
+  // If we have a sha, try to use it. If it fails (conflict), fetch fresh and retry
+  try {
+    await octokit.repos.createOrUpdateFileContents({
+      owner, repo, branch,
+      path: 'config/settings.json',
+      message: '\u2720 Atualiza configura\u00e7\u00f5es do blog',
+      content: encoded,
+      ...(sha ? { sha } : {}),
+    })
+  } catch (e) {
+    // If conflict (409), fetch current sha and retry
+    if (e.status === 409 || e.message?.includes('sha')) {
+      const current = await getSettings()
+      await octokit.repos.createOrUpdateFileContents({
+        owner, repo, branch,
+        path: 'config/settings.json',
+        message: '\u2720 Atualiza configura\u00e7\u00f5es do blog',
+        content: encoded,
+        ...(current.sha ? { sha: current.sha } : {}),
+      })
+    } else {
+      throw e
+    }
+  }
 }
 
 export default async function handler(req, res) {
@@ -54,9 +74,13 @@ export default async function handler(req, res) {
   if (req.method === 'POST') {
     try {
       const { settings, sha } = req.body
-      if (!settings) return res.status(400).json({ error: 'Dados inv\u00e1lidos' })
+      if (!settings || typeof settings !== 'object') {
+        return res.status(400).json({ error: 'Dados inv\u00e1lidos' })
+      }
       await saveSettings({ settings, sha })
-      return res.status(200).json({ success: true })
+      // Return fresh data so frontend has updated sha
+      const fresh = await getSettings()
+      return res.status(200).json({ success: true, sha: fresh.sha, settings: fresh.settings })
     } catch (e) {
       return res.status(500).json({ error: e.message })
     }
