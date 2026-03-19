@@ -10,7 +10,7 @@ export default async function handler(req, res) {
     try {
       const {
         title, date, category, categories, author, excerpt, body, slug,
-        status, coverImage, metaTitle, metaDescription, tags, scheduledAt, sha
+        status, coverImage, coverPosition, metaTitle, metaDescription, tags, scheduledAt, sha
       } = req.body
 
       if (!title || !body) return res.status(400).json({ error: 'T\u00edtulo e conte\u00fado s\u00e3o obrigat\u00f3rios' })
@@ -26,6 +26,7 @@ export default async function handler(req, res) {
         slug: filename,
         status: status || 'published',
         coverImage,
+        coverPosition,
         metaTitle,
         metaDescription,
         tags,
