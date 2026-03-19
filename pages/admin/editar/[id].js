@@ -38,6 +38,7 @@ export async function getServerSideProps(ctx) {
           slug: post.slug || id,
           status: post.status || 'published',
           coverImage: post.coverImage || '',
+          coverPosition: post.coverPosition || 'center center',
           metaTitle: post.metaTitle || '',
           metaDescription: post.metaDescription || '',
           tags: Array.isArray(post.tags) ? post.tags.join(', ') : (post.tags || ''),
