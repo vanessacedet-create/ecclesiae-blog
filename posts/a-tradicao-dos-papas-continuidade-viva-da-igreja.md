@@ -15,6 +15,12 @@ tags: ["papas", "tradição"]
 
 A tradição papal não nasce de uma construção meramente humana ou institucional. Ela encontra seu fundamento nas palavras de Cristo a Pedro: “Tu és Pedro, e sobre esta pedra edificarei a minha Igreja” (Mt 16,18). Ao confiar a Pedro as chaves do Reino, Cristo institui um princípio de unidade visível para sua Igreja.
 
+
+
+![San José   Alonso Miguel de Tovar](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/san-jos--alonso-miguel-de-tovar-1773942076409.jpg)
+
+
+
 Esse gesto não foi simbólico no sentido fraco, mas real e eficaz: 
 
 > Pedro recebeu uma missão concreta de confirmar os irmãos na fé (cf. Lc 22,32) e apascentar o rebanho (cf. Jo 21,15-17). A tradição católica reconhece que essa missão não termina com a morte de Pedro, mas continua em seus sucessores — os bispos de Roma.
