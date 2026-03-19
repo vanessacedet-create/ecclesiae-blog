@@ -1,6 +1,5 @@
 import Layout from '../components/Layout'
 import PostCard from '../components/PostCard'
-import SocialSidebar from '../components/SocialSidebar'
 import { getSortedPostsData } from '../lib/posts'
 import { getCategoriasLocal } from '../lib/categorias'
 import { getSettings } from '../lib/settings'
@@ -20,10 +19,19 @@ export default function Home({ allPostsData, categorias, settings }) {
   })
   const storeUrl = settings?.storeUrl || 'https://www.editoraecclesiae.com.br'
 
+  // Fill popular posts grid: if less than 4, show what we have in responsive grid
+  const popularGridCols = popularPosts.length >= 4
+    ? 'grid-cols-1 md:grid-cols-2 lg:grid-cols-4'
+    : popularPosts.length === 3
+    ? 'grid-cols-1 md:grid-cols-3'
+    : popularPosts.length === 2
+    ? 'grid-cols-1 md:grid-cols-2'
+    : 'grid-cols-1'
+
   return (
     <Layout categorias={categorias} settings={settings}>
-      <SocialSidebar settings={settings} />
 
+      {/* HERO */}
       {featuredPost && (
         <section className="relative bg-burgundy overflow-hidden">
           <div className="absolute inset-0 bg-cross-pattern opacity-30" />
@@ -31,7 +39,7 @@ export default function Home({ allPostsData, categorias, settings }) {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
               <div className="order-2 lg:order-1">
                 {featuredPost.category && (
-                  <span className="inline-block font-display text-xs tracking-[0.3em] uppercase text-gold mb-4 border border-gold/30 px-3 py-1">
+                  <span className="inline-block font-display text-xs tracking-[0.3em] uppercase text-gold font-semibold mb-4 border border-gold/30 px-3 py-1">
                     {featuredPost.category}
                   </span>
                 )}
@@ -41,7 +49,7 @@ export default function Home({ allPostsData, categorias, settings }) {
                   </Link>
                 </h2>
                 {featuredPost.excerpt && (
-                  <p className="font-serif text-lg text-cream/70 leading-relaxed mb-6 italic line-clamp-3">
+                  <p className="font-serif text-lg text-cream/75 leading-relaxed mb-6 line-clamp-3">
                     {featuredPost.excerpt}
                   </p>
                 )}
@@ -50,7 +58,7 @@ export default function Home({ allPostsData, categorias, settings }) {
                     <span className="font-sans text-sm text-cream/50">{featuredPost.readingTime} min de leitura</span>
                   )}
                   <Link href={`/posts/${featuredPost.id}`}
-                    className="inline-flex items-center gap-2 font-display text-xs tracking-[0.2em] uppercase text-gold hover:text-gold-light transition-colors duration-200">
+                    className="inline-flex items-center gap-2 font-display text-xs tracking-[0.2em] uppercase text-gold font-semibold hover:text-gold-light transition-colors duration-200">
                     {"Ler artigo \u2192"}
                   </Link>
                 </div>
@@ -63,7 +71,7 @@ export default function Home({ allPostsData, categorias, settings }) {
                   </Link>
                 ) : (
                   <div className="w-full h-64 md:h-80 lg:h-96 bg-burgundy-light/30 border border-gold/20 flex items-center justify-center">
-                    <span className="font-display text-6xl text-gold/20">{"\u2720"}</span>
+                    <span className="font-display text-6xl text-gold/20">E</span>
                   </div>
                 )}
               </div>
@@ -72,16 +80,17 @@ export default function Home({ allPostsData, categorias, settings }) {
         </section>
       )}
 
+      {/* POPULAR */}
       {popularPosts.length > 0 && (
         <section className="max-w-6xl mx-auto px-6 py-16">
           <div className="flex items-center justify-between mb-10">
             <div className="flex items-center gap-4">
               <div className="h-px w-12 bg-gold/40" />
-              <h2 className="font-display text-xs tracking-[0.3em] uppercase text-gold">Populares</h2>
+              <h2 className="font-display text-xs tracking-[0.3em] uppercase text-burgundy font-semibold">Populares</h2>
               <div className="h-px w-12 bg-gold/40" />
             </div>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className={`grid ${popularGridCols} gap-6`}>
             {popularPosts.map(post => (
               <PostCard key={post.id} id={post.id} title={post.title} date={post.date}
                 excerpt={post.excerpt} category={post.category} coverImage={post.coverImage}
@@ -91,17 +100,18 @@ export default function Home({ allPostsData, categorias, settings }) {
         </section>
       )}
 
+      {/* SECTIONS BY CATEGORY */}
       {Object.keys(postsByCategory).map(slug => {
         const section = postsByCategory[slug]
         return (
-          <section key={slug} className="border-t border-gold/15">
+          <section key={slug} className="border-t border-gray-200">
             <div className="max-w-6xl mx-auto px-6 py-14">
               <div className="flex items-center justify-between mb-10">
                 <h2 className="font-display text-2xl font-bold text-burgundy">
-                  <Link href={`/categorias/${slug}`} className="hover:text-gold transition-colors duration-200">{section.label}</Link>
+                  <Link href={`/categorias/${slug}`} className="hover:text-burgundy-light transition-colors duration-200">{section.label}</Link>
                 </h2>
                 <Link href={`/categorias/${slug}`}
-                  className="font-display text-xs tracking-[0.2em] uppercase text-gold hover:text-burgundy transition-colors duration-200">
+                  className="font-display text-xs tracking-[0.2em] uppercase text-burgundy font-semibold hover:text-burgundy-light transition-colors duration-200">
                   {"Ver todos \u2192"}
                 </Link>
               </div>
@@ -128,30 +138,31 @@ export default function Home({ allPostsData, categorias, settings }) {
         )
       })}
 
+      {/* EMPTY STATE */}
       {allPostsData.length === 0 && (
         <div className="max-w-5xl mx-auto px-6 py-32 text-center">
-          <span className="font-display text-6xl text-gold/30">{"\u2720"}</span>
+          <span className="font-display text-6xl text-burgundy/20">E</span>
           <p className="font-serif text-2xl text-burgundy mt-6 mb-3">Em breve, novos artigos</p>
-          <p className="font-sans text-ink/50 italic">O blog est\u00e1 sendo preparado com muito cuidado.</p>
+          <p className="font-sans text-ink/50">O blog est\u00e1 sendo preparado com muito cuidado.</p>
         </div>
       )}
 
-      <section className="bg-burgundy border-t border-gold/20">
-        <div className="max-w-6xl mx-auto px-6 py-16 md:py-20">
+      {/* CTA - more spacing from content above */}
+      <section className="bg-burgundy border-t border-gold/20 mt-8">
+        <div className="max-w-6xl mx-auto px-6 py-20 md:py-24">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div className="text-center md:text-left">
-              <span className="text-gold text-2xl">{"\u2720"}</span>
-              <blockquote className="font-serif text-2xl italic text-cream/90 mt-4 mb-3 leading-relaxed">
+              <blockquote className="font-serif text-2xl text-cream/90 mt-2 mb-3 leading-relaxed">
                 {'"Senhor, para quem iremos? Tu tens palavras de vida eterna."'}
               </blockquote>
-              <cite className="font-display text-xs tracking-[0.3em] uppercase text-gold">{"Jo\u00e3o 6, 68"}</cite>
+              <cite className="font-display text-xs tracking-[0.3em] uppercase text-gold font-semibold">{"Jo\u00e3o 6, 68"}</cite>
             </div>
             <div className="text-center md:text-right">
-              <p className="font-serif text-lg text-cream/70 italic mb-6">
+              <p className="font-serif text-lg text-cream/70 mb-8">
                 {"Conhe\u00e7a os livros da Editora Ecclesiae e aprofunde sua f\u00e9."}
               </p>
               <a href={storeUrl} target="_blank" rel="noopener noreferrer"
-                className="inline-block font-display text-xs tracking-[0.2em] uppercase text-burgundy bg-gold hover:bg-gold-light px-8 py-3 transition-colors duration-200">
+                className="inline-block font-display text-xs tracking-[0.2em] uppercase font-semibold text-burgundy-dark bg-gold hover:bg-gold-light px-8 py-4 transition-colors duration-200">
                 {"Visite a Loja \u2197"}
               </a>
             </div>
