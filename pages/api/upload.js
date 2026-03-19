@@ -1,63 +1,61 @@
 import { getServerSession } from 'next-auth/next'
 import { authOptions } from './auth/[...nextauth]'
+import { Octokit } from '@octokit/rest'
+
+const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
+const owner = process.env.GITHUB_OWNER
+const repo = process.env.GITHUB_REPO
+const branch = process.env.GITHUB_BRANCH || 'main'
 
 export const config = {
   api: { bodyParser: { sizeLimit: '10mb' } }
 }
 
+function getExtFromDataUrl(dataUrl) {
+  const match = dataUrl.match(/^data:image\/(\w+);/)
+  if (!match) return 'png'
+  const type = match[1]
+  if (type === 'jpeg') return 'jpg'
+  return type
+}
+
 export default async function handler(req, res) {
   const session = await getServerSession(req, res, authOptions)
-  if (!session) return res.status(401).json({ error: 'Não autorizado' })
-
+  if (!session) return res.status(401).json({ error: 'N\u00e3o autorizado' })
   if (req.method !== 'POST') return res.status(405).end()
 
   try {
     const { image, filename } = req.body
-
     if (!image) return res.status(400).json({ error: 'Nenhuma imagem enviada' })
 
-    const cloudName = process.env.CLOUDINARY_CLOUD_NAME
-    const apiKey = process.env.CLOUDINARY_API_KEY
-    const apiSecret = process.env.CLOUDINARY_API_SECRET
+    // Extract base64 content and extension from data URL
+    const ext = getExtFromDataUrl(image)
+    const base64Content = image.split(',')[1]
+    if (!base64Content) return res.status(400).json({ error: 'Formato de imagem inv\u00e1lido' })
 
-    if (!cloudName || !apiKey || !apiSecret) {
-      return res.status(500).json({ error: 'Cloudinary não configurado. Verifique as variáveis de ambiente.' })
-    }
+    // Generate unique filename
+    const timestamp = Date.now()
+    const safeName = filename
+      ? filename.replace(/[^a-z0-9-]/gi, '-').toLowerCase()
+      : 'img'
+    const filePath = `public/images/${safeName}-${timestamp}.${ext}`
 
-    // Build form data for Cloudinary
-    const timestamp = Math.round(Date.now() / 1000)
-    const folder = 'ecclesiae-blog'
+    // Upload to GitHub
+    await octokit.repos.createOrUpdateFileContents({
+      owner, repo, branch,
+      path: filePath,
+      message: `\uD83D\uDDBC Adiciona imagem: ${safeName}.${ext}`,
+      content: base64Content,
+    })
 
-    // Create signature
-    const crypto = await import('crypto')
-    const signatureString = `folder=${folder}&timestamp=${timestamp}${apiSecret}`
-    const signature = crypto.createHash('sha1').update(signatureString).digest('hex')
-
-    // Post to Cloudinary
-    const formData = new URLSearchParams()
-    formData.append('file', image)
-    formData.append('timestamp', timestamp)
-    formData.append('api_key', apiKey)
-    formData.append('signature', signature)
-    formData.append('folder', folder)
-    if (filename) formData.append('public_id', filename)
-
-    const response = await fetch(
-      `https://api.cloudinary.com/v1_1/${cloudName}/image/upload`,
-      { method: 'POST', body: formData }
-    )
-
-    const data = await response.json()
-
-    if (data.error) {
-      return res.status(400).json({ error: data.error.message })
-    }
+    // The image will be available at /images/filename after deploy
+    // For immediate use, we can use the raw GitHub URL
+    const rawUrl = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${filePath}`
 
     return res.status(200).json({
-      url: data.secure_url,
-      publicId: data.public_id,
-      width: data.width,
-      height: data.height,
+      url: rawUrl,
+      path: filePath,
+      publicPath: filePath.replace('public/', '/'),
     })
   } catch (e) {
     console.error('Upload error:', e)
