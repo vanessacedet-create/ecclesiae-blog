@@ -14,7 +14,7 @@ export default function Footer({ settings = {} }) {
   ].filter(s => settings[s.key])
 
   return (
-    <footer className="bg-burgundy-dark text-cream/70 mt-24">
+    <footer className="bg-burgundy-dark text-cream/70">
       <div className="h-px bg-gradient-to-r from-transparent via-gold to-transparent" />
       <div className="max-w-5xl mx-auto px-6 py-14">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
