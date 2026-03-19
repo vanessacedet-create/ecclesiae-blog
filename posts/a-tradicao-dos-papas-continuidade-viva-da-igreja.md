@@ -3,9 +3,11 @@ title: "A Tradição dos Papas: continuidade viva da Igreja"
 date: "2026-03-18"
 categories: ["Catolicismo"]
 category: "Catolicismo"
+author: "Redação Ecclesiae"
 excerpt: "Falar da “tradição dos papas” é, antes de tudo, falar da própria continuidade da Igreja ao longo da história."
 slug: "a-tradicao-dos-papas-continuidade-viva-da-igreja"
 status: "draft"
+coverImage: "https://mkt.brasilparalelo.com.br/60ff690cd7b0537edb99a29a/6829b3cf01c34b6d3810d866_Missa-inaugural-do-papa-Le%25C3%25A3o-XIV.webp"
 tags: ["papas", "tradição"]
 ---
 
