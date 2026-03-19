@@ -47,7 +47,7 @@ export default function PostCard({
   if (variant === 'compact') {
     return (
       <Link href={`/posts/${id}`} className="group block h-full">
-        <article className="h-full bg-white border border-gray-200 hover:border-burgundy/30 transition-all duration-300 overflow-hidden">
+        <article className="h-full flex flex-col bg-white border border-gray-200 hover:border-burgundy/30 transition-all duration-300 overflow-hidden">
           {coverImage ? (
             <div className="overflow-hidden">
               <img src={coverImage} alt={title}
@@ -58,7 +58,7 @@ export default function PostCard({
               <span className="font-display text-3xl text-burgundy/15">E</span>
             </div>
           )}
-          <div className="p-5">
+          <div className="p-5 flex-1 flex flex-col">
             {category && (
               <span className="inline-block font-display text-xs tracking-[0.25em] uppercase text-burgundy font-semibold mb-2">
                 {category}
@@ -68,11 +68,12 @@ export default function PostCard({
               {title}
             </h3>
             {excerpt && (
-              <p className="font-sans text-sm text-ink/70 leading-relaxed line-clamp-2 mb-3">
+              <p className="font-sans text-sm text-ink/70 leading-relaxed line-clamp-2 mb-3 flex-1">
                 {excerpt}
               </p>
             )}
-            <div className="flex items-center gap-3 pt-2 border-t border-gray-100">
+            {!excerpt && <div className="flex-1" />}
+            <div className="flex items-center gap-3 pt-2 border-t border-gray-100 mt-auto">
               {readingTime && (
                 <span className="font-sans text-xs text-ink/45">{readingTime} min de leitura</span>
               )}
