@@ -47,11 +47,17 @@ export default function Post({ postData, categorias, relatedPosts, recentPosts, 
     <Layout title={postData.title} description={postData.excerpt} categorias={categorias} settings={settings}>
       <ReadingProgress />
 
-      {/* Hero: Cover Image */}
+      {/* Hero: Cover Image - full width edge to edge */}
       {postData.coverImage && (
-        <div className="w-full bg-ink/5">
-          <img src={postData.coverImage} alt={postData.title}
-            className="w-full max-w-6xl mx-auto h-72 md:h-96 lg:h-[30rem] object-cover" />
+        <div className="w-full">
+          <img
+            src={postData.coverImage}
+            alt={postData.title}
+            className="w-full h-72 md:h-96 lg:h-[32rem] object-cover"
+            style={{
+              objectPosition: postData.coverPosition || 'center center',
+            }}
+          />
         </div>
       )}
 
