@@ -1,8 +1,8 @@
 ---
 title: "A Tradição dos Papas: continuidade viva da Igreja"
 date: "2026-03-18"
-category: "Catolicismo"
 categories: ["Catolicismo"]
+category: "Catolicismo"
 excerpt: "Falar da “tradição dos papas” é, antes de tudo, falar da própria continuidade da Igreja ao longo da história."
 slug: "a-tradicao-dos-papas-continuidade-viva-da-igreja"
 status: "draft"
@@ -16,6 +16,8 @@ A tradição papal não nasce de uma construção meramente humana ou institucio
 Esse gesto não foi simbólico no sentido fraco, mas real e eficaz: 
 
 > Pedro recebeu uma missão concreta de confirmar os irmãos na fé (cf. Lc 22,32) e apascentar o rebanho (cf. Jo 21,15-17). A tradição católica reconhece que essa missão não termina com a morte de Pedro, mas continua em seus sucessores — os bispos de Roma.
+
+[texto do link](https://ecclesiae.com.br/carta-enciclica-humanae-vitae)
 
 ## Sucessão apostólica: mais que uma linha histórica
 
