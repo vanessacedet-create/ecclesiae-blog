@@ -99,13 +99,8 @@ export default function Post({ postData, categorias, relatedPosts, recentPosts, 
             <div className="post-content prose-ecclesiae"
               dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
 
-            {/* End divider */}
-            <div className="flex items-center justify-center mt-16 mb-10">
-              <div className="h-px w-full bg-gray-200" />
-            </div>
-
             {/* Navigation */}
-            <div className="flex items-center justify-between py-6 border-t border-gray-200 mb-12">
+            <div className="flex items-center justify-between pt-16 pb-6">
               <Link href="/" className="font-display text-xs tracking-[0.2em] uppercase font-semibold text-ink/50 hover:text-burgundy transition-colors">
                 {"\u2190 Voltar ao blog"}
               </Link>
@@ -126,8 +121,8 @@ export default function Post({ postData, categorias, relatedPosts, recentPosts, 
           </div>
         </div>
 
-        {/* Full-width divider aligning article and sidebar */}
-        <div className="h-px bg-gray-200 mt-6 mb-4" />
+        {/* Single full-width divider across both columns */}
+        <div className="h-px bg-gray-200" />
       </div>
 
       {/* Related Posts */}
