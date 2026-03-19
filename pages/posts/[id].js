@@ -115,7 +115,7 @@ export default function Post({ postData, categorias, relatedPosts, recentPosts, 
 
           {/* Sidebar */}
           <div className="lg:col-span-4">
-            <div className={`${postData.coverImage ? 'lg:pt-10' : 'lg:pt-16'} lg:sticky lg:top-24`}>
+            <div className="lg:pt-10 lg:sticky lg:top-20">
               <PostSidebar settings={settings} recentPosts={recentPosts} />
             </div>
           </div>
