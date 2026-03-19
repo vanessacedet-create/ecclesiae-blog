@@ -14,71 +14,65 @@ export default function Footer({ settings = {} }) {
   ].filter(s => settings[s.key])
 
   return (
-    <footer className="bg-burgundy-dark text-cream/70 mt-20">
+    <footer className="bg-burgundy-dark text-cream/70 mt-24">
       <div className="h-px bg-gradient-to-r from-transparent via-gold to-transparent" />
-      <div className="max-w-5xl mx-auto px-6 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-10">
+      <div className="max-w-5xl mx-auto px-6 py-14">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
+
           {/* Brand */}
           <div className="text-center md:text-left">
-            <p className="font-display text-xs tracking-[0.3em] text-gold uppercase mb-2">Editora Ecclesiae</p>
-            <h3 className="font-display text-xl text-cream mb-3">O Blog</h3>
-            <p className="font-sans text-sm leading-relaxed text-cream/60 italic">
+            <p className="font-display text-xs tracking-[0.3em] text-gold uppercase font-semibold mb-2">Editora Ecclesiae</p>
+            <h3 className="font-display text-xl text-cream mb-4">O Blog</h3>
+            <p className="font-sans text-sm leading-relaxed text-cream/50">
               {'"Toda a Escritura \u00e9 divinamente inspirada e \u00fatil para ensinar, para repreender, para corrigir e para instruir na justi\u00e7a."'}
             </p>
-            <p className="font-display text-xs text-gold mt-2">{"\u2014 2 Tim 3,16"}</p>
+            <p className="font-display text-xs text-gold/70 mt-2">{"\u2014 2 Tim 3,16"}</p>
           </div>
-          {/* Links */}
+
+          {/* Navigation */}
           <div className="text-center">
-            <p className="font-display text-xs tracking-[0.3em] text-gold uppercase mb-4">{"Navega\u00e7\u00e3o"}</p>
-            <ul className="space-y-2 font-sans text-sm">
-              <li><Link href="/" className="hover:text-gold transition-colors">{"In\u00edcio"}</Link></li>
-              <li><Link href="/categorias" className="hover:text-gold transition-colors">Categorias</Link></li>
-              <li><Link href="/sobre" className="hover:text-gold transition-colors">Sobre o Blog</Link></li>
+            <p className="font-display text-xs tracking-[0.3em] text-gold uppercase font-semibold mb-5">{"Navega\u00e7\u00e3o"}</p>
+            <ul className="space-y-3 font-sans text-sm">
+              <li><Link href="/" className="text-cream/60 hover:text-gold transition-colors">{"In\u00edcio"}</Link></li>
+              <li><Link href="/categorias" className="text-cream/60 hover:text-gold transition-colors">Categorias</Link></li>
+              <li><Link href="/sobre" className="text-cream/60 hover:text-gold transition-colors">Sobre o Blog</Link></li>
               <li>
                 <a href={storeUrl} target="_blank" rel="noopener noreferrer"
-                  className="hover:text-gold transition-colors">
+                  className="text-cream/60 hover:text-gold transition-colors">
                   {"Loja da Editora \u2197"}
                 </a>
               </li>
             </ul>
           </div>
-          {/* Contact & Social */}
+
+          {/* Contact & Social - reorganized as list */}
           <div className="text-center md:text-right">
-            <p className="font-display text-xs tracking-[0.3em] text-gold uppercase mb-4">Contato</p>
-            <p className="font-sans text-sm text-cream/60 mb-3">{email}</p>
-            {socials.length > 0 && (
-              <div className="flex justify-center md:justify-end gap-4 mt-4 flex-wrap">
-                {socials.map((social, i) => (
-                  <span key={social.key} className="flex items-center gap-4">
-                    {i > 0 && <span className="text-gold/30">{"\u00b7"}</span>}
-                    <a
-                      href={settings[social.key]}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="font-display text-xs tracking-widest uppercase hover:text-gold transition-colors"
-                    >
-                      {social.label}
-                    </a>
-                  </span>
-                ))}
-              </div>
-            )}
-            {socials.length === 0 && (
-              <div className="flex justify-center md:justify-end gap-4 mt-4">
-                <span className="font-display text-xs tracking-widest uppercase text-cream/40">
-                  Redes sociais em breve
-                </span>
-              </div>
-            )}
+            <p className="font-display text-xs tracking-[0.3em] text-gold uppercase font-semibold mb-5">Contato</p>
+            <ul className="space-y-3 font-sans text-sm">
+              {socials.map(social => (
+                <li key={social.key}>
+                  <a
+                    href={settings[social.key]}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-cream/60 hover:text-gold transition-colors"
+                  >
+                    {social.label}
+                  </a>
+                </li>
+              ))}
+              <li className="text-cream/50">{email}</li>
+            </ul>
           </div>
         </div>
+
         {/* Bottom */}
-        <div className="border-t border-gold/20 pt-6 flex flex-col md:flex-row items-center justify-between gap-2">
-          <p className="font-sans text-xs text-cream/40">
+        <div className="border-t border-gold/15 pt-6 flex flex-col md:flex-row items-center justify-between gap-3">
+          <p className="font-sans text-xs text-cream/35">
             {"\u00a9"} {year} Editora Ecclesiae. Todos os direitos reservados.
           </p>
-          <p className="font-display text-xs text-gold/60 tracking-widest">
-            {"\u2720 Ad Maiorem Dei Gloriam \u2720"}
+          <p className="font-display text-xs text-gold/40 tracking-widest">
+            Ad Maiorem Dei Gloriam
           </p>
         </div>
       </div>
