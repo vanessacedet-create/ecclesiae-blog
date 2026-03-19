@@ -5,7 +5,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 
 const SOCIAL_FIELDS = [
-  { key: 'storeUrl', label: 'Link da Loja', placeholder: 'https://www.editoraecclesiae.com.br', icon: '\uD83D\uDED2', hint: 'Usado em todos os bot\u00f5es "Loja" e CTAs do blog' },
+  { key: 'storeUrl', label: 'Link da Loja', placeholder: 'https://www.editoraecclesiae.com.br', icon: '\uD83D\uDED2', hint: 'Usado em todos os bot\u00f5es e CTAs do blog' },
   { key: 'instagram', label: 'Instagram', placeholder: 'https://instagram.com/editoraecclesiae', icon: '\uD83D\uDCF7' },
   { key: 'facebook', label: 'Facebook', placeholder: 'https://facebook.com/editoraecclesiae', icon: '\uD83D\uDC4D' },
   { key: 'youtube', label: 'YouTube', placeholder: 'https://youtube.com/@editoraecclesiae', icon: '\u25B6' },
@@ -54,9 +54,11 @@ export default function AdminSettings() {
       })
       const data = await res.json()
       if (res.ok) {
+        // Update sha from response to prevent conflicts on next save
+        if (data.sha) setSha(data.sha)
+        if (data.settings) setSettings(data.settings)
         setSaved(true)
         setTimeout(() => setSaved(false), 3000)
-        await fetchSettings()
       } else {
         alert('Erro ao salvar: ' + data.error)
       }
@@ -80,195 +82,58 @@ export default function AdminSettings() {
       </Head>
 
       <div style={{ minHeight: '100vh', background: '#fffdf7', fontFamily: "'EB Garamond', serif" }}>
-
-        {/* Header */}
-        <header style={{
-          background: '#926d47',
-          borderBottom: '2px solid #f3be4a',
-          padding: '0 32px',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'space-between',
-          height: '64px',
-          position: 'sticky',
-          top: 0,
-          zIndex: 100,
-        }}>
+        <header style={{ background: '#926d47', borderBottom: '2px solid #f3be4a', padding: '0 32px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: '64px', position: 'sticky', top: 0, zIndex: 100 }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-            <Link href="/admin" style={{
-              color: 'rgba(255,253,247,0.6)',
-              textDecoration: 'none',
-              fontFamily: "'Cinzel', serif",
-              fontSize: '10px',
-              letterSpacing: '0.2em',
-              textTransform: 'uppercase',
-            }}>
-              {'\u2190 Voltar'}
-            </Link>
+            <Link href="/admin" style={{ color: 'rgba(255,253,247,0.6)', textDecoration: 'none', fontFamily: "'Cinzel', serif", fontSize: '10px', letterSpacing: '0.2em', textTransform: 'uppercase' }}>{'\u2190 Voltar'}</Link>
             <span style={{ color: 'rgba(243,190,74,0.4)' }}>|</span>
-            <span style={{
-              fontFamily: "'Cinzel', serif",
-              fontSize: '12px',
-              color: '#fffdf7',
-              letterSpacing: '0.15em',
-            }}>
-              {'\u2699\uFE0F Configura\u00e7\u00f5es'}
-            </span>
+            <span style={{ fontFamily: "'Cinzel', serif", fontSize: '12px', color: '#fffdf7', letterSpacing: '0.15em' }}>{'\u2699\uFE0F Configura\u00e7\u00f5es'}</span>
           </div>
-          <button
-            onClick={handleSave}
-            disabled={saving}
-            style={{
-              background: saving ? 'rgba(243,190,74,0.5)' : '#f3be4a',
-              border: 'none',
-              color: '#1a0f0a',
-              fontFamily: "'Cinzel', serif",
-              fontSize: '10px',
-              fontWeight: '600',
-              letterSpacing: '0.2em',
-              textTransform: 'uppercase',
-              padding: '8px 20px',
-              cursor: saving ? 'not-allowed' : 'pointer',
-            }}
-          >
+          <button onClick={handleSave} disabled={saving} style={{
+            background: saving ? 'rgba(243,190,74,0.5)' : '#f3be4a', border: 'none', color: '#1a0f0a',
+            fontFamily: "'Cinzel', serif", fontSize: '10px', fontWeight: '600',
+            letterSpacing: '0.2em', textTransform: 'uppercase', padding: '8px 20px',
+            cursor: saving ? 'not-allowed' : 'pointer',
+          }}>
             {saving ? 'Salvando...' : saved ? '\u2713 Salvo!' : 'Salvar'}
           </button>
         </header>
 
         <div style={{ maxWidth: '680px', margin: '0 auto', padding: '48px 24px' }}>
-
-          {/* Page title */}
           <div style={{ marginBottom: '36px' }}>
-            <h1 style={{
-              fontFamily: "'Cinzel', serif",
-              fontSize: '24px',
-              fontWeight: '600',
-              color: '#926d47',
-              margin: '0 0 8px',
-            }}>
-              {"Configura\u00e7\u00f5es do Blog"}
-            </h1>
-            <p style={{ margin: 0, color: '#888', fontStyle: 'italic', fontSize: '16px' }}>
-              {"Configure os links da loja, redes sociais e informa\u00e7\u00f5es de contato."}
+            <h1 style={{ fontFamily: "'Cinzel', serif", fontSize: '24px', fontWeight: '600', color: '#926d47', margin: '0 0 8px' }}>{"Configura\u00e7\u00f5es do Blog"}</h1>
+            <p style={{ margin: 0, color: '#888', fontSize: '16px' }}>
+              Configure os links da loja, redes sociais e contato. Preencha todos os campos e clique em <strong>Salvar</strong> uma {'\u00fanica'} vez.
             </p>
           </div>
 
           {loading ? (
-            <div style={{ textAlign: 'center', padding: '60px', color: '#f3be4a' }}>
-              <div style={{ fontSize: '28px', marginBottom: '12px' }}>{'\u2720'}</div>
+            <div style={{ textAlign: 'center', padding: '60px' }}>
               <p style={{ fontStyle: 'italic', color: '#888' }}>Carregando...</p>
             </div>
           ) : (
             <>
               {SOCIAL_FIELDS.map((field, index) => (
                 <div key={field.key} style={{
-                  background: 'white',
-                  border: '1px solid rgba(146,109,71,0.12)',
+                  background: 'white', border: '1px solid rgba(146,109,71,0.12)',
                   borderTop: index === 0 ? '1px solid rgba(146,109,71,0.12)' : 'none',
                   padding: '18px 20px',
                 }}>
                   <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '8px' }}>
                     <span style={{ fontSize: '18px' }}>{field.icon}</span>
-                    <label style={{
-                      fontFamily: "'Cinzel', serif",
-                      fontSize: '10px',
-                      letterSpacing: '0.2em',
-                      textTransform: 'uppercase',
-                      color: '#926d47',
-                      fontWeight: '600',
-                    }}>
-                      {field.label}
-                    </label>
-                    {field.hint && (
-                      <span style={{ fontSize: '11px', color: '#bbb', fontStyle: 'italic', marginLeft: 'auto' }}>
-                        {field.hint}
-                      </span>
-                    )}
+                    <label style={{ fontFamily: "'Cinzel', serif", fontSize: '10px', letterSpacing: '0.2em', textTransform: 'uppercase', color: '#926d47', fontWeight: '600' }}>{field.label}</label>
+                    {field.hint && <span style={{ fontSize: '11px', color: '#bbb', fontStyle: 'italic', marginLeft: 'auto' }}>{field.hint}</span>}
                   </div>
-                  <input
-                    type="text"
-                    value={settings[field.key] || ''}
-                    onChange={e => set(field.key, e.target.value)}
+                  <input type="text" value={settings[field.key] || ''} onChange={e => set(field.key, e.target.value)}
                     placeholder={field.placeholder}
-                    style={{
-                      width: '100%',
-                      padding: '10px 14px',
-                      border: '1px solid rgba(146,109,71,0.15)',
-                      fontFamily: "'EB Garamond', serif",
-                      fontSize: '16px',
-                      color: '#1A1208',
-                      outline: 'none',
-                      boxSizing: 'border-box',
-                      background: '#fffdf7',
-                    }}
+                    style={{ width: '100%', padding: '10px 14px', border: '1px solid rgba(146,109,71,0.15)', fontFamily: "'EB Garamond', serif", fontSize: '16px', color: '#1A1208', outline: 'none', boxSizing: 'border-box', background: '#fffdf7' }}
                     onFocus={e => e.target.style.borderColor = '#f3be4a'}
                     onBlur={e => e.target.style.borderColor = 'rgba(146,109,71,0.15)'}
                   />
                 </div>
               ))}
 
-              {/* Preview */}
-              <div style={{
-                marginTop: '24px',
-                padding: '20px 24px',
-                background: 'white',
-                border: '1px solid rgba(146,109,71,0.12)',
-              }}>
-                <p style={{
-                  fontFamily: "'Cinzel', serif",
-                  fontSize: '10px',
-                  letterSpacing: '0.2em',
-                  textTransform: 'uppercase',
-                  color: '#f3be4a',
-                  marginBottom: '12px',
-                }}>
-                  {"Pr\u00e9-visualiza\u00e7\u00e3o das redes"}
-                </p>
-                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px' }}>
-                  {SOCIAL_FIELDS.filter(f => f.key !== 'storeUrl' && f.key !== 'email' && settings[f.key]).map(field => (
-                    <a
-                      key={field.key}
-                      href={settings[field.key]}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      style={{
-                        display: 'flex',
-                        alignItems: 'center',
-                        gap: '6px',
-                        padding: '6px 14px',
-                        border: '1px solid rgba(146,109,71,0.2)',
-                        textDecoration: 'none',
-                        color: '#926d47',
-                        fontFamily: "'Cinzel', serif",
-                        fontSize: '10px',
-                        letterSpacing: '0.1em',
-                        textTransform: 'uppercase',
-                      }}
-                    >
-                      <span>{field.icon}</span>
-                      <span>{field.label}</span>
-                    </a>
-                  ))}
-                  {SOCIAL_FIELDS.filter(f => f.key !== 'storeUrl' && f.key !== 'email' && settings[f.key]).length === 0 && (
-                    <p style={{ color: '#ccc', fontStyle: 'italic', fontSize: '14px' }}>
-                      Nenhuma rede social configurada ainda.
-                    </p>
-                  )}
-                </div>
-              </div>
-
-              {/* Info box */}
-              <div style={{
-                marginTop: '24px',
-                padding: '16px 20px',
-                background: 'rgba(243,190,74,0.08)',
-                border: '1px solid rgba(243,190,74,0.2)',
-                fontSize: '14px',
-                color: '#c99a2e',
-                fontStyle: 'italic',
-                lineHeight: 1.6,
-              }}>
-                {'\u2720'} O link da loja ser\u00e1 usado automaticamente em todos os bot\u00f5es e CTAs do blog. As redes sociais aparecer\u00e3o na barra lateral dos artigos e no rodap\u00e9.
+              <div style={{ marginTop: '24px', padding: '16px 20px', background: 'rgba(243,190,74,0.08)', border: '1px solid rgba(243,190,74,0.2)', fontSize: '14px', color: '#c99a2e', lineHeight: 1.6 }}>
+                Preencha todos os campos desejados e clique em <strong>"Salvar"</strong> uma {'\u00fanica'} vez. Todos os links ser\u00e3o salvos juntos. O blog atualiza ap\u00f3s o pr\u00f3ximo deploy.
               </div>
             </>
           )}
