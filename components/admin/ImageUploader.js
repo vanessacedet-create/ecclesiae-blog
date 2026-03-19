@@ -9,15 +9,6 @@ export default function ImageUploader({ onInsert, onClose }) {
   const [uploadedUrl, setUploadedUrl] = useState(null)
   const fileInputRef = useRef(null)
 
-  function handleDragOver(e) {
-    e.preventDefault()
-    setDragging(true)
-  }
-
-  function handleDragLeave() {
-    setDragging(false)
-  }
-
   function handleDrop(e) {
     e.preventDefault()
     setDragging(false)
@@ -35,18 +26,14 @@ export default function ImageUploader({ onInsert, onClose }) {
       setError('Por favor, selecione apenas imagens (JPG, PNG, WebP, etc.)')
       return
     }
-    if (file.size > 8 * 1024 * 1024) {
-      setError('A imagem deve ter no máximo 8MB.')
+    if (file.size > 10 * 1024 * 1024) {
+      setError('A imagem deve ter no m\u00e1ximo 10MB.')
       return
     }
     setError('')
-
-    // Show local preview
     const reader = new FileReader()
     reader.onload = (e) => setPreview(e.target.result)
     reader.readAsDataURL(file)
-
-    // Auto-fill alt text from filename
     const nameWithoutExt = file.name.replace(/\.[^/.]+$/, '').replace(/[-_]/g, ' ')
     if (!altText) setAltText(nameWithoutExt)
   }
@@ -55,7 +42,6 @@ export default function ImageUploader({ onInsert, onClose }) {
     if (!preview) return
     setUploading(true)
     setError('')
-
     try {
       const res = await fetch('/api/upload', {
         method: 'POST',
@@ -65,19 +51,16 @@ export default function ImageUploader({ onInsert, onClose }) {
           filename: altText ? altText.replace(/\s+/g, '-').toLowerCase() : undefined,
         }),
       })
-
       const data = await res.json()
-
       if (!res.ok) {
-        setError(data.error || 'Erro ao fazer upload.')
+        setError(data.error || 'Erro ao fazer upload. Verifique se o Cloudinary est\u00e1 configurado.')
         setUploading(false)
         return
       }
-
       setUploadedUrl(data.url)
       setUploading(false)
     } catch (e) {
-      setError('Erro de conexão. Tente novamente.')
+      setError('Erro de conex\u00e3o. Tente novamente.')
       setUploading(false)
     }
   }
@@ -98,31 +81,17 @@ export default function ImageUploader({ onInsert, onClose }) {
     }}
       onClick={(e) => e.target === e.currentTarget && onClose()}
     >
-      <div style={{
-        background: '#FAF7F2',
-        width: '100%', maxWidth: '520px',
-        fontFamily: "'EB Garamond', serif",
-      }}>
+      <div style={{ background: '#fffdf7', width: '100%', maxWidth: '520px', fontFamily: "'EB Garamond', serif" }}>
+
         {/* Header */}
         <div style={{
-          background: '#5C1E1E',
-          padding: '16px 24px',
+          background: '#926d47', padding: '16px 24px',
           display: 'flex', alignItems: 'center', justifyContent: 'space-between',
         }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-            <span style={{ color: '#B8943F' }}>✠</span>
-            <span style={{
-              fontFamily: "'Cinzel', serif",
-              fontSize: '11px', letterSpacing: '0.25em',
-              textTransform: 'uppercase', color: '#FAF7F2',
-            }}>
-              Inserir Imagem
-            </span>
-          </div>
-          <button onClick={onClose} style={{
-            background: 'transparent', border: 'none',
-            color: 'rgba(250,247,242,0.5)', cursor: 'pointer', fontSize: '18px',
-          }}>✕</button>
+          <span style={{ fontFamily: "'Cinzel', serif", fontSize: '11px', letterSpacing: '0.25em', textTransform: 'uppercase', color: '#fffdf7' }}>
+            Inserir Imagem
+          </span>
+          <button onClick={onClose} style={{ background: 'transparent', border: 'none', color: 'rgba(255,253,247,0.5)', cursor: 'pointer', fontSize: '18px' }}>{'\u2715'}</button>
         </div>
 
         <div style={{ padding: '28px 28px 24px' }}>
@@ -130,75 +99,43 @@ export default function ImageUploader({ onInsert, onClose }) {
           {/* Drop zone */}
           {!preview && (
             <div
-              onDragOver={handleDragOver}
-              onDragLeave={handleDragLeave}
+              onDragOver={(e) => { e.preventDefault(); setDragging(true) }}
+              onDragLeave={() => setDragging(false)}
               onDrop={handleDrop}
               onClick={() => fileInputRef.current?.click()}
               style={{
-                border: `2px dashed ${dragging ? '#B8943F' : 'rgba(92,30,30,0.25)'}`,
-                background: dragging ? 'rgba(184,148,63,0.05)' : 'white',
-                padding: '48px 24px',
-                textAlign: 'center',
-                cursor: 'pointer',
-                transition: 'all 0.2s',
-                marginBottom: '20px',
+                border: `2px dashed ${dragging ? '#f3be4a' : 'rgba(146,109,71,0.25)'}`,
+                background: dragging ? 'rgba(243,190,74,0.05)' : 'white',
+                padding: '48px 24px', textAlign: 'center',
+                cursor: 'pointer', transition: 'all 0.2s', marginBottom: '20px',
               }}
             >
-              <div style={{ fontSize: '40px', color: 'rgba(184,148,63,0.4)', marginBottom: '12px' }}>🖼</div>
-              <p style={{
-                fontFamily: "'Cinzel', serif",
-                fontSize: '11px', letterSpacing: '0.2em',
-                textTransform: 'uppercase', color: '#5C1E1E',
-                margin: '0 0 6px',
-              }}>
+              <div style={{ fontSize: '40px', color: 'rgba(243,190,74,0.4)', marginBottom: '12px' }}>{'\uD83D\uDDBC'}</div>
+              <p style={{ fontFamily: "'Cinzel', serif", fontSize: '11px', letterSpacing: '0.2em', textTransform: 'uppercase', color: '#926d47', margin: '0 0 6px' }}>
                 Arraste uma imagem aqui
               </p>
               <p style={{ margin: 0, fontSize: '14px', color: '#aaa', fontStyle: 'italic' }}>
-                ou clique para selecionar · JPG, PNG, WebP · até 8MB
+                ou clique para selecionar {'\u00b7'} JPG, PNG, WebP {'\u00b7'} at\u00e9 10MB
               </p>
-              <input
-                ref={fileInputRef}
-                type="file"
-                accept="image/*"
-                onChange={handleFileChange}
-                style={{ display: 'none' }}
-              />
+              <input ref={fileInputRef} type="file" accept="image/*" onChange={handleFileChange} style={{ display: 'none' }} />
             </div>
           )}
 
           {/* Preview */}
           {preview && !uploadedUrl && (
             <div style={{ marginBottom: '20px', position: 'relative' }}>
-              <img
-                src={preview}
-                alt="preview"
-                style={{ width: '100%', maxHeight: '240px', objectFit: 'cover', display: 'block' }}
-              />
-              <button
-                onClick={() => { setPreview(null); setAltText('') }}
-                style={{
-                  position: 'absolute', top: '8px', right: '8px',
-                  background: 'rgba(26,15,10,0.7)', border: 'none',
-                  color: 'white', width: '28px', height: '28px',
-                  cursor: 'pointer', fontSize: '14px',
-                }}
-              >✕</button>
+              <img src={preview} alt="preview" style={{ width: '100%', maxHeight: '240px', objectFit: 'cover', display: 'block' }} />
+              <button onClick={() => { setPreview(null); setAltText('') }}
+                style={{ position: 'absolute', top: '8px', right: '8px', background: 'rgba(26,15,10,0.7)', border: 'none', color: 'white', width: '28px', height: '28px', cursor: 'pointer', fontSize: '14px' }}>{'\u2715'}</button>
             </div>
           )}
 
           {/* Uploaded success */}
           {uploadedUrl && (
             <div style={{ marginBottom: '20px' }}>
-              <img
-                src={uploadedUrl}
-                alt={altText}
-                style={{ width: '100%', maxHeight: '240px', objectFit: 'cover', display: 'block' }}
-              />
-              <div style={{
-                background: '#e8f5e9', padding: '8px 12px',
-                fontSize: '13px', color: '#2e7d32', fontStyle: 'italic',
-              }}>
-                ✓ Imagem enviada com sucesso!
+              <img src={uploadedUrl} alt={altText} style={{ width: '100%', maxHeight: '240px', objectFit: 'cover', display: 'block' }} />
+              <div style={{ background: '#e8f5e9', padding: '8px 12px', fontSize: '13px', color: '#2e7d32', fontStyle: 'italic' }}>
+                {'\u2713'} Imagem enviada com sucesso!
               </div>
             </div>
           )}
@@ -206,82 +143,47 @@ export default function ImageUploader({ onInsert, onClose }) {
           {/* Alt text */}
           {preview && (
             <div style={{ marginBottom: '16px' }}>
-              <label style={{
-                display: 'block',
-                fontFamily: "'Cinzel', serif",
-                fontSize: '10px', letterSpacing: '0.25em',
-                textTransform: 'uppercase', color: '#B8943F', marginBottom: '6px',
-              }}>
-                Texto alternativo (Alt Text)
+              <label style={{ display: 'block', fontFamily: "'Cinzel', serif", fontSize: '10px', letterSpacing: '0.25em', textTransform: 'uppercase', color: '#f3be4a', marginBottom: '6px' }}>
+                Texto alternativo
                 <span style={{ fontFamily: "'EB Garamond', serif", textTransform: 'none', letterSpacing: 0, color: '#aaa', fontSize: '12px', marginLeft: '8px' }}>
-                  — descreve a imagem para acessibilidade e SEO
+                  {'\u2014'} descreve a imagem para acessibilidade e SEO
                 </span>
               </label>
-              <input
-                type="text"
-                value={altText}
-                onChange={e => setAltText(e.target.value)}
-                placeholder="Ex: São Tomás de Aquino com livros"
-                style={{
-                  width: '100%', padding: '10px 14px',
-                  border: '1px solid rgba(92,30,30,0.2)',
-                  fontFamily: "'EB Garamond', serif", fontSize: '16px',
-                  color: '#1A1208', outline: 'none', boxSizing: 'border-box',
-                }}
-              />
+              <input type="text" value={altText} onChange={e => setAltText(e.target.value)}
+                placeholder="Ex: S\u00e3o Tom\u00e1s de Aquino com livros"
+                style={{ width: '100%', padding: '10px 14px', border: '1px solid rgba(146,109,71,0.2)', fontFamily: "'EB Garamond', serif", fontSize: '16px', color: '#1A1208', outline: 'none', boxSizing: 'border-box' }} />
             </div>
           )}
 
           {/* Error */}
           {error && (
-            <p style={{ color: '#c62828', fontStyle: 'italic', fontSize: '14px', margin: '0 0 16px' }}>
-              {error}
-            </p>
+            <p style={{ color: '#c62828', fontStyle: 'italic', fontSize: '14px', margin: '0 0 16px' }}>{error}</p>
           )}
 
           {/* Actions */}
           <div style={{ display: 'flex', gap: '10px', justifyContent: 'flex-end' }}>
             <button onClick={onClose} style={{
-              background: 'transparent',
-              border: '1px solid rgba(92,30,30,0.25)',
-              color: '#5C1E1E', padding: '10px 20px',
-              fontFamily: "'Cinzel', serif", fontSize: '10px',
+              background: 'transparent', border: '1px solid rgba(146,109,71,0.25)', color: '#926d47',
+              padding: '10px 20px', fontFamily: "'Cinzel', serif", fontSize: '10px',
               letterSpacing: '0.2em', textTransform: 'uppercase', cursor: 'pointer',
-            }}>
-              Cancelar
-            </button>
+            }}>Cancelar</button>
 
             {preview && !uploadedUrl && (
-              <button
-                onClick={handleUpload}
-                disabled={uploading}
-                style={{
-                  background: uploading ? 'rgba(184,148,63,0.5)' : '#B8943F',
-                  border: 'none', color: '#1a0f0a',
-                  padding: '10px 24px',
-                  fontFamily: "'Cinzel', serif", fontSize: '10px',
-                  fontWeight: '600', letterSpacing: '0.2em',
-                  textTransform: 'uppercase',
-                  cursor: uploading ? 'not-allowed' : 'pointer',
-                }}
-              >
-                {uploading ? 'Enviando...' : 'Enviar Imagem'}
-              </button>
+              <button onClick={handleUpload} disabled={uploading} style={{
+                background: uploading ? 'rgba(243,190,74,0.5)' : '#f3be4a',
+                border: 'none', color: '#1a0f0a', padding: '10px 24px',
+                fontFamily: "'Cinzel', serif", fontSize: '10px', fontWeight: '600',
+                letterSpacing: '0.2em', textTransform: 'uppercase',
+                cursor: uploading ? 'not-allowed' : 'pointer',
+              }}>{uploading ? 'Enviando...' : 'Enviar Imagem'}</button>
             )}
 
             {uploadedUrl && (
-              <button
-                onClick={handleInsert}
-                style={{
-                  background: '#5C1E1E', border: 'none', color: '#FAF7F2',
-                  padding: '10px 24px',
-                  fontFamily: "'Cinzel', serif", fontSize: '10px',
-                  fontWeight: '600', letterSpacing: '0.2em',
-                  textTransform: 'uppercase', cursor: 'pointer',
-                }}
-              >
-                Inserir no Post
-              </button>
+              <button onClick={handleInsert} style={{
+                background: '#926d47', border: 'none', color: '#fffdf7',
+                padding: '10px 24px', fontFamily: "'Cinzel', serif", fontSize: '10px',
+                fontWeight: '600', letterSpacing: '0.2em', textTransform: 'uppercase', cursor: 'pointer',
+              }}>Inserir no Post</button>
             )}
           </div>
         </div>
