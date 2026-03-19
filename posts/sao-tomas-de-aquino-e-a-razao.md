@@ -7,6 +7,7 @@ author: "Redação Ecclesiae"
 excerpt: "O Doutor Angélico nos ensina que razão e fé não se contradizem: ao contrário, a filosofia, bem ordenada, conduz à teologia."
 slug: "sao-tomas-de-aquino-e-a-razao"
 status: "draft"
+coverImage: "https://www.ctsbooks.org/wp-content/uploads/2022/01/aquinas-Blog-Banner.jpg"
 ---
 
 Em 28 de janeiro, a Igreja celebra a memória de São Tomás de Aquino, o *Doctor Angelicus*, um dos maiores intelectos que o catolicismo já produziu. Sua obra monumental, a *Suma Teológica*, continua sendo referência incontornável para a filosofia e a teologia cristãs.
