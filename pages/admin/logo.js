@@ -4,15 +4,20 @@ import { useRouter } from 'next/router'
 import Head from 'next/head'
 import Link from 'next/link'
 
+const ACCEPTED_FORMATS = '.png,.jpg,.jpeg,.svg,.webp'
+const MAX_SIZE_MB = 10
+
 export default function AdminLogo() {
   const { data: session, status } = useSession()
   const router = useRouter()
   const [logoUrl, setLogoUrl] = useState(null)
+  const [logoExt, setLogoExt] = useState(null)
   const [sha, setSha] = useState(null)
   const [loading, setLoading] = useState(true)
   const [uploading, setUploading] = useState(false)
   const [preview, setPreview] = useState(null)
   const [previewBase64, setPreviewBase64] = useState(null)
+  const [previewMime, setPreviewMime] = useState(null)
   const [saved, setSaved] = useState(false)
   const [dragOver, setDragOver] = useState(false)
   const fileInputRef = useRef(null)
@@ -33,6 +38,7 @@ export default function AdminLogo() {
       if (data.exists) {
         setLogoUrl(data.download_url + '?t=' + Date.now())
         setSha(data.sha)
+        setLogoExt(data.ext)
       }
     } catch (e) {
       console.error('Erro ao carregar logo:', e)
@@ -42,21 +48,21 @@ export default function AdminLogo() {
 
   function handleFileSelect(file) {
     if (!file) return
-    if (!file.type.includes('png')) {
-      alert('Por favor, envie apenas arquivos PNG com fundo transparente.')
+    const validTypes = ['image/png', 'image/jpeg', 'image/svg+xml', 'image/webp']
+    if (!validTypes.includes(file.type)) {
+      alert('Formato n\u00e3o suportado. Use PNG, JPG, SVG ou WebP.')
       return
     }
-    if (file.size > 5 * 1024 * 1024) {
-      alert('A imagem deve ter no m\u00e1ximo 5MB.')
+    if (file.size > MAX_SIZE_MB * 1024 * 1024) {
+      alert(`A imagem deve ter no m\u00e1ximo ${MAX_SIZE_MB}MB.`)
       return
     }
-
     const reader = new FileReader()
     reader.onload = (e) => {
       setPreview(e.target.result)
-      // Extract pure base64 (remove data:image/png;base64, prefix)
       const base64 = e.target.result.split(',')[1]
       setPreviewBase64(base64)
+      setPreviewMime(file.type)
     }
     reader.readAsDataURL(file)
   }
@@ -64,18 +70,7 @@ export default function AdminLogo() {
   function handleDrop(e) {
     e.preventDefault()
     setDragOver(false)
-    const file = e.dataTransfer.files[0]
-    handleFileSelect(file)
-  }
-
-  function handleDragOver(e) {
-    e.preventDefault()
-    setDragOver(true)
-  }
-
-  function handleDragLeave(e) {
-    e.preventDefault()
-    setDragOver(false)
+    handleFileSelect(e.dataTransfer.files[0])
   }
 
   async function handleUpload() {
@@ -85,7 +80,12 @@ export default function AdminLogo() {
       const res = await fetch('/api/logo', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ base64Content: previewBase64, sha }),
+        body: JSON.stringify({
+          base64Content: previewBase64,
+          sha,
+          mimeType: previewMime,
+          oldExt: logoExt,
+        }),
       })
       const data = await res.json()
       if (res.ok) {
@@ -93,6 +93,7 @@ export default function AdminLogo() {
         setTimeout(() => setSaved(false), 3000)
         setPreview(null)
         setPreviewBase64(null)
+        setPreviewMime(null)
         await fetchLogo()
       } else {
         alert('Erro ao salvar: ' + data.error)
@@ -111,13 +112,12 @@ export default function AdminLogo() {
       const res = await fetch('/api/logo', {
         method: 'DELETE',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ sha }),
+        body: JSON.stringify({ sha, ext: logoExt }),
       })
       if (res.ok) {
         setLogoUrl(null)
         setSha(null)
-        setSaved(true)
-        setTimeout(() => setSaved(false), 3000)
+        setLogoExt(null)
       } else {
         const data = await res.json()
         alert('Erro ao remover: ' + data.error)
@@ -131,6 +131,7 @@ export default function AdminLogo() {
   function cancelPreview() {
     setPreview(null)
     setPreviewBase64(null)
+    setPreviewMime(null)
     if (fileInputRef.current) fileInputRef.current.value = ''
   }
 
@@ -140,340 +141,75 @@ export default function AdminLogo() {
     <>
       <Head>
         <title>Logo do Blog &mdash; CMS Ecclesiae</title>
-        <link
-          href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap"
-          rel="stylesheet"
-        />
+        <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet" />
       </Head>
-
       <div style={{ minHeight: '100vh', background: '#fffdf7', fontFamily: "'EB Garamond', serif" }}>
-
-        {/* Header */}
-        <header style={{
-          background: '#926d47',
-          borderBottom: '2px solid #f3be4a',
-          padding: '0 32px',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'space-between',
-          height: '64px',
-          position: 'sticky',
-          top: 0,
-          zIndex: 100,
-        }}>
+        <header style={{ background: '#926d47', borderBottom: '2px solid #f3be4a', padding: '0 32px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: '64px', position: 'sticky', top: 0, zIndex: 100 }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-            <Link href="/admin" style={{
-              color: 'rgba(250,247,242,0.6)',
-              textDecoration: 'none',
-              fontFamily: "'Cinzel', serif",
-              fontSize: '10px',
-              letterSpacing: '0.2em',
-              textTransform: 'uppercase',
-            }}>
-              {'\u2190 Voltar'}
-            </Link>
-            <span style={{ color: 'rgba(184,148,63,0.4)' }}>|</span>
-            <span style={{
-              fontFamily: "'Cinzel', serif",
-              fontSize: '12px',
-              color: '#fffdf7',
-              letterSpacing: '0.15em',
-            }}>
-              {'\U0001f3a8'} Logo do Blog
-            </span>
+            <Link href="/admin" style={{ color: 'rgba(255,253,247,0.6)', textDecoration: 'none', fontFamily: "'Cinzel', serif", fontSize: '10px', letterSpacing: '0.2em', textTransform: 'uppercase' }}>{'\u2190 Voltar'}</Link>
+            <span style={{ color: 'rgba(243,190,74,0.4)' }}>|</span>
+            <span style={{ fontFamily: "'Cinzel', serif", fontSize: '12px', color: '#fffdf7', letterSpacing: '0.15em' }}>Logo do Blog</span>
           </div>
-          {saved && (
-            <span style={{
-              fontFamily: "'Cinzel', serif",
-              fontSize: '11px',
-              color: '#f3be4a',
-              letterSpacing: '0.1em',
-            }}>
-              {'\u2713'} Salvo com sucesso!
-            </span>
-          )}
+          {saved && <span style={{ fontFamily: "'Cinzel', serif", fontSize: '11px', color: '#f3be4a', letterSpacing: '0.1em' }}>{'\u2713 Salvo!'}</span>}
         </header>
 
         <div style={{ maxWidth: '680px', margin: '0 auto', padding: '48px 24px' }}>
-
-          {/* Page title */}
           <div style={{ marginBottom: '36px' }}>
-            <h1 style={{
-              fontFamily: "'Cinzel', serif",
-              fontSize: '24px',
-              fontWeight: '600',
-              color: '#926d47',
-              margin: '0 0 8px',
-            }}>
-              Logo do Blog
-            </h1>
-            <p style={{
-              margin: 0,
-              color: '#888',
-              fontStyle: 'italic',
-              fontSize: '16px',
-            }}>
-              Envie uma imagem PNG com fundo transparente. Ela aparecer\u00e1 no cabe\u00e7alho do blog.
+            <h1 style={{ fontFamily: "'Cinzel', serif", fontSize: '24px', fontWeight: '600', color: '#926d47', margin: '0 0 8px' }}>Logo do Blog</h1>
+            <p style={{ margin: 0, color: '#888', fontStyle: 'italic', fontSize: '16px' }}>
+              Envie uma imagem em PNG, JPG, SVG ou WebP (at\u00e9 10MB). Ela aparecer\u00e1 no cabe\u00e7alho do blog.
             </p>
           </div>
 
-          {/* Current logo */}
           {loading ? (
-            <div style={{
-              textAlign: 'center',
-              padding: '60px',
-              color: '#f3be4a',
-            }}>
-              <div style={{ fontSize: '28px', marginBottom: '12px' }}>{'\u2720'}</div>
+            <div style={{ textAlign: 'center', padding: '60px', color: '#f3be4a' }}>
               <p style={{ fontStyle: 'italic', color: '#888' }}>Carregando...</p>
             </div>
           ) : (
             <>
-              {/* Logo atual */}
               {logoUrl && !preview && (
-                <div style={{
-                  background: 'white',
-                  border: '1px solid rgba(92,30,30,0.12)',
-                  padding: '24px',
-                  marginBottom: '24px',
-                }}>
-                  <label style={{
-                    display: 'block',
-                    fontFamily: "'Cinzel', serif",
-                    fontSize: '10px',
-                    letterSpacing: '0.25em',
-                    textTransform: 'uppercase',
-                    color: '#f3be4a',
-                    marginBottom: '16px',
-                  }}>
-                    Logo Atual
-                  </label>
-                  <div style={{
-                    background: 'repeating-conic-gradient(#f0f0f0 0% 25%, white 0% 50%) 50% / 20px 20px',
-                    padding: '32px',
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    border: '1px solid rgba(92,30,30,0.08)',
-                    marginBottom: '16px',
-                  }}>
-                    <img
-                      src={logoUrl}
-                      alt="Logo atual"
-                      style={{ maxHeight: '80px', maxWidth: '100%' }}
-                    />
+                <div style={{ background: 'white', border: '1px solid rgba(146,109,71,0.12)', padding: '24px', marginBottom: '24px' }}>
+                  <label style={{ display: 'block', fontFamily: "'Cinzel', serif", fontSize: '10px', letterSpacing: '0.25em', textTransform: 'uppercase', color: '#f3be4a', marginBottom: '16px' }}>Logo Atual</label>
+                  <div style={{ background: 'repeating-conic-gradient(#f0f0f0 0% 25%, white 0% 50%) 50% / 20px 20px', padding: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', border: '1px solid rgba(146,109,71,0.08)', marginBottom: '16px' }}>
+                    <img src={logoUrl} alt="Logo atual" style={{ maxHeight: '80px', maxWidth: '100%' }} />
                   </div>
-                  <button
-                    onClick={handleDelete}
-                    disabled={uploading}
-                    style={{
-                      background: 'transparent',
-                      border: '1px solid rgba(198,40,40,0.3)',
-                      color: '#c62828',
-                      fontFamily: "'Cinzel', serif",
-                      fontSize: '10px',
-                      fontWeight: '600',
-                      letterSpacing: '0.15em',
-                      textTransform: 'uppercase',
-                      padding: '8px 16px',
-                      cursor: uploading ? 'not-allowed' : 'pointer',
-                    }}
-                  >
-                    Remover Logo
-                  </button>
+                  <button onClick={handleDelete} disabled={uploading} style={{ background: 'transparent', border: '1px solid rgba(198,40,40,0.3)', color: '#c62828', fontFamily: "'Cinzel', serif", fontSize: '10px', fontWeight: '600', letterSpacing: '0.15em', textTransform: 'uppercase', padding: '8px 16px', cursor: uploading ? 'not-allowed' : 'pointer' }}>Remover Logo</button>
                 </div>
               )}
 
-              {/* Preview da nova logo */}
               {preview && (
-                <div style={{
-                  background: 'white',
-                  border: '2px solid #f3be4a',
-                  padding: '24px',
-                  marginBottom: '24px',
-                }}>
-                  <label style={{
-                    display: 'block',
-                    fontFamily: "'Cinzel', serif",
-                    fontSize: '10px',
-                    letterSpacing: '0.25em',
-                    textTransform: 'uppercase',
-                    color: '#f3be4a',
-                    marginBottom: '16px',
-                  }}>
-                    Pr\u00e9-visualiza\u00e7\u00e3o
-                  </label>
-                  <div style={{
-                    background: 'repeating-conic-gradient(#f0f0f0 0% 25%, white 0% 50%) 50% / 20px 20px',
-                    padding: '32px',
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    border: '1px solid rgba(92,30,30,0.08)',
-                    marginBottom: '16px',
-                  }}>
-                    <img
-                      src={preview}
-                      alt="Preview da logo"
-                      style={{ maxHeight: '80px', maxWidth: '100%' }}
-                    />
+                <div style={{ background: 'white', border: '2px solid #f3be4a', padding: '24px', marginBottom: '24px' }}>
+                  <label style={{ display: 'block', fontFamily: "'Cinzel', serif", fontSize: '10px', letterSpacing: '0.25em', textTransform: 'uppercase', color: '#f3be4a', marginBottom: '16px' }}>{'Pr\u00e9-visualiza\u00e7\u00e3o'}</label>
+                  <div style={{ background: 'repeating-conic-gradient(#f0f0f0 0% 25%, white 0% 50%) 50% / 20px 20px', padding: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', border: '1px solid rgba(146,109,71,0.08)', marginBottom: '16px' }}>
+                    <img src={preview} alt="Preview" style={{ maxHeight: '80px', maxWidth: '100%' }} />
                   </div>
-
-                  {/* Preview in header mockup */}
-                  <label style={{
-                    display: 'block',
-                    fontFamily: "'Cinzel', serif",
-                    fontSize: '10px',
-                    letterSpacing: '0.25em',
-                    textTransform: 'uppercase',
-                    color: '#f3be4a',
-                    marginBottom: '12px',
-                  }}>
-                    Como fica no blog
-                  </label>
-                  <div style={{
-                    background: 'white',
-                    border: '1px solid #e5e5e5',
-                    padding: '16px 24px',
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: '32px',
-                    marginBottom: '20px',
-                    overflow: 'hidden',
-                  }}>
-                    <img
-                      src={preview}
-                      alt="Preview no header"
-                      style={{ height: '40px', width: 'auto' }}
-                    />
-                    <div style={{
-                      display: 'flex',
-                      gap: '24px',
-                      fontFamily: "'Cinzel', serif",
-                      fontSize: '9px',
-                      letterSpacing: '0.2em',
-                      textTransform: 'uppercase',
-                      color: '#999',
-                    }}>
-                      <span>{'In\u00edcio'}</span>
-                      <span>Categorias</span>
-                      <span>Sobre</span>
+                  <label style={{ display: 'block', fontFamily: "'Cinzel', serif", fontSize: '10px', letterSpacing: '0.25em', textTransform: 'uppercase', color: '#f3be4a', marginBottom: '12px' }}>Como fica no blog</label>
+                  <div style={{ background: 'white', border: '1px solid #e5e5e5', padding: '16px 24px', display: 'flex', alignItems: 'center', gap: '32px', marginBottom: '20px', overflow: 'hidden' }}>
+                    <img src={preview} alt="Preview no header" style={{ height: '40px', width: 'auto' }} />
+                    <div style={{ display: 'flex', gap: '24px', fontFamily: "'Cinzel', serif", fontSize: '9px', letterSpacing: '0.2em', textTransform: 'uppercase', color: '#999', fontWeight: '600' }}>
+                      <span>{'In\u00edcio'}</span><span>Categorias</span><span>Sobre</span>
                     </div>
                   </div>
-
                   <div style={{ display: 'flex', gap: '10px' }}>
-                    <button
-                      onClick={handleUpload}
-                      disabled={uploading}
-                      style={{
-                        background: uploading ? 'rgba(184,148,63,0.5)' : '#f3be4a',
-                        border: 'none',
-                        color: '#1a0f0a',
-                        fontFamily: "'Cinzel', serif",
-                        fontSize: '10px',
-                        fontWeight: '600',
-                        letterSpacing: '0.2em',
-                        textTransform: 'uppercase',
-                        padding: '10px 24px',
-                        cursor: uploading ? 'not-allowed' : 'pointer',
-                      }}
-                    >
-                      {uploading ? 'Enviando...' : 'Salvar Logo'}
-                    </button>
-                    <button
-                      onClick={cancelPreview}
-                      disabled={uploading}
-                      style={{
-                        background: 'transparent',
-                        border: '1px solid rgba(92,30,30,0.2)',
-                        color: '#926d47',
-                        fontFamily: "'Cinzel', serif",
-                        fontSize: '10px',
-                        fontWeight: '600',
-                        letterSpacing: '0.15em',
-                        textTransform: 'uppercase',
-                        padding: '10px 20px',
-                        cursor: 'pointer',
-                      }}
-                    >
-                      Cancelar
-                    </button>
+                    <button onClick={handleUpload} disabled={uploading} style={{ background: uploading ? 'rgba(243,190,74,0.5)' : '#f3be4a', border: 'none', color: '#1a0f0a', fontFamily: "'Cinzel', serif", fontSize: '10px', fontWeight: '600', letterSpacing: '0.2em', textTransform: 'uppercase', padding: '10px 24px', cursor: uploading ? 'not-allowed' : 'pointer' }}>{uploading ? 'Enviando...' : 'Salvar Logo'}</button>
+                    <button onClick={cancelPreview} disabled={uploading} style={{ background: 'transparent', border: '1px solid rgba(146,109,71,0.2)', color: '#926d47', fontFamily: "'Cinzel', serif", fontSize: '10px', fontWeight: '600', letterSpacing: '0.15em', textTransform: 'uppercase', padding: '10px 20px', cursor: 'pointer' }}>Cancelar</button>
                   </div>
                 </div>
               )}
 
-              {/* Upload area */}
               {!preview && (
-                <div
-                  onDrop={handleDrop}
-                  onDragOver={handleDragOver}
-                  onDragLeave={handleDragLeave}
-                  onClick={() => fileInputRef.current?.click()}
-                  style={{
-                    background: dragOver ? 'rgba(184,148,63,0.08)' : 'white',
-                    border: dragOver
-                      ? '2px dashed #f3be4a'
-                      : '2px dashed rgba(92,30,30,0.15)',
-                    padding: '48px 24px',
-                    textAlign: 'center',
-                    cursor: 'pointer',
-                    transition: 'all 0.2s',
-                    marginBottom: '24px',
-                  }}
-                >
-                  <div style={{
-                    fontSize: '36px',
-                    marginBottom: '12px',
-                    color: dragOver ? '#f3be4a' : '#ccc',
-                  }}>
-                    {'\u2191'}
-                  </div>
-                  <p style={{
-                    fontFamily: "'Cinzel', serif",
-                    fontSize: '13px',
-                    fontWeight: '600',
-                    letterSpacing: '0.1em',
-                    color: '#926d47',
-                    margin: '0 0 6px',
-                  }}>
-                    {logoUrl ? 'Trocar Logo' : 'Enviar Logo'}
-                  </p>
-                  <p style={{
-                    fontSize: '14px',
-                    color: '#999',
-                    fontStyle: 'italic',
-                    margin: 0,
-                  }}>
-                    Arraste uma imagem PNG aqui ou clique para selecionar
-                  </p>
-                  <p style={{
-                    fontSize: '12px',
-                    color: '#bbb',
-                    margin: '8px 0 0',
-                  }}>
-                    {'M\u00e1ximo 5MB \u00b7 Formato PNG com fundo transparente'}
-                  </p>
-                  <input
-                    ref={fileInputRef}
-                    type="file"
-                    accept="image/png"
-                    style={{ display: 'none' }}
-                    onChange={(e) => handleFileSelect(e.target.files[0])}
-                  />
+                <div onDrop={handleDrop} onDragOver={(e) => { e.preventDefault(); setDragOver(true) }} onDragLeave={(e) => { e.preventDefault(); setDragOver(false) }} onClick={() => fileInputRef.current?.click()}
+                  style={{ background: dragOver ? 'rgba(243,190,74,0.08)' : 'white', border: dragOver ? '2px dashed #f3be4a' : '2px dashed rgba(146,109,71,0.15)', padding: '48px 24px', textAlign: 'center', cursor: 'pointer', transition: 'all 0.2s', marginBottom: '24px' }}>
+                  <div style={{ fontSize: '36px', marginBottom: '12px', color: dragOver ? '#f3be4a' : '#ccc' }}>{'\u2191'}</div>
+                  <p style={{ fontFamily: "'Cinzel', serif", fontSize: '13px', fontWeight: '600', letterSpacing: '0.1em', color: '#926d47', margin: '0 0 6px' }}>{logoUrl ? 'Trocar Logo' : 'Enviar Logo'}</p>
+                  <p style={{ fontSize: '14px', color: '#999', fontStyle: 'italic', margin: 0 }}>Arraste uma imagem aqui ou clique para selecionar</p>
+                  <p style={{ fontSize: '12px', color: '#bbb', margin: '8px 0 0' }}>{`M\u00e1ximo ${MAX_SIZE_MB}MB \u00b7 PNG, JPG, SVG ou WebP`}</p>
+                  <input ref={fileInputRef} type="file" accept={ACCEPTED_FORMATS} style={{ display: 'none' }} onChange={(e) => handleFileSelect(e.target.files[0])} />
                 </div>
               )}
 
-              {/* Info box */}
-              <div style={{
-                padding: '16px 20px',
-                background: 'rgba(184,148,63,0.08)',
-                border: '1px solid rgba(184,148,63,0.2)',
-                fontSize: '14px',
-                color: '#c99a2e',
-                fontStyle: 'italic',
-                lineHeight: 1.6,
-              }}>
-                {'\u2720'} A logo aparece no cabe\u00e7alho de todas as p\u00e1ginas do blog. Use uma imagem PNG com fundo transparente para melhor resultado. O blog atualiza automaticamente ap\u00f3s o deploy.
+              <div style={{ padding: '16px 20px', background: 'rgba(243,190,74,0.08)', border: '1px solid rgba(243,190,74,0.2)', fontSize: '14px', color: '#c99a2e', fontStyle: 'italic', lineHeight: 1.6 }}>
+                A logo aparece no cabe\u00e7alho de todas as p\u00e1ginas do blog. Para melhor resultado, use fundo transparente (PNG ou SVG). O blog atualiza ap\u00f3s o pr\u00f3ximo deploy.
               </div>
             </>
           )}
