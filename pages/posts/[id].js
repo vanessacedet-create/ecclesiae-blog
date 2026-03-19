@@ -99,11 +99,9 @@ export default function Post({ postData, categorias, relatedPosts, recentPosts, 
             <div className="post-content prose-ecclesiae"
               dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
 
-            {/* End ornament */}
-            <div className="flex items-center justify-center gap-4 mt-16 mb-10">
-              <div className="h-px w-16 bg-gradient-to-r from-transparent to-gold/40" />
-              <span className="text-gold text-sm font-display">E</span>
-              <div className="h-px w-16 bg-gradient-to-l from-transparent to-gold/40" />
+            {/* End divider */}
+            <div className="flex items-center justify-center mt-16 mb-10">
+              <div className="h-px w-full bg-gray-200" />
             </div>
 
             {/* Navigation */}
@@ -127,11 +125,14 @@ export default function Post({ postData, categorias, relatedPosts, recentPosts, 
             </div>
           </div>
         </div>
+
+        {/* Full-width divider aligning article and sidebar */}
+        <div className="h-px bg-gray-200 mt-6 mb-4" />
       </div>
 
-      {/* Related Posts - using equal-height 'related' variant */}
+      {/* Related Posts */}
       {relatedPosts && relatedPosts.length > 0 && (
-        <section className="max-w-6xl mx-auto px-6 pt-4 pb-20">
+        <section className="max-w-6xl mx-auto px-6 pt-8 pb-20">
           <div className="flex items-center gap-4 mb-8">
             <div className="h-px flex-1 bg-gray-200" />
             <h2 className="font-display text-xs tracking-[0.3em] uppercase text-burgundy font-semibold flex-shrink-0">
