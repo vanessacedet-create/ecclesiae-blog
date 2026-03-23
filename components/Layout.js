@@ -1,7 +1,6 @@
 import Header from './Header'
 import Footer from './Footer'
 import Head from 'next/head'
-import Script from 'next/script'
 
 export default function Layout({ children, title, description, categorias = [], settings = {} }) {
   const siteTitle = title
@@ -13,20 +12,6 @@ export default function Layout({ children, title, description, categorias = [], 
 
   return (
     <>
-      {/* Google Analytics */}
-      <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-F162WWF7XQ"
-        strategy="afterInteractive"
-      />
-      <Script id="google-analytics" strategy="afterInteractive">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-F162WWF7XQ');
-        `}
-      </Script>
-
       <Head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
