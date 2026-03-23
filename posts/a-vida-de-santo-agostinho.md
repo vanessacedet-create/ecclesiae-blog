@@ -19,6 +19,10 @@ A sua vida, imortalizada nas páginas das “Confissões” refletem uma profund
 
 ---
 
+
+![Carlo Cignani - Saint Augustine](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/carlo-cignani---saint-augustine-1774271292528.jpg)
+
+
 ### O peso das paixões em sua vida
 
 Embora tenha sido assinalado com o sinal da Cruz e provado o sal da salvação desde a tenra infância, o jovem Agostinho passou por uma grave enfermidade que quase o levou à morte, ocasião em que pediu os Sacramentos; contudo, a súbita recuperação fez com que seu batismo fosse adiado.
