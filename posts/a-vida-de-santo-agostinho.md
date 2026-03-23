@@ -1,6 +1,9 @@
 ---
 title: "A vida de Santo Agostinho"
 date: "2026-03-23"
+categories: ["Vida dos santos"]
+category: "Vida dos santos"
+author: "Redação Ecclesiae"
 slug: "a-vida-de-santo-agostinho"
 status: "draft"
 metaTitle: "A vida de Santo Agostinho"
