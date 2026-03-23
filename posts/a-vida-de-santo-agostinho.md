@@ -42,6 +42,10 @@ O primeiro grande ponto de virada na alma de Santo Agostinho ocorreu aos dezenov
 Entretanto, a caminhada rumo à luz ainda seria tortuosa. Agostinho tornou-se professor de retórica, ensinando em Tagaste e Cartago. Desiludido com a indisciplina e o desregramento dos estudantes, que invadiam as aulas e subvertiam a ordem com “admirável estupidez”, decidiu partir para Roma em busca de um ambiente mais propício ao ensino e de maiores honrarias. Na capital do Império, porém, foi acometido por uma doença gravíssima, aproximando-se das portas da morte e carregando consigo o peso do pecado original e de suas próprias culpas, ainda não redimidas pela Cruz de Cristo.
 
 
+
+![Antonio Rodríguez  - Saint Augustine](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/antonio-rodr-guez---saint-augustine-1774271496659.jpg)
+
+
 ### A Luz da Graça em Milão e a Purificação do Entendimento
 
 A Providência, guiando os passos do jovem orador, conduziu-o de Roma a Milão, onde assumiu o prestigioso cargo de orador da corte imperial. Ali, a Igreja aguardava por ele na pessoa de seu zeloso pastor, o Bispo Santo Ambrósio.
