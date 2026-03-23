@@ -60,7 +60,7 @@ export default function PostCard({
           )}
           <div className="p-5 flex-1 flex flex-col">
             {category && (
-              <span className="inline-block font-display text-xs tracking-[0.25em] uppercase text-burgundy font-semibold mb-2 border border-burgundy/25 px-3 py-1">
+              <span className="inline-block font-display tracking-[0.2em] uppercase text-burgundy font-semibold mb-2 border border-burgundy/25 px-2.5 py-0.5" style={{ fontSize: '10px' }}>
                 {category}
               </span>
             )}
