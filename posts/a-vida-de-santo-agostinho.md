@@ -7,7 +7,6 @@ author: "Redação Ecclesiae"
 excerpt: "O Doutor da Graça que, resgatado do erro, teve seu intelecto iluminado pela Verdade e seu coração rendido pelo amor de Deus."
 slug: "a-vida-de-santo-agostinho"
 status: "draft"
-coverImage: "https://sfcatholic.org/bishopsbulletin/wp-content/uploads/2020/01/St.-Augustine.jpg"
 metaTitle: "A vida de Santo Agostinho"
 metaDescription: "O Doutor da Graça que, resgatado do erro, teve seu intelecto iluminado pela Verdade e seu coração rendido pelo amor de Deus."
 tags: ["Santo", "Vida"]
