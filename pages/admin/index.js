@@ -14,17 +14,59 @@ export default function AdminDashboard({ posts: initialPosts }) {
     if (status === 'unauthenticated') router.push('/admin/login')
   }, [status])
 
-  async function handleDelete(post) {
-    if (!confirm(`Tem certeza que deseja excluir "${post.title}"?`)) return
+  const [showDeleteConfirm, setShowDeleteConfirm] = useState(null)
+
+  async function handleArchive(post) {
+    setDeleting(post.id)
+    try {
+      // Instead of deleting, change status to 'archived' (draft)
+      const res = await fetch('/api/github/save', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          title: post.title,
+          date: post.date,
+          category: post.category,
+          categories: post.categories || (post.category ? [post.category] : []),
+          author: post.author || '',
+          excerpt: post.excerpt || '',
+          body: post.bodyPreview ? post.bodyPreview.replace('...', '') : '',
+          slug: post.id,
+          status: 'archived',
+          coverImage: post.coverImage || '',
+          coverPosition: post.coverPosition || '',
+          metaTitle: post.metaTitle || '',
+          metaDescription: post.metaDescription || '',
+          tags: Array.isArray(post.tags) ? post.tags : [],
+          scheduledAt: post.scheduledAt || '',
+          sha: post.sha,
+        }),
+      })
+      if (res.ok) {
+        // Update local state to reflect archived status
+        setPosts(posts.map(p => p.id === post.id ? { ...p, status: 'archived' } : p))
+        setShowDeleteConfirm(null)
+      } else {
+        const data = await res.json()
+        alert('Erro ao arquivar: ' + (data.error || 'Tente novamente'))
+      }
+    } catch (e) {
+      alert('Erro ao arquivar: ' + e.message)
+    }
+    setDeleting(null)
+  }
+
+  async function handlePermanentDelete(post) {
     setDeleting(post.id)
     try {
       const res = await fetch('/api/github/delete', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ path: post.path, sha: post.sha, title: post.title }),
+        body: JSON.stringify({ path: post.path || `posts/${post.id}.md`, sha: post.sha, title: post.title }),
       })
       if (res.ok) {
         setPosts(posts.filter(p => p.id !== post.id))
+        setShowDeleteConfirm(null)
       } else {
         const data = await res.json()
         alert('Erro ao excluir: ' + (data.error || 'Tente novamente'))
@@ -214,6 +256,7 @@ export default function AdminDashboard({ posts: initialPosts }) {
                       borderRadius: '50%',
                       background: post.status === 'published' ? '#4caf50'
                         : post.status === 'scheduled' ? '#f3be4a'
+                        : post.status === 'archived' ? '#e57373'
                         : '#ccc',
                       flexShrink: 0,
                     }} />
@@ -263,10 +306,10 @@ export default function AdminDashboard({ posts: initialPosts }) {
                         <span style={{ fontSize: '12px', color: '#bbb' }}>{post.date}</span>
                         <span style={{
                           fontSize: '10px',
-                          color: post.status === 'published' ? '#4caf50' : '#f3be4a',
+                          color: post.status === 'published' ? '#4caf50' : post.status === 'archived' ? '#e57373' : '#f3be4a',
                           fontStyle: 'italic',
                         }}>
-                          {post.status === 'published' ? 'Publicado' : post.status === 'scheduled' ? 'Agendado' : 'Rascunho'}
+                          {post.status === 'published' ? 'Publicado' : post.status === 'scheduled' ? 'Agendado' : post.status === 'archived' ? 'Arquivado' : 'Rascunho'}
                         </span>
                       </div>
                     </div>
@@ -288,7 +331,7 @@ export default function AdminDashboard({ posts: initialPosts }) {
                         Editar
                       </Link>
                       <button
-                        onClick={() => handleDelete(post)}
+                        onClick={() => setShowDeleteConfirm(post)}
                         disabled={deleting === post.id}
                         style={{
                           padding: '6px 12px',
@@ -325,6 +368,92 @@ export default function AdminDashboard({ posts: initialPosts }) {
             {'\u2720'} Use os cards acima para criar artigos, gerenciar categorias, trocar a logo ou visualizar o blog.
           </div>
         </div>
+
+        {/* Delete confirmation modal */}
+        {showDeleteConfirm && (
+          <div style={{
+            position: 'fixed', inset: 0, zIndex: 1000,
+            background: 'rgba(26,15,10,0.7)',
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
+            padding: '24px',
+          }}
+            onClick={(e) => e.target === e.currentTarget && setShowDeleteConfirm(null)}
+          >
+            <div style={{
+              background: '#fffdf7', width: '100%', maxWidth: '440px',
+              fontFamily: "'EB Garamond', serif",
+            }}>
+              <div style={{
+                background: '#926d47', padding: '16px 24px',
+                display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+              }}>
+                <span style={{ fontFamily: "'Cinzel', serif", fontSize: '11px', letterSpacing: '0.25em', textTransform: 'uppercase', color: '#fffdf7' }}>
+                  Excluir artigo
+                </span>
+                <button onClick={() => setShowDeleteConfirm(null)} style={{ background: 'transparent', border: 'none', color: 'rgba(255,253,247,0.5)', cursor: 'pointer', fontSize: '18px' }}>{'\u2715'}</button>
+              </div>
+
+              <div style={{ padding: '28px' }}>
+                <p style={{ fontSize: '18px', color: '#1A1208', margin: '0 0 6px', fontWeight: '600' }}>
+                  {showDeleteConfirm.title}
+                </p>
+                <p style={{ fontSize: '15px', color: '#888', margin: '0 0 24px' }}>
+                  O que deseja fazer com este artigo?
+                </p>
+
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+                  {/* Archive as draft */}
+                  <button
+                    onClick={() => handleArchive(showDeleteConfirm)}
+                    disabled={deleting}
+                    style={{
+                      width: '100%', padding: '12px 20px',
+                      background: '#f3be4a', border: 'none', color: '#1a0f0a',
+                      fontFamily: "'Cinzel', serif", fontSize: '10px', fontWeight: '600',
+                      letterSpacing: '0.15em', textTransform: 'uppercase',
+                      cursor: deleting ? 'not-allowed' : 'pointer',
+                      textAlign: 'center',
+                    }}
+                  >
+                    {deleting ? 'Processando...' : 'Mover para rascunho (recomendado)'}
+                  </button>
+
+                  {/* Permanent delete */}
+                  <button
+                    onClick={() => handlePermanentDelete(showDeleteConfirm)}
+                    disabled={deleting}
+                    style={{
+                      width: '100%', padding: '12px 20px',
+                      background: 'transparent', border: '1px solid rgba(198,40,40,0.3)',
+                      color: '#c62828',
+                      fontFamily: "'Cinzel', serif", fontSize: '10px', fontWeight: '600',
+                      letterSpacing: '0.15em', textTransform: 'uppercase',
+                      cursor: deleting ? 'not-allowed' : 'pointer',
+                      textAlign: 'center',
+                    }}
+                  >
+                    {deleting ? 'Processando...' : 'Excluir permanentemente'}
+                  </button>
+
+                  {/* Cancel */}
+                  <button
+                    onClick={() => setShowDeleteConfirm(null)}
+                    style={{
+                      width: '100%', padding: '10px 20px',
+                      background: 'transparent', border: '1px solid rgba(146,109,71,0.2)',
+                      color: '#926d47',
+                      fontFamily: "'Cinzel', serif", fontSize: '10px',
+                      letterSpacing: '0.15em', textTransform: 'uppercase',
+                      cursor: 'pointer', textAlign: 'center',
+                    }}
+                  >
+                    Cancelar
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
       </div>
     </>
   )
