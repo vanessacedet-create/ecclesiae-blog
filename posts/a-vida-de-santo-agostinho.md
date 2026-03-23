@@ -71,3 +71,15 @@ Contudo, os desígnios do Senhor o chamavam para o pastoreio ativo. Durante uma 
 Como Bispo, entregou-se incansavelmente à defesa da sã doutrina e ao cuidado de seu rebanho, deixando um legado monumental que logrou a perfeita conciliação entre a fé e a razão. Obras como “Confissões”, “Retratações”, “A Cidade de Deus” e tantos outros célebres livros continuam a nutrir a inteligência da Igreja. 
 
 Aquele que outrora fora arrastado pelo peso das paixões terrenas, tornou-se o grande mestre do amor ordenado, provando ao mundo que, de fato, os nossos corações foram feitos para Deus, e n'Ele só encontrarão o seu verdadeiro e definitivo repouso!
+
+Fonte:
+
+AGOSTINHO, Santo. Confissões. Campinas: Editora Ecclesiae, 2025.
+
+
+
+
+<a href="https://ecclesiae.com.br/confissoes-ecclesiae" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:6px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Saiba mais</a>
+
+
+
