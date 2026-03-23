@@ -4,10 +4,13 @@ date: "2026-03-23"
 categories: ["Vida dos santos"]
 category: "Vida dos santos"
 author: "Redação Ecclesiae"
+excerpt: "O Doutor da Graça que, resgatado do erro, teve seu intelecto iluminado pela Verdade e seu coração rendido pelo amor de Deus."
 slug: "a-vida-de-santo-agostinho"
 status: "draft"
+coverImage: "https://sfcatholic.org/bishopsbulletin/wp-content/uploads/2020/01/St.-Augustine.jpg"
 metaTitle: "A vida de Santo Agostinho"
 metaDescription: "O Doutor da Graça que, resgatado do erro, teve seu intelecto iluminado pela Verdade e seu coração rendido pelo amor de Deus."
+tags: ["Santo", "Vida"]
 ---
 
 Nascido em Tagaste, no norte da África, aos 13 de novembro de 354, Santo Agostinho (Aurélio Agostinho de Hipona) figura entre as maiores luzes que a Providência Divina já acendeu no seio da Igreja Católica. Filho de Patrício, um pagão que se converteria no fim da vida, e de Santa Mônica, uma cristã de fé inabalável, a trajetória do Doutor da Graça é o testemunho de uma alma que, tendo buscado a felicidade nos abismos da criatura, só encontrou repouso ao ser alcançada pelo amor do Criador.
