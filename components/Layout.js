@@ -21,7 +21,8 @@ export default function Layout({ children, title, description, categorias = [], 
         <meta property="og:description" content={siteDesc} />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo-ecclesiae.png" />
+        <link rel="apple-touch-icon" href="/logo-ecclesiae.png" />
       </Head>
 
       <div className="min-h-screen flex flex-col bg-cream">
