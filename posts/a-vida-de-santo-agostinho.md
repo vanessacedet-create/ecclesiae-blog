@@ -80,6 +80,3 @@ AGOSTINHO, Santo. Confissões. Campinas: Editora Ecclesiae, 2025.
 
 
 <a href="https://ecclesiae.com.br/confissoes-ecclesiae" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:6px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Saiba mais</a>
-
-
-
