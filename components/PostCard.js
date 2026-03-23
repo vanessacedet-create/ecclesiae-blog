@@ -18,7 +18,7 @@ export default function PostCard({
           <div className="absolute inset-0 bg-cross-pattern opacity-50" />
           <div className="relative p-10 md:p-14">
             {category && (
-              <span className="inline-block font-display text-xs tracking-[0.3em] uppercase text-gold font-semibold mb-4">
+              <span className="inline-block font-display text-xs tracking-[0.3em] uppercase text-gold font-semibold mb-4 border border-gold/40 px-2 py-0.5">
                 {category}
               </span>
             )}
@@ -60,7 +60,7 @@ export default function PostCard({
           )}
           <div className="p-5 flex-1 flex flex-col">
             {category && (
-              <span className="inline-block font-display text-xs tracking-[0.25em] uppercase text-burgundy font-semibold mb-2">
+              <span className="inline-block font-display text-xs tracking-[0.25em] uppercase text-burgundy font-semibold mb-2 border border-burgundy/30 px-2 py-0.5">
                 {category}
               </span>
             )}
@@ -104,7 +104,7 @@ export default function PostCard({
           )}
           <div className="p-6 md:p-8">
             {category && (
-              <span className="inline-block font-display text-xs tracking-[0.25em] uppercase text-burgundy font-semibold mb-3">
+              <span className="inline-block font-display text-xs tracking-[0.25em] uppercase text-burgundy font-semibold mb-3 border border-burgundy/30 px-2 py-0.5">
                 {category}
               </span>
             )}
@@ -148,7 +148,7 @@ export default function PostCard({
           )}
           <div className="flex-1 py-4 pr-5">
             {category && (
-              <span className="inline-block font-display text-xs tracking-[0.2em] uppercase text-burgundy font-semibold mb-1">
+              <span className="inline-block font-display text-xs tracking-[0.2em] uppercase text-burgundy font-semibold mb-1 border border-burgundy/30 px-2 py-0.5">
                 {category}
               </span>
             )}
@@ -191,7 +191,7 @@ export default function PostCard({
           )}
           <div className="p-4 flex-1 flex flex-col">
             {category && (
-              <span className="inline-block font-display text-xs tracking-[0.2em] uppercase text-burgundy font-semibold mb-2">{category}</span>
+              <span className="inline-block font-display text-xs tracking-[0.2em] uppercase text-burgundy font-semibold mb-2 border border-burgundy/30 px-2 py-0.5">{category}</span>
             )}
             <h3 className="font-serif text-base font-bold text-ink group-hover:text-burgundy transition-colors duration-200 leading-snug line-clamp-2 mb-2 flex-1">
               {title}
@@ -213,7 +213,7 @@ export default function PostCard({
     <Link href={`/posts/${id}`} className="group block h-full">
       <article className="h-full border border-gray-200 hover:border-burgundy/30 transition-all duration-300 bg-cream hover:bg-parchment p-6 gold-hover">
         {category && (
-          <span className="inline-block font-display text-xs tracking-[0.25em] uppercase text-burgundy font-semibold mb-3">
+          <span className="inline-block font-display text-xs tracking-[0.25em] uppercase text-burgundy font-semibold mb-3 border border-burgundy/30 px-2 py-0.5">
             {category}
           </span>
         )}
