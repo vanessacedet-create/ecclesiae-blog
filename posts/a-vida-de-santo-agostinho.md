@@ -56,7 +56,7 @@ Foi também nesse período que Agostinho superou os seus maiores obstáculos fil
 
 **A Natureza de Deus:** Deixou de imaginar o Divino com a figura de um corpo humano, compreendendo-O como a Suprema Substância, incorruptível e inviolável.
 
-**O Mistério da Iniquidade: ** Compreendeu que o mal não é uma substância ou um princípio eterno, mas a privação do bem. A iniquidade, concluiu, é a perversidade de uma vontade livre que se desvia de Deus, a Substância Suprema, para se curvar e se apegar às ínfimas criaturas.
+**O Mistério da Iniquidade:** Compreendeu que o mal não é uma substância ou um princípio eterno, mas a privação do bem. A iniquidade, concluiu, é a perversidade de uma vontade livre que se desvia de Deus, a Substância Suprema, para se curvar e se apegar às ínfimas criaturas.
 
 Todo esse processo intelectual foi ininterruptamente regado pelas lágrimas de sua mãe. Santa Mônica nunca deixou de suplicar ao Pai pela conversão do filho, sendo sustentada por um sonho profético que lhe garantia a salvação de Agostinho. Ela foi, aos olhos de Deus, o instrumento materno de uma intercessão que arrancaria o filho das heresias e o plantaria no coração da Igreja de Cristo.
 
