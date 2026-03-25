@@ -42,3 +42,12 @@ Para evitar esse risco, é de grande proveito recorrer a materiais de estudo que
 Por fim, é necessário lembrar que o estudo da Fé não se faz sem a orientação pastoral. Quando surgirem dúvidas — e elas surgirão, pois o texto sagrado é inesgotável —, o leitor deve procurar o auxílio de um Sacerdote!
 
 O Padre, por seu ofício e formação, está posto pela Igreja para guiar os fiéis na compreensão da Revelação, e recorrer a ele não é sinal de fraqueza, mas de prudência e obediência ao modo como Cristo dispôs a Sua Igreja.
+
+
+## **3 - Defina um tempo para ler**
+
+A leitura do texto sagrado, para que produza fruto na alma, pede regularidade. É preciso reservar-lhe um tempo determinado, com horário e duração definidos, de modo que o estudo se torne parte da ordem do dia ou da semana.
+
+Os Santos que mais se alimentaram das páginas sagradas foram, sem exceção, homens e mulheres de disciplina, que souberam subordinar as ocupações do dia à primazia da vida interior. Essa disciplina é um meio pelo qual a alma se dispõe ao encontro com Deus. 
+
+Quando o leitor se senta à mesma hora, no mesmo lugar, e abre o mesmo Livro, ele está, por esse gesto repetido, dizendo ao Senhor que aquele momento Lhe pertence. A regularidade do hábito educa a vontade e ordena os afetos, preparando o terreno para que a Graça opere com menos obstáculos. Quanto à duração, convém começar com um tempo que se possa sustentar com constância, ainda que seja breve. É preferível ler quinze minutos todos os dias do que reservar duas horas em um único dia da semana e abandonar o restante ao silêncio. A constância, nessa matéria, vale mais do que a quantidade.
