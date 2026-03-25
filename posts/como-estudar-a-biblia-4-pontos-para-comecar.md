@@ -30,4 +30,4 @@ Os critérios da Igreja nos guiam porque definem em que consistem os contextos l
 
 A escolha da versão pela qual se fará o estudo é um passo que merece atenção e cuidado. Ainda que não se deva de modo algum negligenciar a diretiva do Magistério para que se tome como versão latina oficial a Neovulgata, a ser usada na Liturgia, há razões de peso para que o leitor conheça também a tradição que remonta à Vulgata de São Jerônimo. Foi sobre ela que, durante tantos séculos, os teólogos se debruçaram; foram as suas páginas que os monges por tanto tempo decoraram e meditaram; e é a ela que se referem tantos comentários dos Santos Padres e Doutores da Igreja.
 
-Por essa razão, indicamos a Bíblia Sagrada que a Editora Ecclesiae reeditou e apresentou ao público na tradução do Pe. Manuel de Matos Soares, cuja referência basilar é ainda a Vulgata.
+Por essa razão, indicamos a [Bíblia Sagrada](https://ecclesiae.com.br/biblia-sagrada-traducao-do-pe-manuel-de-matos-soares) que a Editora Ecclesiae reeditou e apresentou ao público na tradução do Pe. Manuel de Matos Soares, cuja referência basilar é ainda a Vulgata.
