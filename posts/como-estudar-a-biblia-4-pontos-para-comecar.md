@@ -54,6 +54,8 @@ Os Santos que mais se alimentaram das páginas sagradas foram, sem exceção, ho
 
 Quando o leitor se senta à mesma hora, no mesmo lugar, e abre o mesmo Livro, ele está, por esse gesto repetido, dizendo ao Senhor que aquele momento Lhe pertence. A regularidade do hábito educa a vontade e ordena os afetos, preparando o terreno para que a Graça opere com menos obstáculos. Quanto à duração, convém começar com um tempo que se possa sustentar com constância, ainda que seja breve. É preferível ler quinze minutos todos os dias do que reservar duas horas em um único dia da semana e abandonar o restante ao silêncio. A constância, nessa matéria, vale mais do que a quantidade.
 
+![A escrita das Escrituras](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/a-escrita-das-escrituras-1774463392288.webp)
+
 
 ## **4 - Reze (e muito)**
 
