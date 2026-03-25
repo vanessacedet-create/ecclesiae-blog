@@ -25,7 +25,7 @@ Esses critérios nos protegem de perigos que iludem leitores de toda ordem, do m
 Os critérios da Igreja nos guiam porque definem em que consistem os contextos legítimos de cada passagem, impedindo que a leitura se torne um exercício de projeção das próprias convicções sobre o texto revelado.
 
 
-### **2. Tenha em mãos uma boa versão e não hesite em buscar auxílio**
+## **2. Tenha em mãos uma boa versão e não hesite em buscar auxílio**
 
 
 A escolha da versão pela qual se fará o estudo é um passo que merece atenção e cuidado. Ainda que não se deva de modo algum negligenciar a diretiva do Magistério para que se tome como versão latina oficial a Neovulgata, a ser usada na Liturgia, há razões de peso para que o leitor conheça também a tradição que remonta à Vulgata de São Jerônimo. Foi sobre ela que, durante tantos séculos, os teólogos se debruçaram; foram as suas páginas que os monges por tanto tempo decoraram e meditaram; e é a ela que se referem tantos comentários dos Santos Padres e Doutores da Igreja.
