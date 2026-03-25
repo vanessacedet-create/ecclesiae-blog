@@ -36,6 +36,15 @@ Ter a versão adequada, contudo, é o começo do caminho, e não o seu fim. O es
 
 Para evitar esse risco, é de grande proveito recorrer a materiais de estudo que orientem a leitura de forma metódica e fiel ao Magistério. A Editora Ecclesiae também disponibiliza Cadernos de Estudo Bíblico elaborados para esse fim, que conduzem o leitor passagem a passagem, oferecendo o contexto histórico, teológico e espiritual de que cada trecho necessita para ser compreendido em sua inteireza.
 
+
+
+
+<a href="https://ecclesiae.com.br/index.php?route=product/search&search=estudo%20b%C3%ADblico " target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Escolha seu Caderno de Estudo!</a>
+
+
+
+
+
 Por fim, é necessário lembrar que o estudo da Fé não se faz sem a orientação pastoral. Quando surgirem dúvidas — e elas surgirão, pois o texto sagrado é inesgotável —, o leitor deve procurar o auxílio de um Sacerdote!
 
 O Padre, por seu ofício e formação, está posto pela Igreja para guiar os fiéis na compreensão da Revelação, e recorrer a ele não é sinal de fraqueza, mas de prudência e obediência ao modo como Cristo dispôs a Sua Igreja.
