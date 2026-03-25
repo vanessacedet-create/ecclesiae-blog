@@ -9,6 +9,7 @@ slug: "como-estudar-a-biblia-4-pontos-para-comecar"
 status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/3/30/Jean-Baptiste_Greuze_-_Reading_the_bible.jpg"
 metaDescription: "Você deseja se aproximar da Palavra de Deus e não sabe por onde começar a estudá-la? Conheça 4 passos para iniciar o estudo da Palavra de Deus com orientação segura."
+tags: ["Bíblia", "Guias", "Estudo"]
 ---
 
 A Escritura é, em sua natureza, divinamente inspirada. Por essa razão, ela ocupa um lugar sem paralelo na história da literatura universal, do mesmo modo que a Encarnação da Palavra Eterna ocupa um lugar sem paralelo na história da humanidade. A palavra inspirada assemelha-se à Palavra Encarnada em aspectos que a Tradição **sempre reconheceu como centrais.** E, ao aproximar-se da Bíblia, portanto, você se aproxima de Jesus, a Palavra de Deus. E para que esse encontro se realize de fato, o caminho passa por um estudo devoto e piedoso da Sagrada Escritura!
