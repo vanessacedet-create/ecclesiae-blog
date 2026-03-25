@@ -8,6 +8,7 @@ excerpt: "Nesta Quaresma, você deseja se aproximar da Palavra de Deus e não sa
 slug: "como-estudar-a-biblia-4-pontos-para-comecar"
 status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/3/30/Jean-Baptiste_Greuze_-_Reading_the_bible.jpg"
+metaTitle: "Como estudar a Bíblia? 4 pontos para começar"
 metaDescription: "Você deseja se aproximar da Palavra de Deus e não sabe por onde começar a estudá-la? Conheça 4 passos para iniciar o estudo da Palavra de Deus com orientação segura."
 tags: ["Bíblia", "Guias", "Estudo"]
 ---
