@@ -25,8 +25,6 @@ Esses critérios nos protegem de perigos que iludem leitores de toda ordem, do m
 
 Os critérios da Igreja nos guiam porque definem em que consistem os contextos legítimos de cada passagem, impedindo que a leitura se torne um exercício de projeção das próprias convicções sobre o texto revelado.
 
-
-
 ![Bíblia](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/b-blia-1774463321963.jpg)
 
 
