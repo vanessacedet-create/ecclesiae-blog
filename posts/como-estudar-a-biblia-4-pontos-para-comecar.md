@@ -27,7 +27,6 @@ Os critérios da Igreja nos guiam porque definem em que consistem os contextos l
 
 ## **2. Tenha em mãos uma boa versão e não hesite em buscar auxílio**
 
-
 A escolha da versão pela qual se fará o estudo é um passo que merece atenção e cuidado. Ainda que não se deva de modo algum negligenciar a diretiva do Magistério para que se tome como versão latina oficial a Neovulgata, a ser usada na Liturgia, há razões de peso para que o leitor conheça também a tradição que remonta à Vulgata de São Jerônimo. Foi sobre ela que, durante tantos séculos, os teólogos se debruçaram; foram as suas páginas que os monges por tanto tempo decoraram e meditaram; e é a ela que se referem tantos comentários dos Santos Padres e Doutores da Igreja.
 
 Por essa razão, indicamos a [Bíblia Sagrada](https://ecclesiae.com.br/biblia-sagrada-traducao-do-pe-manuel-de-matos-soares) que a Editora Ecclesiae reeditou e apresentou ao público na tradução do Pe. Manuel de Matos Soares, cuja referência basilar é ainda a Vulgata.
@@ -51,3 +50,16 @@ A leitura do texto sagrado, para que produza fruto na alma, pede regularidade. �
 Os Santos que mais se alimentaram das páginas sagradas foram, sem exceção, homens e mulheres de disciplina, que souberam subordinar as ocupações do dia à primazia da vida interior. Essa disciplina é um meio pelo qual a alma se dispõe ao encontro com Deus. 
 
 Quando o leitor se senta à mesma hora, no mesmo lugar, e abre o mesmo Livro, ele está, por esse gesto repetido, dizendo ao Senhor que aquele momento Lhe pertence. A regularidade do hábito educa a vontade e ordena os afetos, preparando o terreno para que a Graça opere com menos obstáculos. Quanto à duração, convém começar com um tempo que se possa sustentar com constância, ainda que seja breve. É preferível ler quinze minutos todos os dias do que reservar duas horas em um único dia da semana e abandonar o restante ao silêncio. A constância, nessa matéria, vale mais do que a quantidade.
+
+
+## **4 - Reze (e muito)**
+
+Todo estudo da Sagrada Escritura que não desemboque na oração permanece incompleto, pois o fim último da leitura deve ser o encontro vivo com Deus. Os Padres do Concílio Vaticano II, recolhendo a mais antiga Tradição católica, recordaram aos fiéis aquilo que São Jerônimo já ensinava: desconhecer as Escrituras é desconhecer o próprio Cristo (cf. Dei Verbum, 25). Se conhecer o texto sagrado é conhecer a Cristo, então a leitura deve conduzir, por sua própria natureza, à oração — que é o modo pelo qual a alma se dirige a Ele e se deixa transformar pela Sua presença.
+
+A Igreja também cultivou a Lectio Divina, uma forma de oração que une de modo singular a leitura e a contemplação. Nela, o fiel lê uma passagem do texto sagrado, medita sobre o que leu, eleva o coração a Deus em oração e, por fim, repousa em Sua presença na contemplação. Esses quatro movimentos compõem um ritmo que a alma vai aprendendo à medida que se exercita nele.
+
+O Santo Rosário constitui outro auxílio de valor inestimável para quem estuda o texto sagrado. Ao meditar os Mistérios da vida de Cristo e de Nossa Senhora, o fiel percorre, de forma orante, os acontecimentos centrais da História da Salvação — os mesmos que encontra nas páginas que estuda.
+
+É proveitoso também recorrer às orações dos Santos, que souberam, antes de nós, alimentar-se do texto sagrado. As orações de Santo Agostinho, de São Tomás de Aquino, de Santa Teresa de Ávila e de tantos outros Doutores e místicos nascem de uma intimidade profunda com a Revelação e podem servir de guia para quem ainda está aprendendo a rezar com o que lê.
+
+Neste tempo de Quaresma, em que a Igreja nos convida de modo particular à penitência, à oração e à conversão, o estudo acompanhado da oração ganha um sentido ainda mais profundo. A Quaresma é, por excelência, o tempo em que os fiéis são chamados a voltar-se para Deus com todo o coração, e a leitura orante do texto sagrado é um dos caminhos mais seguros para corresponder a esse chamado. As leituras próprias da Liturgia quaresmal já traçam, por si mesmas, um itinerário de conversão que o fiel pode acompanhar dia a dia, unindo o estudo pessoal ao ritmo da Igreja.
