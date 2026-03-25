@@ -13,6 +13,10 @@ metaDescription: "Você deseja se aproximar da Palavra de Deus e não sabe por o
 
 A Escritura é, em sua natureza, divinamente inspirada. Por essa razão, ela ocupa um lugar sem paralelo na história da literatura universal, do mesmo modo que a Encarnação da Palavra Eterna ocupa um lugar sem paralelo na história da humanidade. A palavra inspirada assemelha-se à Palavra Encarnada em aspectos que a Tradição **sempre reconheceu como centrais.** E, ao aproximar-se da Bíblia, portanto, você se aproxima de Jesus, a Palavra de Deus. E para que esse encontro se realize de fato, o caminho passa por um estudo devoto e piedoso da Sagrada Escritura!
 
+
+![Bíblia - pintura](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/b-blia---pintura-1774463449487.jpg)
+
+
 ## **1 - Pontos de atenção ao começar a estudar a Bíblia**
 
 Dito isso, o primeiro passo no estudo consiste em aprender a discernir o sentido total do texto sagrado e o modo como nele se incluem o sentido literal e os sentidos espirituais. Isso, porém, não significa que se deva exagerar na interpretação, buscando significados que não se encontram de fato nas páginas lidas. A exegese espiritual é uma ciência sagrada que procede de acordo com princípios definidos e permanece sob a responsabilidade da Sagrada Tradição, do Magistério e da comunidade de intérpretes — tanto os vivos quanto os que já repousam em Cristo.
