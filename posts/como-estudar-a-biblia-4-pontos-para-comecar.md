@@ -31,3 +31,11 @@ Os critérios da Igreja nos guiam porque definem em que consistem os contextos l
 A escolha da versão pela qual se fará o estudo é um passo que merece atenção e cuidado. Ainda que não se deva de modo algum negligenciar a diretiva do Magistério para que se tome como versão latina oficial a Neovulgata, a ser usada na Liturgia, há razões de peso para que o leitor conheça também a tradição que remonta à Vulgata de São Jerônimo. Foi sobre ela que, durante tantos séculos, os teólogos se debruçaram; foram as suas páginas que os monges por tanto tempo decoraram e meditaram; e é a ela que se referem tantos comentários dos Santos Padres e Doutores da Igreja.
 
 Por essa razão, indicamos a [Bíblia Sagrada](https://ecclesiae.com.br/biblia-sagrada-traducao-do-pe-manuel-de-matos-soares) que a Editora Ecclesiae reeditou e apresentou ao público na tradução do Pe. Manuel de Matos Soares, cuja referência basilar é ainda a Vulgata.
+
+Ter a versão adequada, contudo, é o começo do caminho, e não o seu fim. O estudo do texto sagrado não deve ser conduzido de modo isolado, como se o leitor pudesse, por si só, alcançar conclusões seguras sobre tudo o que lê. A tentação de interpretar passagens segundo o próprio entendimento, sem recorrer à Tradição e ao ensinamento da Igreja, é um risco que acompanha todo estudante e que a história demonstrou produzir confusões e erros ao longo dos séculos.
+
+Para evitar esse risco, é de grande proveito recorrer a materiais de estudo que orientem a leitura de forma metódica e fiel ao Magistério. A Editora Ecclesiae também disponibiliza Cadernos de Estudo Bíblico elaborados para esse fim, que conduzem o leitor passagem a passagem, oferecendo o contexto histórico, teológico e espiritual de que cada trecho necessita para ser compreendido em sua inteireza.
+
+Por fim, é necessário lembrar que o estudo da Fé não se faz sem a orientação pastoral. Quando surgirem dúvidas — e elas surgirão, pois o texto sagrado é inesgotável —, o leitor deve procurar o auxílio de um Sacerdote!
+
+O Padre, por seu ofício e formação, está posto pela Igreja para guiar os fiéis na compreensão da Revelação, e recorrer a ele não é sinal de fraqueza, mas de prudência e obediência ao modo como Cristo dispôs a Sua Igreja.
