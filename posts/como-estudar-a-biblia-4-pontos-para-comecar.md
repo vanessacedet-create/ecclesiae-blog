@@ -7,7 +7,7 @@ author: "Redação Ecclesiae"
 excerpt: "Nesta Quaresma, você deseja se aproximar da Palavra de Deus e não sabe por onde começar a estudá-la? Conheça 4 passos para iniciar o estudo com orientação segura e fiel à Tradição da Igreja."
 slug: "como-estudar-a-biblia-4-pontos-para-comecar"
 status: "draft"
-coverImage: "https://en.wikipedia.org/wiki/Saint_Jerome_Writing#/media/File:Saint_Jerome_Writing-Caravaggio_(1605-6).jpg"
+coverImage: "https://upload.wikimedia.org/wikipedia/commons/3/30/Jean-Baptiste_Greuze_-_Reading_the_bible.jpg"
 metaDescription: "Você deseja se aproximar da Palavra de Deus e não sabe por onde começar a estudá-la? Conheça 4 passos para iniciar o estudo da Palavra de Deus com orientação segura."
 ---
 
