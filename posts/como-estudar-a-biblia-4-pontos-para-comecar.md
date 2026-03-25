@@ -1,5 +1,5 @@
 ---
-title: "Como estudar a Bíblia? 4 pontos para começar"
+title: "Como estudar a Bíblia? 4 dicas para começar"
 date: "2026-03-25"
 categories: ["Bíblia"]
 category: "Bíblia"
