@@ -4,11 +4,11 @@ date: "2026-03-27"
 categories: ["Catolicismo"]
 category: "Catolicismo"
 author: "Redação Ecclesiae"
-excerpt: "O que significa viver a Fé católica nos dias de hoje? Reflexões sobre vida interior, trabalho e cotidiano à luz da obra \\\\\\\"A Vida Católica\\\\\\\", de Sertillanges."
+excerpt: "O que significa viver a Fé católica nos dias de hoje? Reflexões sobre vida interior, trabalho e cotidiano à luz da obra \\\\\\\\"A Vida Católica\\\\\\\\", de Sertillanges."
 slug: "o-que-e-a-vida-catolica-e-como-vive-la-hoje"
 status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Frederick_George_Cotman_-_One_of_the_Family_-_Google_Art_Project.jpg"
-metaDescription: "O que significa viver a Fé católica nos dias de hoje? Reflexões sobre vida interior, trabalho e cotidiano à luz da obra \\\\\\\"A Vida Católica\\\\\\\", de Sertillanges."
+metaDescription: "O que significa viver a Fé católica nos dias de hoje? Reflexões sobre vida interior, trabalho e cotidiano à luz da obra \\\\\\\\"A Vida Católica\\\\\\\\", de Sertillanges."
 ---
 
 Nos últimos anos, um fenômeno tem chamado a atenção de quem observa a vida da Igreja no Ocidente: entre os jovens da chamada **Geração Z,** o número de batismos e conversões tem crescido de forma considerável. Na França, o número de batismos de jovens entre 18 e 25 anos quadruplicou em quatro anos, e esse crescimento encontra raízes, em grande parte, no âmbito digital. 
