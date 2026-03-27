@@ -68,6 +68,8 @@ Numa cultura que faz do conforto e da ausência de sofrimento os critérios máx
 ## Um exemplo: Vida e trabalho
 
 
+![Vida e Trabalho ](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/vida-e-trabalho--1774618109594.jpg)
+
 Na cultura contemporânea, o trabalho ocupa um lugar que ultrapassa a sua função natural. Ele deixou de ser o meio pelo qual o homem provê o sustento e colabora com a obra da Criação para se tornar, em muitos casos, o centro em torno do qual toda a existência gira. A lógica da produtividade — que mede o valor de uma pessoa pelo que ela produz e pela velocidade com que produz — moldou o modo como se encaram as horas do dia, as relações e até o descanso, que passa a ser visto como um intervalo funcional para que se possa produzir mais. Para o católico, essa lógica exige discernimento, porque ela parte de premissas que nem sempre se conciliam com a Verdade sobre o homem e sobre o sentido do seu trabalho.
 
 A Teologia católica não separa o trabalho da contemplação como se fossem atividades opostas. Existe uma continuidade entre a ocupação que consideramos a mais elevada — a contemplação da Verdade Eterna — e o mais simples dos trabalhos manuais. Ambos procedem da alma e a prolongam: a contemplação, pelo exercício da inteligência voltada ao que é imaterial, e o trabalho, pela aplicação da inteligência à matéria, que se submete à ideia, recebe dela uma forma e um sentido. O operário que molda a madeira, a mãe que organiza o lar, o lavrador que cultiva a terra — todos eles, quando trabalham com retidão, exercem uma atividade que participa, à sua medida, da ação criadora de Deus.
