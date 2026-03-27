@@ -83,6 +83,7 @@ Isso não significa que o católico deva trabalhar sem descanso ou aceitar sem c
 
 ## O que se faz na vida cotidiana importa!
 
+![main image](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/main-image-1774618184710.jpg)
 
 A vida católica também se mede pelos seus momentos ordinários, pelo modo como o fiel conduz as horas comuns do dia. O que se passa no silêncio da vida ordinária, longe dos olhos do mundo, possui aos olhos de Deus um valor que os gestos visíveis nem sempre alcançam. Fazendo assim, os seguintes atos:
 
