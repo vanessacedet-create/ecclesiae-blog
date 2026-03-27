@@ -34,7 +34,6 @@ Para responder a essa pergunta, apoiamo-nos no **A.-D. Sertillanges,** que se de
 
 <a href="https://ecclesiae.com.br/a-vida-catolica" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Saiba mais</a>
 
-
 Os tópicos que se seguem tomam como guia essa reflexão para oferecer pontos de atenção a todo católico que, em meio às circunstâncias do nosso tempo, deseja viver a sua Fé com coerência e fidelidade.
 
 
