@@ -92,7 +92,7 @@ Sertillanges sustenta que esses atos, por sua aparente pequenez, constituem prov
 
 Essa perspectiva tem consequências diretas para o modo como o católico se relaciona consigo mesmo e com o próximo. 
 
-Há pessoas marcadas por heranças e circunstâncias que não escolheram, temperamentos difíceis, inclinações penosas, fragilidades que não procedem de uma escolha deliberada. Diante dessas situações, a consciência católica distingue entre o que foi escolhido e o que foi recebido como condição. 
+> Há pessoas marcadas por heranças e circunstâncias que não escolheram, temperamentos difíceis, inclinações penosas, fragilidades que não procedem de uma escolha deliberada. Diante dessas situações, a consciência católica distingue entre o que foi escolhido e o que foi recebido como condição. 
 
 O que não foi escolhido não pode ser imputado como culpa, e o próximo — isto é, todos nós — deve abster-se de condenar aquilo que é ponto de partida da vida de alguém, e não obra da sua vontade.
 
