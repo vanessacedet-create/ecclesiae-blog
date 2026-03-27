@@ -4,11 +4,11 @@ date: "2026-03-27"
 categories: ["Catolicismo"]
 category: "Catolicismo"
 author: "Redação Ecclesiae"
-excerpt: "O que significa viver a Fé católica nos dias de hoje? Reflexões sobre vida interior, trabalho e cotidiano à luz da obra \\\\\\\\\"A Vida Católica\\\\\\\\\", de Sertillanges."
+excerpt: "O que significa viver a Fé católica nos dias de hoje? Reflexões sobre vida interior, trabalho e cotidiano à luz da obra \\\\\\\\\\"A Vida Católica\\\\\\\\\\", de Sertillanges."
 slug: "o-que-e-a-vida-catolica-e-como-vive-la-hoje"
 status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Frederick_George_Cotman_-_One_of_the_Family_-_Google_Art_Project.jpg"
-metaDescription: "O que significa viver a Fé católica nos dias de hoje? Reflexões sobre vida interior, trabalho e cotidiano à luz da obra \\\\\\\\\"A Vida Católica\\\\\\\\\", de Sertillanges."
+metaDescription: "O que significa viver a Fé católica nos dias de hoje? Reflexões sobre vida interior, trabalho e cotidiano à luz da obra \\\\\\\\\\"A Vida Católica\\\\\\\\\\", de Sertillanges."
 ---
 
 Nos últimos anos, um fenômeno tem chamado a atenção de quem observa a vida da Igreja no Ocidente: entre os jovens da chamada **Geração Z,** o número de batismos e conversões tem crescido de forma considerável. Na França, o número de batismos de jovens entre 18 e 25 anos quadruplicou em quatro anos, e esse crescimento encontra raízes, em grande parte, no âmbito digital. 
@@ -52,7 +52,7 @@ O católico que reza, que frequenta os Sacramentos, que pratica a Caridade, exte
 
 Na vida concreta, isso significa que Cristo não é uma referência distante a quem o católico recorre em momentos de dificuldade, mas Aquele que estrutura cada dimensão da existência. Ele é a luz que ilumina o conhecimento, a força que sustenta o impulso da vontade, o amor que move os afetos, o caminho pelo qual se avança.
 
-Há, contudo, a Cruz, uma dimensão da vida católica que o mundo contemporâneo tende a rejeitar ou a minimizar. 
+**Há, contudo, a Cruz, uma dimensão da vida católica que o mundo contemporâneo tende a rejeitar ou a minimizar. **
 
 Cristo sofreu e morreu, e quem deseja unir-se a Ele para a Vida Eterna precisa encontrá-Lo onde Ele Se encontra — e Ele Se encontra também no sofrimento. O fato de que Cristo suportou a Cruz por nós não nos dispensa de carregá-la; pelo contrário, o Seu sacrifício deu à cruz de cada um de nós um valor que, sem Ele, ela jamais teria. 
 
