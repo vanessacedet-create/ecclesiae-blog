@@ -37,6 +37,9 @@ Para responder a essa pergunta, apoiamo-nos no **A.-D. Sertillanges,** que se de
 Os tópicos que se seguem tomam como guia essa reflexão para oferecer pontos de atenção a todo católico que, em meio às circunstâncias do nosso tempo, deseja viver a sua Fé com coerência e fidelidade.
 
 
+![Família e oração](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/fam-lia-e-ora--o-1774618075118.jpg)
+
+
 ## Aquele que é nossa vida e nosso guia
 
 
