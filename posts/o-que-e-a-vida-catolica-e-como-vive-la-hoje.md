@@ -4,11 +4,11 @@ date: "2026-03-27"
 categories: ["Catolicismo"]
 category: "Catolicismo"
 author: "Redação Ecclesiae"
-excerpt: "O que significa viver a Fé católica nos dias de hoje? Reflexões sobre vida interior, trabalho e cotidiano à luz da obra \\\\"A Vida Católica\\\\", de Sertillanges."
+excerpt: "O que significa viver a Fé católica nos dias de hoje? Reflexões sobre vida interior, trabalho e cotidiano à luz da obra \\\\\"A Vida Católica\\\\\", de Sertillanges."
 slug: "o-que-e-a-vida-catolica-e-como-vive-la-hoje"
 status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Frederick_George_Cotman_-_One_of_the_Family_-_Google_Art_Project.jpg"
-metaDescription: "O que significa viver a Fé católica nos dias de hoje? Reflexões sobre vida interior, trabalho e cotidiano à luz da obra \\\\"A Vida Católica\\\\", de Sertillanges."
+metaDescription: "O que significa viver a Fé católica nos dias de hoje? Reflexões sobre vida interior, trabalho e cotidiano à luz da obra \\\\\"A Vida Católica\\\\\", de Sertillanges."
 ---
 
 Nos últimos anos, um fenômeno tem chamado a atenção de quem observa a vida da Igreja no Ocidente: entre os jovens da chamada Geração Z, o número de batismos e conversões tem crescido de forma considerável. Na França, o número de batismos de jovens entre 18 e 25 anos quadruplicou em quatro anos, e esse crescimento encontra raízes, em grande parte, no âmbito digital. 
@@ -32,3 +32,16 @@ Nesse texto, visamos compreender o que a Fé pede de quem a recebeu — como ela
 Para responder a essa pergunta, apoiamo-nos no Pe. A.-D. Sertillanges, que se debruça, na obra A Vida Católica, recém-lançada pela Editora Ecclesiae, sobre os aspectos concretos da vida de Fé.
 
 Os tópicos que se seguem tomam como guia essa reflexão para oferecer pontos de atenção a todo católico que, em meio às circunstâncias do nosso tempo, deseja viver a sua Fé com coerência e fidelidade.
+
+
+## Aquele que é nossa vida e nosso guia
+
+
+A vida católica encontra em Cristo o seu princípio, o seu modelo e, na medida em que Cristo contém Deus, o objeto final de toda a sua busca. Essa afirmação, que Sertillanges coloca logo nas primeiras páginas de “A Vida Católica”, diz respeito ao modo como cada fiel conduz as suas horas, as suas decisões e os seus afetos. Se Cristo é o princípio da vida católica, então nenhum aspecto dessa vida — por mais cotidiano que pareça — escapa à Sua influência.
+
+Para compreender melhor o que se acredita, é impossível não discorrer sobre o Mistério da Encarnação. 
+
+Ao assumir a natureza humana sem abandonar a natureza divina, o Filho de Deus uniu em Si o visível e o invisível, o terreno e o celeste, o que muda e o que permanece. A vida católica reflete essa união: ela não se reduz ao que é visível — os ritos, os gestos, as práticas externas —, nem se dissolve no que é invisível — a pura interioridade sem forma nem expressão. Ela habita a tensão entre os dois, porque é nessa tensão que o católico vive de fato, com os pés no tempo e o coração voltado para a Eternidade.
+
+O vazio deixado pelo pecado original, que o homem por si só não poderia preencher, foi preenchido por Deus, que nele Se introduziu pela Encarnação. A criação, sob essa luz, revela-se como uma ascensão, e o Criador vem ao encontro da criatura para conduzi-la de volta à fonte de toda vida. Eis o fundamento de tudo o que o católico vive e pratica. A certeza de que o caminho de volta a Deus foi aberto não pelo esforço humano, mas pela iniciativa divina.
+
