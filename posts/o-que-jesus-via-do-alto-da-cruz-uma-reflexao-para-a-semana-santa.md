@@ -74,6 +74,8 @@ Quem se detém sobre a Paixão com atenção reconhece nesses personagens traço
 
 Por essa razão, a contemplação da Cruz se configura como um confronto com a Verdade. Quando a verdade é assumida sem desvios, ela produz efeito sobre a maneira como o homem compreende a si mesmo. 
 
+![Léon Bonnat   Le Christ en croix   PPP411   Musée des Beaux Arts de la ville de Paris](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/l-on-bonnat-le-christ-en-croix-ppp411-mus-e-des-beaux-arts-de-la-ville-de-paris-1774972689378.jpg)
+
 A Cruz revela, ainda, que o sofrimento humano não é um acidente na história da salvação. É o lugar onde Deus escolheu habitar de forma mais radical. Quem aprende a contemplar a Paixão aprende, por consequência, a olhar para o próprio sofrimento como possibilidade de união. 
 
 O que Cristo via do alto da Cruz era, entre tudo, o mundo que Ele amava. Um mundo que ainda existia. Um mundo que, por esse amor, teria sempre a possibilidade de voltar. 
