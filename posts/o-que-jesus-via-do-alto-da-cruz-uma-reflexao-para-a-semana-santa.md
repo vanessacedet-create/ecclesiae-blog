@@ -47,4 +47,6 @@ Essa declaração, anterior à Paixão, orienta a compreensão do que se realiza
 
 Essa perspectiva altera o modo de considerar a Cruz. O sofrimento permanece em sua realidade histórica, sem atenuações, mas passa a ser compreendido dentro de um horizonte que o insere em um ato consciente de entrega. Uma dimensão da oferta consciente, livre e amorosa. 
 
-A agonia transmitida era conhecimento pleno de tudo que estava sendo carregado. O que se manifesta ali envolve a consciência do peso que é carregado e da extensão do que está sendo oferecido. A Paixão, assim, é um ato no qual a entrega se realiza com conhecimento e intenção. 
+A agonia transmitida era conhecimento pleno de tudo que estava sendo carregado. O que se manifesta ali envolve a consciência do peso que é carregado e da extensão do que está sendo oferecido. A Paixão, assim, é um ato no qual a entrega se realiza com conhecimento e intenção.
+
+![Christ Bearing the Cross](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/christ-bearing-the-cross-1774972529615.jpg)
