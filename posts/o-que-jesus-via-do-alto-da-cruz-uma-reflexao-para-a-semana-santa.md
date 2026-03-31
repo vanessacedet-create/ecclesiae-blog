@@ -1,6 +1,8 @@
 ---
 title: "O que Jesus via do alto da Cruz: uma reflexão para a Semana Santa"
 date: "2026-03-31"
+categories: ["Catolicismo"]
+category: "Catolicismo"
 slug: "o-que-jesus-via-do-alto-da-cruz-uma-reflexao-para-a-semana-santa"
 status: "draft"
 coverImage: "https://media.istockphoto.com/id/473325362/pt/vetorial/roma-jesus-na-cruz-pintura.jpg?s=2048x2048&w=is&k=20&c=bIAjpHvkEeCzapTLEvWM92lZ43BShPm-QXwGYEdHZ5Q="
