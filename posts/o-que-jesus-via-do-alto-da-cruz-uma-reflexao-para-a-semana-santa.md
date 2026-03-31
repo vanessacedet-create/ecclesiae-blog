@@ -66,7 +66,6 @@ O olhar que parte da Cruz alcança pessoas em sua singularidade, com suas histó
 
 ## O que a Cruz revela sobre o homem 
 
-
 A meditação da Paixão não se limita à contemplação de Deus, pois nela também se manifesta uma compreensão sobre o próprio homem. Aquilo que se apresenta na Cruz expõe modos distintos de resposta diante do mistério que ali se realiza. 
 
 Nesse cenário, aparecem a violência dos que executam, o recuo dos que se afastam, a permanência daqueles que não abandonam, a mudança daquele que, mesmo condenado, ainda se volta para Cristo, além da hesitação e do medo que impedem uma posição mais firme. 
@@ -79,4 +78,4 @@ A Cruz revela, ainda, que o sofrimento humano não é um acidente na história d
 
 O que Cristo via do alto da Cruz era, entre tudo, o mundo que Ele amava. Um mundo que ainda existia. Um mundo que, por esse amor, teria sempre a possibilidade de voltar. 
 
-A Semana Santa existe para que essa contemplação não fique apenas no campo das ideias. A liturgia da Igreja, com toda a sua precisão e beleza, oferece o rito. A meditação pessoal oferece o interior. E quem deseja aprofundar essa contemplação com um guia de rara densidade espiritual e rigor histórico encontrará em O que Jesus via do alto da Cruz, do padre dominicano A.-D. Sertillanges, publicado pela Editora Ecclesiae, uma companhia à altura do mistério que esses dias celebram. 
+A Semana Santa existe para que essa contemplação não fique apenas no campo das ideias. A liturgia da Igreja, com toda a sua precisão e beleza, oferece o rito. A meditação pessoal oferece o interior. E quem deseja aprofundar essa contemplação com um guia de rara densidade espiritual e rigor histórico encontrará em O que Jesus via do alto da Cruz, do padre dominicano A.-D. Sertillanges, publicado pela Editora Ecclesiae, uma companhia à altura do mistério que esses dias celebram.
