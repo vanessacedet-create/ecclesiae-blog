@@ -20,3 +20,14 @@ A fé cristã permite essa consideração porque afirma que Cristo, verdadeiro D
 Esta meditação se organiza em quatro aspectos: aquilo que se colocava diante de Seus olhos, o alcance de Sua consciência, o modo como o amor se dirigia às pessoas presentes e, por fim, o que a Cruz revela sobre a condição humana.
 
 ![Indo ao Calvário](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/indo-ao-calv-rio-1774972093538.jpg)
+
+
+##O Gólgota (calvário) como ponto de visão 
+
+A Cruz foi erguida em um ponto elevado, e esse dado possui implicações que ultrapassam a descrição física. 
+
+Dessa posição, o olhar de Cristo alcançava Jerusalém, com o Templo, as muralhas e as ruas pelas quais havia passado ao longo de Sua vida pública. Também se estendia até o Monte das Oliveiras, onde havia rezado na noite anterior, e incluía a multidão que dias antes O recebera e que agora, ao menos em parte, participava da rejeição. 
+
+Havia, portanto, uma realidade concreta diante de Seus olhos, mas não apenas isso. A memória reunia rostos, acontecimentos e histórias que não se reduziam ao instante presente. A mulher que tocara Suas vestes, o cego que passara a ver, Lázaro chamado para fora do túmulo, e Pedro, que naquela mesma madrugada O negara, compunham um campo de presença que não dependia da proximidade física. 
+
+Esse olhar não se limitava ao que era imediatamente visível. À luz da fé da Igreja, ele se estendia à totalidade daqueles por quem o sacrifício era oferecido. Não se tratava de uma visão interrompida pelo sofrimento, mas de uma visão na qual o sofrimento estava integrado a um sentido que o ultrapassa. 
