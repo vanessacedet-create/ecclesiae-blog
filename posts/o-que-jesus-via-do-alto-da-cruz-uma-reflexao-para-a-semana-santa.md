@@ -23,7 +23,7 @@ Esta meditação se organiza em quatro aspectos: aquilo que se colocava diante d
 ![Indo ao Calvário](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/indo-ao-calv-rio-1774972093538.jpg)
 
 
-##O Gólgota (calvário) como ponto de visão 
+## O Gólgota (calvário) como ponto de visão 
 
 A Cruz foi erguida em um ponto elevado, e esse dado possui implicações que ultrapassam a descrição física. 
 
