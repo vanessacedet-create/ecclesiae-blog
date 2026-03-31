@@ -4,6 +4,7 @@ date: "2026-03-31"
 categories: ["Catolicismo"]
 category: "Catolicismo"
 author: "Redação Ecclesiae"
+excerpt: "Uma meditação sobre o olhar de Jesus na Paixão, aquilo que se colocava diante d’Ele e o que isso revela sobre o mistério da redenção. "
 slug: "o-que-jesus-via-do-alto-da-cruz-uma-reflexao-para-a-semana-santa"
 status: "draft"
 coverImage: "https://cdn.shopify.com/s/files/1/0278/9628/3224/files/Cristo_Cargando_la_Cruz_-_Tiziano.jpg?v=1664890675"
