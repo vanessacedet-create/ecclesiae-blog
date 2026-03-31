@@ -50,3 +50,17 @@ Essa perspectiva altera o modo de considerar a Cruz. O sofrimento permanece em s
 A agonia transmitida era conhecimento pleno de tudo que estava sendo carregado. O que se manifesta ali envolve a consciência do peso que é carregado e da extensão do que está sendo oferecido. A Paixão, assim, é um ato no qual a entrega se realiza com conhecimento e intenção.
 
 ![Christ Bearing the Cross](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/christ-bearing-the-cross-1774972529615.jpg)
+
+
+## O que o amor via em cada pessoa 
+
+Se Cristo oferecia a Sua vida por amor, então o Seu olhar do alto da Cruz era, antes de tudo, um olhar de amor. Um amor que não idealizava, que via o pecado, a traição, a covardia, a violência, e que mesmo assim não se retirava. 
+
+Havia, sob aquele olhar, os que O crucificavam. E a tradição registra que Cristo pediu perdão ao Pai por eles: 
+> "Pai, perdoa-lhes, porque não sabem o que fazem" (Lc 23,34).  
+
+Havia, sob aquele olhar, Sua Mãe. João registra o momento em que Jesus a vê, vê o discípulo amado ao lado dela, e confia um ao outro. Naquele gesto, a tradição reconhece a entrega de Maria como Mãe de todos os que creem. 
+
+Havia, sob aquele olhar, o bom ladrão. O homem que, crucificado ao lado d'Ele, encontrou coragem para pedir: "Lembra-te de mim quando entrares no Teu reino" (Lc 23,42). E recebeu, como resposta, a promessa mais direta que Cristo pronunciou a qualquer ser humano durante toda a Sua vida pública: "Hoje estarás comigo no paraíso." 
+
+O olhar que parte da Cruz alcança pessoas em sua singularidade, com suas histórias e condições próprias. É nesse nível que a oferta se realiza como uma relação que envolve cada um de modo particular. 
