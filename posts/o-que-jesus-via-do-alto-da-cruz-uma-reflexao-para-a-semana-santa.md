@@ -18,3 +18,6 @@ Aqui não visamos nos referir ao que era visível aos outros, nem do que a multi
 A fé cristã permite essa consideração porque afirma que Cristo, verdadeiro Deus e verdadeiro homem, ofereceu a própria vida de modo livre e consciente pela redenção do mundo. Se assim foi, então o olhar elevado da Cruz não pode ser entendido como um olhar esvaziado pelo sofrimento, mas como um olhar no qual o sofrimento e o sentido se encontram sem contradição. 
 
 Esta meditação se organiza em quatro aspectos: aquilo que se colocava diante de Seus olhos, o alcance de Sua consciência, o modo como o amor se dirigia às pessoas presentes e, por fim, o que a Cruz revela sobre a condição humana.
+
+![Indo ao Calvário](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/indo-ao-calv-rio-1774972093538.jpg)
+
