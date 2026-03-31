@@ -9,6 +9,7 @@ slug: "o-que-jesus-via-do-alto-da-cruz-uma-reflexao-para-a-semana-santa"
 status: "draft"
 coverImage: "https://cdn.shopify.com/s/files/1/0278/9628/3224/files/Cristo_Cargando_la_Cruz_-_Tiziano.jpg?v=1664890675"
 metaDescription: "Uma meditação sobre o olhar de Jesus na Paixão, aquilo que se colocava diante d’Ele e o que isso revela sobre o mistério da redenção. "
+tags: ["Semana Santa", "Catolicismo", "Jesus"]
 ---
 
 Há uma pergunta que a tradição cristã pouco formula nesses termos, mas que atravessa as grandes meditações sobre a Paixão: o que se passava no interior de Cristo enquanto Ele morria?
@@ -84,4 +85,3 @@ A Semana Santa existe para que essa contemplação não fique apenas no campo da
 
 
 <a href="https://ecclesiae.com.br/o-que-jesus-via-do-alto-da-cruz-ecclesiae" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Saiba mais</a>
-
