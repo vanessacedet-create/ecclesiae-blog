@@ -11,7 +11,7 @@ coverImage: "https://cdn.shopify.com/s/files/1/0278/9628/3224/files/Cristo_Carga
 metaDescription: "Uma meditação sobre o olhar de Jesus na Paixão, aquilo que se colocava diante d’Ele e o que isso revela sobre o mistério da redenção. "
 ---
 
-**Há uma pergunta que a tradição cristã pouco formula nesses termos, mas que atravessa as grandes meditações sobre a Paixão: o que se passava no interior de Cristo enquanto Ele morria? **
+**Há uma pergunta que a tradição cristã pouco formula nesses termos, mas que atravessa as grandes meditações sobre a Paixão: o que se passava no interior de Cristo enquanto Ele morria?**
 
 Aqui não visamos nos referir ao que era visível aos outros, nem do que a multidão dizia, do que os soldados executavam ou do que os discípulos, dispersos e tomados pelo medo, conseguiam compreender. A questão se dirige ao próprio Cristo: o que se apresentava ao Seu olhar, o que estava diante d’Ele e o que preenchia o Seu interior naquelas horas. 
 
@@ -20,4 +20,3 @@ A fé cristã permite essa consideração porque afirma que Cristo, verdadeiro D
 Esta meditação se organiza em quatro aspectos: aquilo que se colocava diante de Seus olhos, o alcance de Sua consciência, o modo como o amor se dirigia às pessoas presentes e, por fim, o que a Cruz revela sobre a condição humana.
 
 ![Indo ao Calvário](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/indo-ao-calv-rio-1774972093538.jpg)
-
