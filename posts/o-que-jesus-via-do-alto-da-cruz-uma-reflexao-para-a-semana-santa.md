@@ -31,6 +31,6 @@ Dessa posição, o olhar de Cristo alcançava Jerusalém, com o Templo, as mural
 
 ![martin calvario](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/martin-calvario-1774972325658.jpg)
 
-Havia, portanto, uma realidade concreta diante de Seus olhos, mas não apenas isso. A memória reunia rostos, acontecimentos e histórias que não se reduziam ao instante presente. A mulher que tocara Suas vestes, o cego que passara a ver, Lázaro chamado para fora do túmulo, e Pedro, que naquela mesma madrugada O negara, compunham um campo de presença que não dependia da proximidade física. 
+Havia, portanto, uma realidade concreta diante de Seus olhos, mas não apenas isso. **A memória reunia rostos,** acontecimentos e histórias que não se reduziam ao instante presente. A mulher que tocara Suas vestes, o cego que passara a ver, Lázaro chamado para fora do túmulo, e Pedro, que naquela mesma madrugada O negara, compunham um campo de presença que não dependia da proximidade física. 
 
 Esse olhar não se limitava ao que era imediatamente visível. À luz da fé da Igreja, ele se estendia à totalidade daqueles por quem o sacrifício era oferecido. Não se tratava de uma visão interrompida pelo sofrimento, mas de uma visão na qual o sofrimento estava integrado a um sentido que o ultrapassa.
