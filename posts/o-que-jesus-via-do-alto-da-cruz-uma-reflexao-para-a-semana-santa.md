@@ -81,3 +81,7 @@ A Cruz revela, ainda, que o sofrimento humano não é um acidente na história d
 O que Cristo via do alto da Cruz era, entre tudo, o mundo que Ele amava. Um mundo que ainda existia. Um mundo que, por esse amor, teria sempre a possibilidade de voltar. 
 
 A Semana Santa existe para que essa contemplação não fique apenas no campo das ideias. A liturgia da Igreja, com toda a sua precisão e beleza, oferece o rito. A meditação pessoal oferece o interior. E quem deseja aprofundar essa contemplação com um guia de rara densidade espiritual e rigor histórico encontrará em [O que Jesus via do alto da Cruz, ](https://ecclesiae.com.br/o-que-jesus-via-do-alto-da-cruz-ecclesiae)do padre dominicano A.-D. Sertillanges, publicado pela Editora Ecclesiae, uma companhia à altura do mistério que esses dias celebram.
+
+
+<a href="https://ecclesiae.com.br/o-que-jesus-via-do-alto-da-cruz-ecclesiae" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Saiba mais</a>
+
