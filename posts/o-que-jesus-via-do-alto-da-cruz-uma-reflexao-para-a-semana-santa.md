@@ -8,6 +8,7 @@ excerpt: "Uma meditação sobre o olhar de Jesus na Paixão, aquilo que se coloc
 slug: "o-que-jesus-via-do-alto-da-cruz-uma-reflexao-para-a-semana-santa"
 status: "draft"
 coverImage: "https://cdn.shopify.com/s/files/1/0278/9628/3224/files/Cristo_Cargando_la_Cruz_-_Tiziano.jpg?v=1664890675"
+metaDescription: "Uma meditação sobre o olhar de Jesus na Paixão, aquilo que se colocava diante d’Ele e o que isso revela sobre o mistério da redenção. "
 ---
 
 **Há uma pergunta que a tradição cristã pouco formula nesses termos, mas que atravessa as grandes meditações sobre a Paixão: o que se passava no interior de Cristo enquanto Ele morria? **
