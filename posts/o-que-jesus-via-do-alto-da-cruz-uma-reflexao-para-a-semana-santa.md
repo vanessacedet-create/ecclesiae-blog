@@ -8,6 +8,7 @@ excerpt: "Uma meditação sobre o olhar de Jesus na Paixão, aquilo que se coloc
 slug: "o-que-jesus-via-do-alto-da-cruz-uma-reflexao-para-a-semana-santa"
 status: "draft"
 coverImage: "https://cdn.shopify.com/s/files/1/0278/9628/3224/files/Cristo_Cargando_la_Cruz_-_Tiziano.jpg?v=1664890675"
+metaTitle: "O que Jesus via do alto da Cruz: uma reflexão para a Semana Santa"
 metaDescription: "Uma meditação sobre o olhar de Jesus na Paixão, aquilo que se colocava diante d’Ele e o que isso revela sobre o mistério da redenção. "
 tags: ["Semana Santa", "Catolicismo", "Jesus"]
 ---
