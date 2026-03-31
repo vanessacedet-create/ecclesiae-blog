@@ -6,8 +6,7 @@ category: "Catolicismo"
 author: "Redação Ecclesiae"
 slug: "o-que-jesus-via-do-alto-da-cruz-uma-reflexao-para-a-semana-santa"
 status: "draft"
-coverImage: "https://media.istockphoto.com/id/473325362/pt/vetorial/roma-jesus-na-cruz-pintura.jpg?s=2048x2048&w=is&k=20&c=bIAjpHvkEeCzapTLEvWM92lZ43BShPm-QXwGYEdHZ5Q="
-coverPosition: "top center"
+coverImage: "https://cdn.shopify.com/s/files/1/0278/9628/3224/files/Cristo_Cargando_la_Cruz_-_Tiziano.jpg?v=1664890675"
 ---
 
 **Há uma pergunta que a tradição cristã pouco formula nesses termos, mas que atravessa as grandes meditações sobre a Paixão: o que se passava no interior de Cristo enquanto Ele morria? **
