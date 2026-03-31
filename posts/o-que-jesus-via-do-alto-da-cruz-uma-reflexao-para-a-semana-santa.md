@@ -27,7 +27,7 @@ Esta meditação se organiza em quatro aspectos: aquilo que se colocava diante d
 
 A Cruz foi erguida em um ponto elevado, e esse dado possui implicações que ultrapassam a descrição física. 
 
-Dessa posição, o olhar de Cristo alcançava Jerusalém, com o Templo, as muralhas e as ruas pelas quais havia passado ao longo de Sua vida pública. Também se estendia até o Monte das Oliveiras, onde havia rezado na noite anterior, e incluía a multidão que dias antes O recebera e que agora, ao menos em parte, participava da rejeição. 
+Dessa posição, o olhar de Cristo alcançava Jerusalém, com o Templo, as muralhas e as ruas pelas quais havia passado ao longo de Sua vida pública. Também se estendia até **o Monte das Oliveiras,** onde havia rezado na noite anterior, e incluía a multidão que dias antes O recebera e que agora, ao menos em parte, participava da rejeição. 
 
 ![martin calvario](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/martin-calvario-1774972325658.jpg)
 
