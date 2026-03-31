@@ -11,7 +11,7 @@ coverImage: "https://cdn.shopify.com/s/files/1/0278/9628/3224/files/Cristo_Carga
 metaDescription: "Uma meditação sobre o olhar de Jesus na Paixão, aquilo que se colocava diante d’Ele e o que isso revela sobre o mistério da redenção. "
 ---
 
-**Há uma pergunta que a tradição cristã pouco formula nesses termos, mas que atravessa as grandes meditações sobre a Paixão: o que se passava no interior de Cristo enquanto Ele morria?**
+Há uma pergunta que a tradição cristã pouco formula nesses termos, mas que atravessa as grandes meditações sobre a Paixão: o que se passava no interior de Cristo enquanto Ele morria?
 
 Aqui não visamos nos referir ao que era visível aos outros, nem do que a multidão dizia, do que os soldados executavam ou do que os discípulos, dispersos e tomados pelo medo, conseguiam compreender. A questão se dirige ao próprio Cristo: o que se apresentava ao Seu olhar, o que estava diante d’Ele e o que preenchia o Seu interior naquelas horas. 
 
@@ -30,4 +30,4 @@ Dessa posição, o olhar de Cristo alcançava Jerusalém, com o Templo, as mural
 
 Havia, portanto, uma realidade concreta diante de Seus olhos, mas não apenas isso. A memória reunia rostos, acontecimentos e histórias que não se reduziam ao instante presente. A mulher que tocara Suas vestes, o cego que passara a ver, Lázaro chamado para fora do túmulo, e Pedro, que naquela mesma madrugada O negara, compunham um campo de presença que não dependia da proximidade física. 
 
-Esse olhar não se limitava ao que era imediatamente visível. À luz da fé da Igreja, ele se estendia à totalidade daqueles por quem o sacrifício era oferecido. Não se tratava de uma visão interrompida pelo sofrimento, mas de uma visão na qual o sofrimento estava integrado a um sentido que o ultrapassa. 
+Esse olhar não se limitava ao que era imediatamente visível. À luz da fé da Igreja, ele se estendia à totalidade daqueles por quem o sacrifício era oferecido. Não se tratava de uma visão interrompida pelo sofrimento, mas de uma visão na qual o sofrimento estava integrado a um sentido que o ultrapassa.
