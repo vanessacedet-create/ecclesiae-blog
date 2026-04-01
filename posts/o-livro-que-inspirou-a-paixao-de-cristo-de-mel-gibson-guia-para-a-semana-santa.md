@@ -10,4 +10,4 @@ status: "draft"
 
 Há fiéis que, ao saírem da celebração da Paixão na Sexta-feira Santa, sentem que o mistério lhes escapou pelas mãos. A liturgia realizou-se com toda a sua solenidade, a Cruz foi adorada, o Evangelho da Paixão foi proclamado até o fim, e ainda assim algo permaneceu fechado, como uma câmara interior à qual não se encontrou a entrada. 
 
-A Beata Anna Catarina Emmerich conhecia essa câmara por dentro. Acamada em Dülmen, sustentada apenas pela Eucaristia, com as chagas da Paixão no corpo, ela habitava o Calvário. O poeta Clemens Brentano dedicou anos a recolher o que ela descrevia em êxtase, e o fruto desse trabalho está em “Vida e Paixão do Cordeiro de Deus”, publicado pela Ecclesiae. 
+A Beata Anna Catarina Emmerich conhecia essa câmara por dentro. Acamada em Dülmen, sustentada apenas pela Eucaristia, com as chagas da Paixão no corpo, ela habitava o Calvário. O poeta Clemens Brentano dedicou anos a recolher o que ela descrevia em êxtase, e o fruto desse trabalho está em “Vida e Paixão do Cordeiro de Deus”, publicado pela Ecclesiae.
