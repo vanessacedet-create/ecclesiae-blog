@@ -35,6 +35,8 @@ Anna Catarina Emmerich faleceu em 9 de fevereiro de 1824, aos 49 anos. Foi beati
 
 ## As visões da Paixão: o que Emmerich viu e como foi registrado
 
+![Anne Catherine bio pic](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/anne-catherine-bio-pic-1775130233498.jpg)
+
 
 As visões de Anna Catarina Emmerich sobre a Paixão de Cristo são narrativas densas, coerentes e repletas de detalhes históricos e culturais sobre o mundo judaico do primeiro século, detalhes que uma freira alemã camponesa e praticamente sem instrução formal não teria como conhecer por meios ordinários. 
 
