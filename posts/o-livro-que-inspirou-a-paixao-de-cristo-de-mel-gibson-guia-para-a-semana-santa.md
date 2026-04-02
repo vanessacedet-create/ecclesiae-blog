@@ -49,6 +49,8 @@ O livro publicado pela Ecclesiae, ["Vida e Paixão do Cordeiro de Deus",](https:
 
 ## Da mística ao cinema: por que as visões de Emmerich ganharam o mundo 
 
+![a paixc3a3o de cristo](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/a-paixc3a3o-de-cristo-1775130321582.webp)
+
 
 Em 2004, quando o cineasta Mel Gibson lançou A Paixão de Cristo, milhões de pessoas ao redor do mundo foram apresentadas a uma representação da Paixão de uma intensidade visual e dramática sem precedentes no cinema. O que muitos espectadores não sabiam é que Gibson se inspirou diretamente nas visões de Anna Catarina Emmerich para construir boa parte das cenas do filme, especialmente nos detalhes do sofrimento físico de Cristo e na presença de Maria ao longo do percurso até o Calvário. 
 
