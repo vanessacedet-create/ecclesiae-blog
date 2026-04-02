@@ -25,6 +25,10 @@ A Beata Anna Catarina Emmerich conhecia essa câmara por dentro. Acamada em Dül
 
 Anna Catarina Emmerich nasceu em 8 de setembro de 1774 em Flamschen, perto de Coesfeld, na Vestfália, atual Alemanha. Filha de camponeses pobres e devotos, cresceu em um ambiente marcado pela piedade simples e pela vida rural. Desde a infância, no entanto, sua experiência religiosa ia muito além do ordinário: relatava visões de Cristo, de Maria e de santos com uma naturalidade que seus familiares levaram tempo para compreender. 
 
+![Dülmen Hl. Kreuz Anna Katharina Emmerick Sterbezimmer](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/d-lmen-hl--kreuz-anna-katharina-emmerick-sterbezimmer-1775129740606.jpg)
+
+
+
 Aos 28 anos, foi admitida no convento das agostinianas em Dülmen, onde viveu com grande austeridade. Com o fechamento dos conventos durante as guerras napoleônicas, passou a viver como enferma e reclusa. A partir de 1812, sua vida tomou uma dimensão ainda mais singular: recebeu os estigmas da Paixão, as feridas visíveis nas mãos, nos pés e no costado, e passou a sustentar-se milagrosamente apenas da Eucaristia, condição que foi investigada e atestada pelas autoridades eclesiásticas da época.
 
 Acamada pelos últimos anos de vida, Emmerich recebeu visitas de clérigos, intelectuais e curiosos de toda a Europa. Entre eles estava o poeta romântico alemão Clemens Brentano, que passou anos ao seu lado anotando sistematicamente tudo o que ela relatava. Dessas anotações nasceram os livros que tornaram suas visões conhecidas no mundo inteiro. 
