@@ -16,7 +16,8 @@ A Beata Anna Catarina Emmerich conhecia essa câmara por dentro. Acamada em Dül
 
 <a href="https://ecclesiae.com.br/vida-e-paixao-do-cordeiro-de-deus?author_id=1071" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Saiba mais</a>
 
-Quem foi Anna Catarina Emmerich 
+
+## Quem foi Anna Catarina Emmerich 
 
 Anna Catarina Emmerich nasceu em 8 de setembro de 1774 em Flamschen, perto de Coesfeld, na Vestfália, atual Alemanha. Filha de camponeses pobres e devotos, cresceu em um ambiente marcado pela piedade simples e pela vida rural. Desde a infância, no entanto, sua experiência religiosa ia muito além do ordinário: relatava visões de Cristo, de Maria e de santos com uma naturalidade que seus familiares levaram tempo para compreender. 
 
