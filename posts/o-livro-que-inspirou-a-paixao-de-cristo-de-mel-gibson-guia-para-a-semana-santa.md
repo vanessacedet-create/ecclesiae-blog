@@ -32,10 +32,12 @@ Acamada pelos últimos anos de vida, Emmerich recebeu visitas de clérigos, inte
 
 Anna Catarina Emmerich faleceu em 9 de fevereiro de 1824, aos 49 anos. Foi beatificada pelo Papa São João Paulo II em 3 de outubro de 2004, que a descreveu como alguém que serviu à salvação tanto pela proclamação quanto pela união de seus sofrimentos aos de Cristo.
 
-**As visões da Paixão: o que Emmerich viu e como foi registrado **
+
+## As visões da Paixão: o que Emmerich viu e como foi registrado
+
 
 As visões de Anna Catarina Emmerich sobre a Paixão de Cristo são narrativas densas, coerentes e repletas de detalhes históricos e culturais sobre o mundo judaico do primeiro século, detalhes que uma freira alemã camponesa e praticamente sem instrução formal não teria como conhecer por meios ordinários. 
 
 Emmerich descrevia as cenas como quem as havia presenciado, envolvendo a geografia de Jerusalém, os costumes da época, a sequência precisa dos eventos da Paixão desde a Última Ceia até o sepulcro. Brentano registrava tudo, e o resultado foi uma obra de alcance espiritual e histórico que continua sendo lida e comentada quase dois séculos depois. 
 
-É importante situar corretamente o estatuto dessas visões dentro da fé católica. São revelações privadas, em que a Igreja não obriga os fiéis a aceitá-las, mas reconhece nelas um valor espiritual edificante, consistente com a Sagrada Escritura e com a Tradição. A beatificação de Emmerich em 2004 foi um reconhecimento de sua vida de santidade pessoal, não uma canonização dos escritos como textos normativos. Feita essa distinção, a obra permanece como um dos mais ricos tesouros da mística católica do século XIX. 
+É importante situar corretamente o estatuto dessas visões dentro da fé católica. São revelações privadas, em que a Igreja não obriga os fiéis a aceitá-las, mas reconhece nelas um valor espiritual edificante, consistente com a Sagrada Escritura e com a Tradição. A beatificação de Emmerich em 2004 foi um reconhecimento de sua vida de santidade pessoal, não uma canonização dos escritos como textos normativos. Feita essa distinção, a obra permanece como um dos mais ricos tesouros da mística católica do século XIX.
