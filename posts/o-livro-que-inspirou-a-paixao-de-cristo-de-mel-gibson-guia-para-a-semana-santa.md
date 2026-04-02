@@ -62,7 +62,7 @@ Para quem assistiu ao filme e ficou com perguntas, com aquela sensação de que 
 ## Como usar este livro durante a Semana Santa 
 
 
-“Vida e Paixão do Cordeiro de Deus” não precisa ser lido de uma vez, do começo ao fim. Sua estrutura narrativa permite uma leitura acompanhada do calendário litúrgico, o que torna o livro especialmente adequado para os dias do Tríduo Pascal. 
+[“Vida e Paixão do Cordeiro de Deus” não precisa ser lido de uma vez, do começo ao fim.](https://ecclesiae.com.br/vida-e-paixao-do-cordeiro-de-deus) Sua estrutura narrativa permite uma leitura acompanhada do calendário litúrgico, o que torna o livro especialmente adequado para os dias do Tríduo Pascal. 
 
 Na Quinta-feira Santa, a narrativa da Última Ceia e do início da Paixão oferece matéria rica para a meditação após a Missa da Ceia do Senhor. Na Sexta-feira Santa, os capítulos sobre o Calvário podem acompanhar a Via Sacra particular ou substituí-la em um momento de leitura orante em casa. No Sábado Santo, o tom contemplativo da obra se ajusta naturalmente ao silêncio próprio desse dia, o mais austero de todo o ano litúrgico. 
 
