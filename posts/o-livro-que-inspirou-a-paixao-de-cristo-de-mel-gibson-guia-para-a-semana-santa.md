@@ -54,7 +54,9 @@ Essa conexão entre a mística alemã do século XIX e o cinema contemporâneo n
 
 Para quem assistiu ao filme e ficou com perguntas, com aquela sensação de que havia algo mais a entender, o livro é o passo seguinte natural. Ele oferece o que o cinema, por sua própria natureza, não pode oferecer: tempo, silêncio, detalhe e possibilidade de parar, retornar e meditar. 
 
-Como usar este livro durante a Semana Santa 
+
+## Como usar este livro durante a Semana Santa 
+
 
 “Vida e Paixão do Cordeiro de Deus” não precisa ser lido de uma vez, do começo ao fim. Sua estrutura narrativa permite uma leitura acompanhada do calendário litúrgico, o que torna o livro especialmente adequado para os dias do Tríduo Pascal. 
 
@@ -62,6 +64,4 @@ Na Quinta-feira Santa, a narrativa da Última Ceia e do início da Paixão ofere
 
 Para quem tem o hábito da leitura de cabeceira, o livro se presta igualmente bem a uma leitura gradual nos dias anteriores ao Tríduo, como preparação espiritual para as celebrações. 
 
-Não é uma obra que exige formação teológica específica. Exige disposição para ler com atenção e para deixar que as cenas descritas por Emmerich encontrem ressonância na própria vida interior. É um livro para quem quer viver a Semana Santa com mais profundidade, e não apenas cumpri-la. 
-
-A Semana Santa oferece, a cada ano, dias em que o tempo ordinário cede lugar à contemplação. Aproveitá-los bem exige, muitas vezes, um guia. 
+Não é uma obra que exige formação teológica específica, contudo, exige disposição para ler com atenção e para deixar que as cenas descritas por Emmerich encontrem ressonância na própria vida interior. É um livro para quem quer viver a Semana Santa com mais profundidade, pois a Semana oferece, a cada ano, dias em que o tempo ordinário cede lugar à contemplação.
