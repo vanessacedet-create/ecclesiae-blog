@@ -6,9 +6,9 @@ category: "Guias de leitura"
 author: "Redação Ecclesiae"
 excerpt: "A história da beata agostiniana alemã, Anna Catarina Emmerich, a mística que viu o Calvário. As visões que registrou sobre a Paixão de Cristo está em um livro que ainda hoje conduz leitores pelos mistérios da Paixão de Cristo."
 slug: "o-livro-que-inspirou-a-paixao-de-cristo-de-mel-gibson-guia-para-a-semana-santa"
-status: "published"
+status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Matthias_Stom_-_Christ_Crowned_with_Thorns.jpg/1280px-Matthias_Stom_-_Christ_Crowned_with_Thorns.jpg"
-metaTitle: "O livro que inspirou A Paixão de Cristo de Mel Gibson: guia para "
+metaTitle: "O livro que inspirou A Paixão de Cristo de Mel Gibson"
 metaDescription: "A história da beata agostiniana alemã, Anna Catarina Emmerich, a mística que viu o Calvário. As visões que registrou sobre a Paixão de Cristo inspirou o filme."
 tags: ["Semana Santa", "Livro", "Guia"]
 ---
