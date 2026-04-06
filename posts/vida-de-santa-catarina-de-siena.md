@@ -37,6 +37,9 @@ Diante de tal determinação, seu progenitor reconheceu que ela era guiada pelo 
 
 ## O desposório místico e a missão no mundo
 
+![nmyywg8z523l06nfz642bc9txk8m](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/nmyywg8z523l06nfz642bc9txk8m-1775494040882.jpg)
+
+
 Por volta de seus vinte anos, teve uma visão do seu desposório místico com Nosso Senhor Jesus Cristo. Numa aparição inesquecível, a Santíssima Virgem Maria apresentou-a a Seu Divino Filho, que lhe colocou no dedo um anel de ouro ornado com quatro pérolas e um diamante, dizendo-lhe: 
 > "Eu, teu Criador e Salvador, desposo-te na fé, que conservarás sempre pura até que celebres comigo no céu tuas bodas eternas".
 
