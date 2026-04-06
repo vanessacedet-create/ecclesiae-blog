@@ -31,3 +31,11 @@ Em um período em que o Papado se encontrava exilado em Avinhão, a Itália dila
 Desde a mais tenra infância, via-se pairar sobre aquela menina um alto desígnio da Providência. Aos seis anos de idade, voltando de um passeio com seu irmão Estêvão, Catarina teve uma visão, na qual viu Nosso Senhor Jesus Cristo revestido com paramentos pontificais, sentado num trono resplandecente no alto da igreja dos dominicanos.
 
 Movida por esta experiência, a pequena Catarina consagrou sua virgindade a Cristo aos sete anos, diante de um altar da Santíssima Virgem Maria. Era uma criança alegre e piedosa, mas desde então seu coração pertencia inteiramente ao Senhor. A atuação do Espírito Santo em sua alma manifestava-se frequentemente através de fenômenos místicos que muitas vezes transpareciam no exterior; conta-se que, ainda menina, ao subir e descer as escadas da casa paterna, era por vezes transportada pelos ares, tocando os degraus apenas quando desejava pôr-se de joelhos para fazer atos de reverência e amor à Mãe de Deus.
+
+
+## A resistência familiar e a entrada na Ordem Dominicana
+
+
+Quando a santa atingiu a idade em que, segundo os costumes da época, deveria preparar-se para o matrimônio, sua família empenhou-se em dissuadi-la de seu propósito de consagração. Ela, porém, resistiu com firmeza, e para selar definitivamente sua ruptura com as vaidades do mundo, cortou os cabelos em sinal de que, a partir de então, serviria apenas ao Senhor. 
+
+Diante de tal determinação, seu progenitor reconheceu que ela era guiada pelo Espírito Santo e ordenou à família que a deixasse cumprir em paz sua vocação. Assim, aos quinze ou dezesseis anos, Santa Catarina ingressou entre as “Irmãs da Penitência de Santo Domingo”, conhecidas como Mantellate, uma congregação de mulheres consagradas que viviam no mundo, dedicadas à oração, à penitência e às obras de caridade.
