@@ -43,3 +43,14 @@ Por volta de seus vinte anos, teve uma visão do seu desposório místico com No
 Pouco depois, em outra visão, Jesus, seu Esposo místico, encarregou-a de deixar a vida de reclusão e dedicar-se com todas as suas forças às obras de caridade e à conversão dos pecadores. A partir de então, Catarina passou a servir aos pobres e enfermos nos hospitais de Siena, atraindo em torno de si um círculo de discípulos que a chamavam com afeto e veneração de *"mamã dulcíssima".*
 
 Ela se tornou uma voz profética, escrevendo centenas de cartas a papas, cardeais, bispos, soberanos e pessoas de todas as condições, exortando-os à conversão, à paz e à reforma dos costumes, com franqueza corajosa, não temendo apontar as faltas humanas do Vigário de Cristo nem lembrá-lo de suas graves responsabilidades.
+Os últimos combates e a morte consumada pela Igreja
+
+O retorno do Papa a Roma, porém, não pôs termo às tribulações da Igreja. Após a morte de Gregório XI em março de 1378, a eleição de seu sucessor Urbano VI desencadeou uma crise em que, cardeais franceses descontentes declararam inválida a eleição e escolheram um antipapa, dando início ao Grande Cisma do Ocidente, que dividiria a cristandade por quase quatro décadas. A santa, reconhecendo Urbano VI como legítimo Pontífice, foi chamada por ele a Roma, onde se estabeleceu no final de 1378 para lutar, com orações, exortações e cartas, pela unidade da Igreja.
+
+Ali, consumida pelo ardor e pelas fadigas, a santa entregou sua vida pelo Corpo Místico de seu Amado Senhor. Nos primeiros meses de 1380, fortes dores físicas passaram a afligi-la continuamente, mas mesmo assim não cessavam suas experiências místicas nem seu zelo pela Igreja. Em 29 de abril de 1380, rodeada por seus discípulos, Santa Catarina de Siena expirou aos trinta e três anos de idade, a mesma idade de Cristo. Suas últimas palavras resumem toda a sua existência: 
+
+
+> "Partindo-me do corpo, na verdade, consumei e dei a vida na Igreja e pela Igreja Santa, o que me é singularíssima graça".
+
+
+O Papa Pio II canonizou-a em 1461. Em 1970, Paulo VI proclamou-a Doutora da Igreja, e em 1999, São João Paulo II declarou-a copadroeira da Europa. Seu corpo repousa na Basílica de Santa Maria sopra Minerva, em Roma, enquanto sua cabeça incorrupta é venerada na Basílica de São Domingos, em Siena. Aquela que outrora fora uma simples leiga analfabeta tornou-se uma das maiores luzes da Igreja, provando ao mundo que o amor de Deus é capaz de consumir e transformar inteiramente uma alma que a Ele se entrega sem reservas.
