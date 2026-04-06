@@ -52,8 +52,6 @@ O retorno do Papa a Roma, porém, não pôs termo às tribulações da Igreja. A
 
 Ali, consumida pelo ardor e pelas fadigas, a santa entregou sua vida pelo Corpo Místico de seu Amado Senhor. Nos primeiros meses de 1380, fortes dores físicas passaram a afligi-la continuamente, mas mesmo assim não cessavam suas experiências místicas nem seu zelo pela Igreja. Em 29 de abril de 1380, rodeada por seus discípulos, Santa Catarina de Siena expirou aos trinta e três anos de idade, a mesma idade de Cristo. Suas últimas palavras resumem toda a sua existência: 
 
-
 > "Partindo-me do corpo, na verdade, consumei e dei a vida na Igreja e pela Igreja Santa, o que me é singularíssima graça".
-
 
 O Papa Pio II canonizou-a em 1461. Em 1970, Paulo VI proclamou-a Doutora da Igreja, e em 1999, São João Paulo II declarou-a copadroeira da Europa. Seu corpo repousa na Basílica de Santa Maria sopra Minerva, em Roma, enquanto sua cabeça incorrupta é venerada na Basílica de São Domingos, em Siena. Aquela que outrora fora uma simples leiga analfabeta tornou-se uma das maiores luzes da Igreja, provando ao mundo que o amor de Deus é capaz de consumir e transformar inteiramente uma alma que a Ele se entrega sem reservas.
