@@ -24,6 +24,10 @@ Em um período em que o Papado se encontrava exilado em Avinhão, a Itália dila
 ## A aurora da graça e o voto de virgindade
 
 
+
+![maxresdefault](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/maxresdefault-1775493801720.jpg)
+
+
 Desde a mais tenra infância, via-se pairar sobre aquela menina um alto desígnio da Providência. Aos seis anos de idade, voltando de um passeio com seu irmão Estêvão, Catarina teve uma visão, na qual viu Nosso Senhor Jesus Cristo revestido com paramentos pontificais, sentado num trono resplandecente no alto da igreja dos dominicanos.
 
 Movida por esta experiência, a pequena Catarina consagrou sua virgindade a Cristo aos sete anos, diante de um altar da Santíssima Virgem Maria. Era uma criança alegre e piedosa, mas desde então seu coração pertencia inteiramente ao Senhor. A atuação do Espírito Santo em sua alma manifestava-se frequentemente através de fenômenos místicos que muitas vezes transpareciam no exterior; conta-se que, ainda menina, ao subir e descer as escadas da casa paterna, era por vezes transportada pelos ares, tocando os degraus apenas quando desejava pôr-se de joelhos para fazer atos de reverência e amor à Mãe de Deus.
