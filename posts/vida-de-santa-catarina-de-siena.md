@@ -46,7 +46,10 @@ Por volta de seus vinte anos, teve uma visão do seu desposório místico com No
 Pouco depois, em outra visão, Jesus, seu Esposo místico, encarregou-a de deixar a vida de reclusão e dedicar-se com todas as suas forças às obras de caridade e à conversão dos pecadores. A partir de então, Catarina passou a servir aos pobres e enfermos nos hospitais de Siena, atraindo em torno de si um círculo de discípulos que a chamavam com afeto e veneração de *"mamã dulcíssima".*
 
 Ela se tornou uma voz profética, escrevendo centenas de cartas a papas, cardeais, bispos, soberanos e pessoas de todas as condições, exortando-os à conversão, à paz e à reforma dos costumes, com franqueza corajosa, não temendo apontar as faltas humanas do Vigário de Cristo nem lembrá-lo de suas graves responsabilidades.
-Os últimos combates e a morte consumada pela Igreja
+
+
+## Os últimos combates e a morte consumada pela Igreja
+
 
 O retorno do Papa a Roma, porém, não pôs termo às tribulações da Igreja. Após a morte de Gregório XI em março de 1378, a eleição de seu sucessor Urbano VI desencadeou uma crise em que, cardeais franceses descontentes declararam inválida a eleição e escolheram um antipapa, dando início ao Grande Cisma do Ocidente, que dividiria a cristandade por quase quatro décadas. A santa, reconhecendo Urbano VI como legítimo Pontífice, foi chamada por ele a Roma, onde se estabeleceu no final de 1378 para lutar, com orações, exortações e cartas, pela unidade da Igreja.
 
