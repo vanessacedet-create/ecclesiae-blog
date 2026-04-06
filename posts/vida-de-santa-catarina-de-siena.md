@@ -38,7 +38,6 @@ O desposório místico e a missão no mundo
 Por volta de seus vinte anos, teve uma visão do seu desposório místico com Nosso Senhor Jesus Cristo. Numa aparição inesquecível, a Santíssima Virgem Maria apresentou-a a Seu Divino Filho, que lhe colocou no dedo um anel de ouro ornado com quatro pérolas e um diamante, dizendo-lhe: 
 > "Eu, teu Criador e Salvador, desposo-te na fé, que conservarás sempre pura até que celebres comigo no céu tuas bodas eternas".
 
-
 Pouco depois, em outra visão, Jesus, seu Esposo místico, encarregou-a de deixar a vida de reclusão e dedicar-se com todas as suas forças às obras de caridade e à conversão dos pecadores. A partir de então, Catarina passou a servir aos pobres e enfermos nos hospitais de Siena, atraindo em torno de si um círculo de discípulos que a chamavam com afeto e veneração de *"mamã dulcíssima".*
 
 Ela se tornou uma voz profética, escrevendo centenas de cartas a papas, cardeais, bispos, soberanos e pessoas de todas as condições, exortando-os à conversão, à paz e à reforma dos costumes, com franqueza corajosa, não temendo apontar as faltas humanas do Vigário de Cristo nem lembrá-lo de suas graves responsabilidades.
