@@ -50,6 +50,8 @@ Ela se tornou uma voz profética, escrevendo centenas de cartas a papas, cardeai
 
 ## Os últimos combates e a morte consumada pela Igreja
 
+![Catarina de Siena casamento. Pierre Subleyras](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/catarina-de-siena-casamento--pierre-subleyras-1775494167914.jpg)
+
 
 O retorno do Papa a Roma, porém, não pôs termo às tribulações da Igreja. Após a morte de Gregório XI em março de 1378, a eleição de seu sucessor Urbano VI desencadeou uma crise em que, cardeais franceses descontentes declararam inválida a eleição e escolheram um antipapa, dando início ao Grande Cisma do Ocidente, que dividiria a cristandade por quase quatro décadas. A santa, reconhecendo Urbano VI como legítimo Pontífice, foi chamada por ele a Roma, onde se estabeleceu no final de 1378 para lutar, com orações, exortações e cartas, pela unidade da Igreja.
 
