@@ -12,7 +12,6 @@ Com essas palavras, Alice von Hildebrand, autora de “O Privilégio de Ser Mulh
 
 A edição desta obra pela Editora Ecclesiae, que abordamos nesse texto, chega num momento em que as mulheres, paradoxalmente, nunca estiveram tão livres segundo os critérios do mundo e nunca pareceram tão esgotadas segundo os dados da realidade. 
 
-
 ## A autora de "A mulher eterna" e sua visão do feminino
 
 Gertrud von le Fort (1876-1971) nasceu em Minden, na Alemanha, numa família de origem huguenote. Estudou teologia protestante, história e filosofia nas universidades de Heidelberg, Marburg e Berlim. Em 1926, aos cinquenta anos, converteu-se ao catolicismo em Roma. Sua obra literária, traduzida para mais de dezessete línguas, inclui romances e poesias. Von le Fort figura entre os grandes escritores católicos do século XX, ao lado de Paul Claudel, G.K. Chesterton e sua compatriota Edith Stein.
