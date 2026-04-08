@@ -11,7 +11,7 @@ coverImage: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Czach%C3%B3rski
 coverPosition: "top center"
 ---
 
-> "Há livros que, por serem atemporais, são sempre oportunos. É por isso que a reedição de ‘A Mulher Eterna’, de Gertrud von le Fort, deve ser não apenas bem-vinda, mas aclamada."
+"Há livros que, por serem atemporais, são sempre oportunos. É por isso que a reedição de ‘A Mulher Eterna’, de Gertrud von le Fort, deve ser não apenas bem-vinda, mas aclamada."
 
 Com essas palavras, Alice von Hildebrand, autora de [“O Privilégio de Ser Mulher”,](https://ecclesiae.com.br/o-privilegio-de-ser-mulher) apresenta a obra que ela considera, "uma meditação sublime sobre as palavras de São Paulo: 'Porque quando sou fraco, então sou forte' (2 Cor 12, 10)". Para a filósofa católica, [“A Mulher Eterna”](https://ecclesiae.com.br/a-mulher-eterna) constitui um apelo às mulheres: imitar Maria, a Mãe por excelência, é o caminho para a vitória: Tudo posso naquele que me fortalece (Fl 4, 13).
 
@@ -51,4 +51,3 @@ Para as mulheres católicas que buscam compreender sua vocação num tempo de co
 
 
 <a href="https://ecclesiae.com.br/a-mulher-eterna" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Garanat o seu livro!</a>
-
