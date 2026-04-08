@@ -32,6 +32,10 @@ A autora adverte desde o início que seu livro interpreta o significado da mulhe
 
 ## A tragédia do feminismo e a maternidade esquecida
 
+
+![Circe Offering the Cup to Odysseus (2457 x 4023px ed.)](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/circe-offering-the-cup-to-odysseus--2457-x-4023px-ed---1775665024146.jpg)
+
+
 A autora reconhece as dores que motivaram o movimento feminista, na monotonia e na estreiteza das famílias de classe média, escreve, “dada a ânsia de suas almas insatisfeitas, as mulheres daquele período clamavam por espírito e amor. Aqui reside sua tragédia profunda e digna de respeito." Porém, ao tentar compartilhar o mundo intelectual masculino, a mulher afundou ao nível de seus simples métodos e permitiu-se ser inserida como uma engrenagem no aparato do homem. O erro residia no caráter de uma época que não conhecia mais suas obrigações nem a direção de seu objetivo final.
 
 Conforme observa Aline Brodbeck no posfácio desta edição, a perda do véu, seja simbólica ou literal, representa a perda do mistério. A autora do posfácio, estudiosa da vocação feminina, sublinha que "a mulher encontra a Verdade não na autoglorificação, mas na capacidade de doação, de concepção e acolhimento". 
