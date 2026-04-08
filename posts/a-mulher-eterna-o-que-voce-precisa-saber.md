@@ -4,7 +4,7 @@ date: "2026-04-08"
 categories: ["Guias de leitura"]
 category: "Guias de leitura"
 author: "Redação Ecclesiae"
-excerpt: "A obra de Gertrud von le Fort que ilumina o mistério da feminilidade à luz da fé católica"
+excerpt: "A obra de Gertrud von le Fort que ilumina o mistério da feminilidade à luz da fé católica."
 slug: "a-mulher-eterna-o-que-voce-precisa-saber"
 status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Czach%C3%B3rski_Lady_in_a_lilac_dress.jpg"
