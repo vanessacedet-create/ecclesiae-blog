@@ -43,6 +43,8 @@ A maternidade, longe de ser apenas um fator biológico, "representa a continuida
 
 ## Maria como chave de compreensão
 
+![1986.289 GAP scaled aspect ratio 2.25 1](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/1986-289-gap-scaled-aspect-ratio-2-25-1-1775665058799.jpg)
+
 O livro apresenta a missão mariana como chave de inteligibilidade da mulher e da própria ordem do mundo. Maria é apresentada como princípio hermenêutico: "Assim como Maria precede a manifestação de Cristo pelo seu fiat, também toda renovação cultural autêntica será precedida por um retorno à humildade, à receptividade e ao reconhecimento de que a vida é dom antes de ser projeto", observa Brodbeck. A mulher encontra sua realização cooperando com a ordem do ser. Sua força nasce da consonância com o plano divino, da fidelidade à sua estrutura criada por Deus.
 
 Para as mulheres católicas que buscam compreender sua vocação num tempo de confusão, essa obra oferece uma contemplação restauradora. O livro se propõe a redescobrir aquilo que Alice von Hildebrand chamou de "o sentido do sobrenatural, que faz do ser mulher um privilégio e um sinal de grandeza".
