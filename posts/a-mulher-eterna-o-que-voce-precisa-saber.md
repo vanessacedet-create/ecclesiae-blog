@@ -1,6 +1,9 @@
 ---
 title: "A Mulher Eterna: o que você precisa saber antes de ler"
 date: "2026-04-08"
+categories: ["Guias de leitura"]
+category: "Guias de leitura"
+author: "Redação Ecclesiae"
 excerpt: "A obra de Gertrud von le Fort que ilumina o mistério da feminilidade à luz da fé católica"
 slug: "a-mulher-eterna-o-que-voce-precisa-saber"
 status: "draft"
