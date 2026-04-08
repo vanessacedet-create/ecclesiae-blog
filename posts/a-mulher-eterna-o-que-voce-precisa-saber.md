@@ -23,7 +23,7 @@ A edição desta obra publicada pela Editora Ecclesiae, que abordamos neste text
 
 ![Gertrud von Le Fort 0](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/gertrud-von-le-fort-0-1775664747509.webp)
 
-Gertrud von le Fort (1876-1971) nasceu em Minden, na Alemanha, numa família de origem huguenote. Estudou teologia protestante, história e filosofia nas universidades de Heidelberg, Marburg e Berlim. Em 1926, aos cinquenta anos, converteu-se ao catolicismo em Roma. Sua obra literária, traduzida para mais de dezessete línguas, inclui romances e poesias. Von le Fort figura entre os grandes escritores católicos do século XX, ao lado de Paul Claudel, G.K. Chesterton e sua compatriota Edith Stein.
+Gertrud von le Fort (1876-1971) nasceu em Minden, na Alemanha, numa família de origem huguenote (de orientação calvinista). Estudou teologia protestante, história e filosofia nas universidades de Heidelberg, Marburg e Berlim. Em 1926, aos cinquenta anos, converteu-se ao catolicismo em Roma. Sua obra literária, traduzida para mais de dezessete línguas, inclui romances e poesias. Von le Fort figura entre os grandes escritores católicos do século XX, ao lado de Paul Claudel, G.K. Chesterton e sua compatriota Edith Stein.
 
 O encontro com a futura mártir de Auschwitz influenciou essencialmente a composição de “A Mulher Eterna”. A própria Gertrud testemunhou: "Durante o trabalho recordei frequentemente a imagem espiritual de Edith Stein como aquela que tinha em mente em minha descrição de uma autêntica mulher cristã." A piedade, a simplicidade e a modéstia unidas à alta inteligência da filósofa carmelita comunicaram a von le Fort uma visão interior do feminino que permeia toda a obra.
 
