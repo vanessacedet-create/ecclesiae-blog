@@ -15,6 +15,8 @@ coverPosition: "top center"
 
 Com essas palavras, Alice von Hildebrand, autora de [“O Privilégio de Ser Mulher”,](https://ecclesiae.com.br/o-privilegio-de-ser-mulher) apresenta a obra que ela considera, "uma meditação sublime sobre as palavras de São Paulo: 'Porque quando sou fraco, então sou forte' (2 Cor 12, 10)". Para a filósofa católica, [“A Mulher Eterna”](https://ecclesiae.com.br/a-mulher-eterna) constitui um apelo às mulheres: imitar Maria, a Mãe por excelência, é o caminho para a vitória: Tudo posso naquele que me fortalece (Fl 4, 13).
 
+---
+
 A edição desta obra publicada pela Editora Ecclesiae, que abordamos neste texto, chega num momento em que as mulheres, paradoxalmente, nunca estiveram tão livres segundo os critérios do mundo e nunca pareceram tão esgotadas segundo os dados da realidade. O que você precisa saber antes de ler este livro está aqui!
 
 ## A autora de "A mulher eterna" e sua visão do feminino
