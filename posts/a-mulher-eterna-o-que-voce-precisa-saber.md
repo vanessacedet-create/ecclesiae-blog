@@ -48,3 +48,7 @@ A maternidade, longe de ser apenas um fator biológico, "representa a continuida
 O livro apresenta a missão mariana como chave de inteligibilidade da mulher e da própria ordem do mundo. Maria é apresentada como princípio hermenêutico: "Assim como Maria precede a manifestação de Cristo pelo seu fiat, também toda renovação cultural autêntica será precedida por um retorno à humildade, à receptividade e ao reconhecimento de que a vida é dom antes de ser projeto", observa Brodbeck. A mulher encontra sua realização cooperando com a ordem do ser. Sua força nasce da consonância com o plano divino, da fidelidade à sua estrutura criada por Deus.
 
 Para as mulheres católicas que buscam compreender sua vocação num tempo de confusão, essa obra oferece uma contemplação restauradora. O livro se propõe a redescobrir aquilo que Alice von Hildebrand chamou de "o sentido do sobrenatural, que faz do ser mulher um privilégio e um sinal de grandeza".
+
+
+<a href="https://ecclesiae.com.br/a-mulher-eterna" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Garanat o seu livro!</a>
+
