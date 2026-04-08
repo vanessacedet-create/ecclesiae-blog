@@ -10,7 +10,7 @@ status: "draft"
 
 Com essas palavras, Alice von Hildebrand, autora de “O Privilégio de Ser Mulher”, apresenta a obra que ela considera, "uma meditação sublime sobre as palavras de São Paulo: 'Porque quando sou fraco, então sou forte' (2 Cor 12, 10)". Para a filósofa católica, “A Mulher Eterna” constitui um apelo às mulheres: imitar Maria, a Mãe por excelência, é o caminho para a vitória: Tudo posso naquele que me fortalece (Fl 4, 13).
 
-A edição desta obra pela Editora Ecclesiae, que abordamos nesse texto, chega num momento em que as mulheres, paradoxalmente, nunca estiveram tão livres segundo os critérios do mundo e nunca pareceram tão esgotadas segundo os dados da realidade. 
+A edição desta obra pela Editora Ecclesiae, que abordamos nesse texto, chega num momento em que as mulheres, paradoxalmente, nunca estiveram tão livres segundo os critérios do mundo e nunca pareceram tão esgotadas segundo os dados da realidade. O que você precisa saber antes de ler esse livro, está aqui!
 
 ## A autora de "A mulher eterna" e sua visão do feminino
 
@@ -19,3 +19,10 @@ Gertrud von le Fort (1876-1971) nasceu em Minden, na Alemanha, numa família de 
 O encontro com a futura mártir de Auschwitz influenciou essencialmente a composição de “A Mulher Eterna”. A própria Gertrud testemunhou: "Durante o trabalho recordei frequentemente a imagem espiritual de Edith Stein como aquela que tinha em mente em minha descrição de uma autêntica mulher cristã." A piedade, a simplicidade e a modéstia unidas à alta inteligência da filósofa carmelita comunicaram a von le Fort uma visão interior do feminino que permeia toda a obra.
 
 A autora adverte desde o início que seu livro interpreta o significado da mulher sob o aspecto simbólico, e esta abordagem exige do leitor contemporâneo um esforço particular. Símbolos, explica von le Fort, "são sinais ou imagens pelos quais se apreendem as realidades metafísicas últimas [...] por meio de semelhanças. Os símbolos são, portanto, a linguagem de uma realidade invisível que se torna articulada no mundo visível." Quando a autora afirma que a mulher tem um vínculo especial com a esfera religiosa, refere-se à representação visual dessa qualidade, confiada de maneira especial ao feminino. O portador pode afastar-se de seu símbolo, "mas o símbolo em si permanece" inviolado e inviolável.
+
+A tragédia do feminismo e a maternidade esquecida
+A autora reconhece as dores que motivaram o movimento feminista, na monotonia e na estreiteza das famílias de classe média, escreve, “dada a ânsia de suas almas insatisfeitas, as mulheres daquele período clamavam por espírito e amor. Aqui reside sua tragédia profunda e digna de respeito." Porém, ao tentar compartilhar o mundo intelectual masculino, a mulher afundou ao nível de seus simples métodos e permitiu-se ser inserida como uma engrenagem no aparato do homem. O erro residia no caráter de uma época que não conhecia mais suas obrigações nem a direção de seu objetivo final.
+
+Conforme observa Aline Brodbeck no posfácio desta edição, a perda do véu, seja simbólica ou literal, representa a perda do mistério. A autora do posfácio, estudiosa da vocação feminina, sublinha que "a mulher encontra a Verdade não na autoglorificação, mas na capacidade de doação, de concepção e acolhimento". 
+
+A maternidade, longe de ser apenas um fator biológico, "representa a continuidade, a preservação e a mediação da vida e da cultura", sendo inata a todas as mulheres e manifestando-se de diversas formas, "sendo a espiritual por si só a definição de maternidade".
