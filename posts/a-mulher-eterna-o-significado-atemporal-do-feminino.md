@@ -28,3 +28,10 @@ A autora reconhece as dores que motivaram o movimento feminista, na monotonia e 
 Conforme observa Aline Brodbeck no posfácio desta edição, a perda do véu, seja simbólica ou literal, representa a perda do mistério. A autora do posfácio, estudiosa da vocação feminina, sublinha que "a mulher encontra a Verdade não na autoglorificação, mas na capacidade de doação, de concepção e acolhimento". 
 
 A maternidade, longe de ser apenas um fator biológico, "representa a continuidade, a preservação e a mediação da vida e da cultura", sendo inata a todas as mulheres e manifestando-se de diversas formas, "sendo a espiritual por si só a definição de maternidade".
+
+
+## Maria como chave de compreensão
+
+O livro se encerra reafirmando a missão mariana como chave de inteligibilidade da mulher e da própria ordem do mundo. Maria é apresentada como princípio hermenêutico: "Assim como Maria precede a manifestação de Cristo pelo seu fiat, também toda renovação cultural autêntica será precedida por um retorno à humildade, à receptividade e ao reconhecimento de que a vida é dom antes de ser projeto", observa Brodbeck. A mulher encontra sua realização cooperando com a ordem do ser. Sua força nasce da consonância com o plano divino, da fidelidade à sua estrutura criada por Deus.
+
+Para as mulheres católicas que buscam compreender sua vocação num tempo de confusão e esgotamento, “A Mulher Eterna” oferece uma contemplação restauradora. A obra convida a redescobrir aquilo que Alice von Hildebrand chamou de "o sentido do sobrenatural, que faz do ser mulher um privilégio e um sinal de grandeza".
