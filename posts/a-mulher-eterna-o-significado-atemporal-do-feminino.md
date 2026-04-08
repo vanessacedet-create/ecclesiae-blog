@@ -20,7 +20,9 @@ O encontro com a futura mártir de Auschwitz influenciou essencialmente a compos
 
 A autora adverte desde o início que seu livro interpreta o significado da mulher sob o aspecto simbólico, e esta abordagem exige do leitor contemporâneo um esforço particular. Símbolos, explica von le Fort, "são sinais ou imagens pelos quais se apreendem as realidades metafísicas últimas [...] por meio de semelhanças. Os símbolos são, portanto, a linguagem de uma realidade invisível que se torna articulada no mundo visível." Quando a autora afirma que a mulher tem um vínculo especial com a esfera religiosa, refere-se à representação visual dessa qualidade, confiada de maneira especial ao feminino. O portador pode afastar-se de seu símbolo, "mas o símbolo em si permanece" inviolado e inviolável.
 
-A tragédia do feminismo e a maternidade esquecida
+
+## A tragédia do feminismo e a maternidade esquecida
+
 A autora reconhece as dores que motivaram o movimento feminista, na monotonia e na estreiteza das famílias de classe média, escreve, “dada a ânsia de suas almas insatisfeitas, as mulheres daquele período clamavam por espírito e amor. Aqui reside sua tragédia profunda e digna de respeito." Porém, ao tentar compartilhar o mundo intelectual masculino, a mulher afundou ao nível de seus simples métodos e permitiu-se ser inserida como uma engrenagem no aparato do homem. O erro residia no caráter de uma época que não conhecia mais suas obrigações nem a direção de seu objetivo final.
 
 Conforme observa Aline Brodbeck no posfácio desta edição, a perda do véu, seja simbólica ou literal, representa a perda do mistério. A autora do posfácio, estudiosa da vocação feminina, sublinha que "a mulher encontra a Verdade não na autoglorificação, mas na capacidade de doação, de concepção e acolhimento". 
