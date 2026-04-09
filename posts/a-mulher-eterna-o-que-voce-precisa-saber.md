@@ -6,7 +6,7 @@ category: "Guias de leitura"
 author: "Redação Ecclesiae"
 excerpt: "A obra de Gertrud von le Fort que ilumina o mistério da feminilidade à luz da fé católica."
 slug: "a-mulher-eterna-o-que-voce-precisa-saber"
-status: "published"
+status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Czach%C3%B3rski_Lady_in_a_lilac_dress.jpg"
 coverPosition: "top center"
 metaTitle: "A Mulher Eterna: o que você precisa saber antes de ler"
@@ -53,4 +53,4 @@ O livro apresenta a missão mariana como chave de inteligibilidade da mulher e d
 Para as mulheres católicas que buscam compreender sua vocação num tempo de confusão, essa obra oferece uma contemplação restauradora. O livro se propõe a redescobrir aquilo que Alice von Hildebrand chamou de "o sentido do sobrenatural, que faz do ser mulher um privilégio e um sinal de grandeza".
 
 
-<a href="https://ecclesiae.com.br/a-mulher-eterna" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Garanat o seu livro!</a>
+<a href="https://ecclesiae.com.br/a-mulher-eterna" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Garanta o seu livro!</a>
