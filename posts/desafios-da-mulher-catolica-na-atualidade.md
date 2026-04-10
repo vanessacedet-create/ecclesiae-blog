@@ -4,6 +4,7 @@ date: "2026-04-10"
 categories: ["Catolicismo"]
 category: "Catolicismo"
 author: "Redação Ecclesiae"
+excerpt: "Três pensadoras católicas criticam vícios e mostram o caminho para viver a feminilidade como privilégio e não como fardo."
 slug: "desafios-da-mulher-catolica-na-atualidade"
 status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Domenico_Fetti_-_Sleeping_Girl_-_Google_Art_Project.jpg"
