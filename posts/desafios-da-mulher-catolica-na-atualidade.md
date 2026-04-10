@@ -19,7 +19,6 @@ O que está por trás desse vazio interior que tantas mulheres tentam preencher 
 
 ![Francesco Hayez   The Kiss 1859 detail](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/francesco-hayez-the-kiss-1859-detail-1775837404920.webp)
 
-
 Este artigo busca responder a essas perguntas à luz de três pensadoras católicas que dedicaram suas vidas a compreender o mistério da feminilidade. **Edith Stein,** filósofa e mártir carmelita, que refletiu sobre a missão da mulher segundo a natureza e a graça. **Gertrud von le Fort,** escritora alemã que, convertida ao catolicismo, meditou sobre o significado eterno do feminino. E, **Alice von Hildebrand,** filósofa belga, que defendeu o privilégio de ser mulher contra as distorções do secularismo. 
 
 Com o auxílio dessas autoras, examinaremos primeiro as causas do atual vazio interior feminino, depois os dons próprios da natureza da mulher e as armadilhas que os ameaçam, em seguida o que significa nadar contra a corrente amparada pela Igreja, e por fim os atributos de Maria que toda mulher católica pode cultivar de modo concreto.
