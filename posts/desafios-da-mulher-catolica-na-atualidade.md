@@ -50,6 +50,8 @@ A filósofa recorda que o cardeal Joseph Ratzinger via no feminismo uma das maio
 
 ## Maria, ideal de mulher
 
+![n 0200 00 000100 xl hd](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/n-0200-00-000100-xl-hd-1775837919921.jpg)
+
 A mulher católica que deseja viver sua vocação sabe que terá de nadar contra a corrente. O mundo zombará de suas escolhas, questionará suas prioridades, tentará convencê-la de que está perdendo tempo. Ela será tentada pelo cansaço, pela solidão, pela sensação de ser a única a pensar diferente. Nessas horas, precisa recordar que está amparada pela Igreja, Corpo Místico de Cristo, e que caminha na companhia dos santos que a precederam.
 
 Edith Stein oferece uma palavra de esperança ao afirmar que, apesar da imagem triste da média das mulheres, encontramos em todos os âmbitos da vida verdadeiras heroínas que realizam feitos admiráveis. São mães que irradiam calor e luz no lar, que criam os filhos transmitindo-lhes bênçãos para gerações futuras e que ainda conservam o coração aberto para as necessidades dos outros. São religiosas que, em suas orações noturnas, lutam pelas almas e oferecem seus sacrifícios pelos pecadores. O heroísmo feminino é possível, e a história da Igreja está repleta de seus testemunhos.
