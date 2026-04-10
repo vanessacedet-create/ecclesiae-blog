@@ -60,9 +60,7 @@ E o modelo supremo para a mulher católica é a Virgem Maria.
 
 Alice von Hildebrand recorda que é no Novo Testamento que se manifesta a glória da missão feminina, na pessoa da Santa Virgem de Nazaré, que aceitou ser a mãe do Redentor, permanecendo virgem. Em Maria, contemplamos atributos que toda mulher cristã pode cultivar, e três deles merecem atenção especial por sua aplicação concreta na vida de hoje.
 
-
 ---
-
 
 O primeiro é a humildade. Maria disse "sim" ao plano de Deus sem exigir explicações nem negociar condições. A mulher católica pode cultivar essa virtude reconhecendo diariamente sua dependência de Deus na oração matinal, pedindo perdão por seus erros no exame de consciência, aceitando correções com mansidão e evitando a vaidade.
 
