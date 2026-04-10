@@ -40,6 +40,8 @@ Essa fumaça se manifesta de muitas formas, seja na busca incessante por entrete
 
 ## A natureza feminina e a armadilha do feminismo
 
+![1929](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/1929-1775837841115.webp)
+
 A mulher foi criada por Deus com dons específicos que a capacitam para sua missão. Edith Stein observa que o corpo e a alma femininos se prestam menos à luta e à conquista e mais à prática de cuidar, guardar e conservar. A mulher possui uma percepção especial da importância do todo, dos valores específicos e do individual. Ela é sensível e atenta a tudo que quer vir a ser, crescer e desenvolver-se. Esses dons, quando bem empregados, fazem dela o coração do lar e uma força de transformação na sociedade.
 
 Contra essa natureza, porém, ergue-se o feminismo. Alice von Hildebrand considera as feministas o pior inimigo das mulheres, pois fracassam na tentativa de torná-las iguais aos homens e colocam em risco a sublime missão que lhes foi confiada. 
