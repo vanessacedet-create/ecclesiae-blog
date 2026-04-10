@@ -26,7 +26,7 @@ Com o auxílio dessas autoras, examinaremos primeiro as causas do atual vazio in
 
 ## O vazio interior e suas falsas soluções
 
-Edith Stein, em A Mulher — sua missão segundo a natureza e a graça, já identificava em sua época um perfil feminino preocupante. Ela descreve mulheres superficiais e desvalidas que correm atrás do prazer para preencher o vazio interior, que contraem e desfazem casamentos, que deixam a casa e os filhos entregues a si mesmos. Dessas mulheres, observa a santa, não se pode falar nem em vocação nem em Ethos. São como areia ao vento. A destruição da vida familiar e a decadência moral têm a ver, essencialmente, com o predomínio desse perfil, e o seu número só diminuirá por meio de uma educação adequada das jovens. Alice von Hildebrand, em “O Privilégio de Ser Mulher”, diagnostica a raiz desse mal.
+Edith Stein, em [A Mulher — sua missão segundo a natureza e a graça](https://ecclesiae.com.br/a-mulher-sua-missao-segundo-a-natureza-e-a-graca), já identificava em sua época um perfil feminino preocupante. Ela descreve mulheres superficiais e desvalidas que correm atrás do prazer para preencher o vazio interior, que contraem e desfazem casamentos, que deixam a casa e os filhos entregues a si mesmos. Dessas mulheres, observa a santa, não se pode falar nem em vocação nem em Ethos. São como areia ao vento. A destruição da vida familiar e a decadência moral têm a ver, essencialmente, com o predomínio desse perfil, e o seu número só diminuirá por meio de uma educação adequada das jovens. Alice von Hildebrand, em “O Privilégio de Ser Mulher”, diagnostica a raiz desse mal.
 
 Ao afirmar que vivemos num mundo tão mergulhado no secularismo, diz que muitos sequer percebem sua influência. 
 
