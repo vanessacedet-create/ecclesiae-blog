@@ -62,10 +62,10 @@ Alice von Hildebrand recorda que é no Novo Testamento que se manifesta a glóri
 
 ---
 
-O primeiro é a humildade. Maria disse "sim" ao plano de Deus sem exigir explicações nem negociar condições. A mulher católica pode cultivar essa virtude reconhecendo diariamente sua dependência de Deus na oração matinal, pedindo perdão por seus erros no exame de consciência, aceitando correções com mansidão e evitando a vaidade.
+*O primeiro é a humildade.* Maria disse "sim" ao plano de Deus sem exigir explicações nem negociar condições. A mulher católica pode cultivar essa virtude reconhecendo diariamente sua dependência de Deus na oração matinal, pedindo perdão por seus erros no exame de consciência, aceitando correções com mansidão e evitando a vaidade.
 
-O segundo é o silêncio contemplativo. O Evangelho diz que Maria guardava todas as coisas, meditando-as em seu coração (Lc 2, 19). A mulher católica precisa cultivar momentos de silêncio. Isso significa, de modo prático, desligar as telas por períodos determinados, reservar tempo para a leitura espiritual, frequentar a adoração eucarística e rezar o terço com atenção. O silêncio é o solo onde Deus planta Suas sementes.
+*O segundo é o silêncio contemplativo.* O Evangelho diz que Maria guardava todas as coisas, meditando-as em seu coração (Lc 2, 19). A mulher católica precisa cultivar momentos de silêncio. Isso significa, de modo prático, desligar as telas por períodos determinados, reservar tempo para a leitura espiritual, frequentar a adoração eucarística e rezar o terço com atenção. O silêncio é o solo onde Deus planta Suas sementes.
 
-O terceiro é a fortaleza na provação. Maria permaneceu de pé junto à Cruz quando todos haviam fugido (Jo 19, 25). Sua força não era a do orgulho, mas a da fidelidade. A mulher católica encontra essa fortaleza na vida sacramental, na confissão frequente que purifica a alma, na comunhão dominical que alimenta, no terço rezado em família que une. São esses os meios que Cristo deixou para não desfalecermos no caminho.
+*O terceiro é a fortaleza na provação.* Maria permaneceu de pé junto à Cruz quando todos haviam fugido (Jo 19, 25). Sua força não era a do orgulho, mas a da fidelidade. A mulher católica encontra essa fortaleza na vida sacramental, na confissão frequente que purifica a alma, na comunhão dominical que alimenta, no terço rezado em família que une. São esses os meios que Cristo deixou para não desfalecermos no caminho.
 
 A mulher católica que fixa os olhos em Maria e caminha na companhia da Igreja descobrirá que sua vocação, longe de ser um fardo, é um privilégio.
