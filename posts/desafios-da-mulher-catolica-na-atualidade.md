@@ -34,6 +34,8 @@ Há cristãos devotos que se sentiriam ofendidos se acusados de contaminação p
 
 Essa fumaça se manifesta de muitas formas, seja na busca incessante por entretenimento, na incapacidade de silêncio, na necessidade de aprovação externa ou até na comparação constante com a vida alheia. Gertrud von le Fort, em [“A Mulher Eterna”](https://ecclesiae.com.br/a-mulher-eterna), bem observava que "os romances e dramas da época baseados na vida conjugal se fazem ver sob uma luz bastante duvidosa", pois a arte que devassa a intimidade do casamento viola "os limites do silêncio, o qual pertence à realidade íntima das coisas". O mesmo vale para as narrativas que consumimos hoje: séries, novelas e romances que expõem, banalizam e distorcem aquilo que deveria ser guardado no recato do coração.
 
+<a href="https://ecclesiae.com.br/a-mulher-eterna" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">A Mulher Eterna</a>
+
 
 ## A natureza feminina e a armadilha do feminismo
 
