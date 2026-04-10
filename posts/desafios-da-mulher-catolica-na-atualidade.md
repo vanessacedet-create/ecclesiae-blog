@@ -1,6 +1,9 @@
 ---
 title: "Desafios da mulher católica na atualidade"
 date: "2026-04-10"
+categories: ["Catolicismo"]
+category: "Catolicismo"
+author: "Redação Ecclesiae"
 slug: "desafios-da-mulher-catolica-na-atualidade"
 status: "draft"
 ---
