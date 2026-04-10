@@ -17,7 +17,7 @@ Este artigo busca responder a essas perguntas à luz de três pensadoras católi
 
 Com o auxílio dessas autoras, examinaremos primeiro as causas do atual vazio interior feminino, depois os dons próprios da natureza da mulher e as armadilhas que os ameaçam, em seguida o que significa nadar contra a corrente amparada pela Igreja, e por fim os atributos de Maria que toda mulher católica pode cultivar de modo concreto.
 
-O vazio interior e suas falsas soluções
+## O vazio interior e suas falsas soluções
 
 Edith Stein, em A Mulher — sua missão segundo a natureza e a graça, já identificava em sua época um perfil feminino preocupante. Ela descreve mulheres superficiais e desvalidas que correm atrás do prazer para preencher o vazio interior, que contraem e desfazem casamentos, que deixam a casa e os filhos entregues a si mesmos. Dessas mulheres, observa a santa, não se pode falar nem em vocação nem em Ethos. São como areia ao vento. A destruição da vida familiar e a decadência moral têm a ver, essencialmente, com o predomínio desse perfil, e o seu número só diminuirá por meio de uma educação adequada das jovens. Alice von Hildebrand, em “O Privilégio de Ser Mulher”, diagnostica a raiz desse mal.
 
@@ -27,7 +27,8 @@ Há cristãos devotos que se sentiriam ofendidos se acusados de contaminação p
 
 Essa fumaça se manifesta de muitas formas, seja na busca incessante por entretenimento, na incapacidade de silêncio, na necessidade de aprovação externa ou até na comparação constante com a vida alheia. Gertrud von le Fort, em “A Mulher Eterna”, bem observava que "os romances e dramas da época baseados na vida conjugal se fazem ver sob uma luz bastante duvidosa", pois a arte que devassa a intimidade do casamento viola "os limites do silêncio, o qual pertence à realidade íntima das coisas". O mesmo vale para as narrativas que consumimos hoje: séries, novelas e romances que expõem, banalizam e distorcem aquilo que deveria ser guardado no recato do coração.
 
-A natureza feminina e a armadilha do feminismo
+
+## A natureza feminina e a armadilha do feminismo
 
 A mulher foi criada por Deus com dons específicos que a capacitam para sua missão. Edith Stein observa que o corpo e a alma femininos se prestam menos à luta e à conquista e mais à prática de cuidar, guardar e conservar. A mulher possui uma percepção especial da importância do todo, dos valores específicos e do individual. Ela é sensível e atenta a tudo que quer vir a ser, crescer e desenvolver-se. Esses dons, quando bem empregados, fazem dela o coração do lar e uma força de transformação na sociedade.
 
@@ -35,7 +36,7 @@ Contra essa natureza, porém, ergue-se o feminismo. Alice von Hildebrand conside
 
 A filósofa recorda que o cardeal Joseph Ratzinger via no feminismo uma das maiores ameaças à Igreja, cuja origem está na perda do sentido do sobrenatural. O secularismo também corrompeu a noção de serviço, apresentando-o como algo degradante. Ora, Cristo mesmo disse que não veio para ser servido, mas para servir (Mt 20, 28). A cristã que considera o serviço humilhante afasta-se daquilo que o próprio Deus assumiu como missão.
 
-Maria, ideal de mulher
+## Maria, ideal de mulher
 
 A mulher católica que deseja viver sua vocação sabe que terá de nadar contra a corrente. O mundo zombará de suas escolhas, questionará suas prioridades, tentará convencê-la de que está perdendo tempo. Ela será tentada pelo cansaço, pela solidão, pela sensação de ser a única a pensar diferente. Nessas horas, precisa recordar que está amparada pela Igreja, Corpo Místico de Cristo, e que caminha na companhia dos santos que a precederam.
 
