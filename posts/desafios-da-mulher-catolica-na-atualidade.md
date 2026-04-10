@@ -6,6 +6,7 @@ category: "Catolicismo"
 author: "Redação Ecclesiae"
 slug: "desafios-da-mulher-catolica-na-atualidade"
 status: "draft"
+coverImage: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Domenico_Fetti_-_Sleeping_Girl_-_Google_Art_Project.jpg"
 ---
 
 Ela acorda cedo, cumpre suas obrigações, trabalha, cuida da casa, acompanha os filhos. À noite, quando finalmente se recolhe, abre o celular. Começa a assistir a um episódio de série, depois outro. Ou então mergulha num romance açucarado, num dorama que a transporta para longe de sua realidade. Acompanha influenciadoras que mostram vidas perfeitas, rotinas impecáveis, casamentos de conto de fadas. 
