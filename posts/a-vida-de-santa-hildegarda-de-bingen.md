@@ -26,6 +26,10 @@ A saúde de Hildegarda era frágil, e suas experiências extraordinárias causav
 
 ## A profissão religiosa e o chamado a escrever
 
+
+![swknajx5u8kfy3kryxx7tw859b56](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/swknajx5u8kfy3kryxx7tw859b56-1776101600612.jpg)
+
+
 Em 1115, aos dezessete anos, Hildegarda emitiu os votos beneditinos de estabilidade, conversão de vida e obediência. Continuou vivendo sob a orientação de Jutta, que dirigia um pequeno grupo de monjas agregado ao mosteiro masculino de Disibodenberg. As visões não cessaram, mas Hildegarda as guardava em segredo, partilhando-as apenas com sua mestra e com o monge Volmar, seu confessor e secretário, que se tornaria seu colaborador mais fiel. Quando Jutta faleceu em 1136, as irmãs elegeram Hildegarda como magistra da comunidade. Ela tinha então cerca de trinta e oito anos.
 
 Aos quarenta e dois anos, Hildegarda recebeu uma ordem que mudaria o rumo de sua vida. A Luz viva que a acompanhava desde a infância ordenou-lhe que escrevesse e divulgasse o que via e ouvia. Ela resistiu, temendo o que os outros diriam de uma mulher que se apresentasse como portadora de revelações divinas. Chamava a si mesma de "pobrezinha forma feminina", consciente de sua fragilidade e de sua formação limitada. Mas a voz interior insistia, e a resistência lhe trouxe sofrimento físico. Finalmente, em 1141, ela começou a escrever sua primeira grande obra, o Scivias, abreviação de Scito vias Domini, que significa "Conhece os caminhos do Senhor". A obra levaria dez anos para ser concluída e conteria vinte e seis visões sobre a criação, a queda, a redenção e a consumação final.
