@@ -7,6 +7,7 @@ author: "Redação Ecclesiae"
 slug: "a-vida-de-santa-hildegarda-de-bingen"
 status: "draft"
 coverImage: "https://laudatosimovement.org/wp-content/uploads/2023/09/bb1959998fd614af8356b4d2d0322f35-hildegard-von-bingen-st-hildegard-3.jpg"
+metaDescription: "A Sibila do Reno que uniu visão mística, sabedoria e obediência à Igreja."
 ---
 
 Uma menina frágil, de saúde precária, que desde os três anos via imagens que os outros não podiam ver. Uma jovem entregue à clausura antes mesmo de compreender plenamente o que isso significava. Uma mulher que, aos quarenta e dois anos, recebeu a ordem divina de escrever o que contemplava em suas visões e hesitou por muito tempo, temendo o que diriam dela.
