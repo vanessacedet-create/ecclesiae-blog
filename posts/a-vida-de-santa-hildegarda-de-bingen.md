@@ -6,6 +6,7 @@ category: "Vida dos santos"
 author: "Redação Ecclesiae"
 slug: "a-vida-de-santa-hildegarda-de-bingen"
 status: "draft"
+coverImage: "https://c.files.bbci.co.uk/1124/production/_124888340_gettyimages-464417593.jpg"
 metaDescription: "A Sibila do Reno que uniu visão mística, sabedoria e obediência à Igreja."
 ---
 
