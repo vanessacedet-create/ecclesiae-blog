@@ -6,7 +6,6 @@ category: "Vida dos santos"
 author: "Redação Ecclesiae"
 slug: "a-vida-de-santa-hildegarda-de-bingen"
 status: "draft"
-coverImage: "https://laudatosimovement.org/wp-content/uploads/2023/09/bb1959998fd614af8356b4d2d0322f35-hildegard-von-bingen-st-hildegard-3.jpg"
 metaDescription: "A Sibila do Reno que uniu visão mística, sabedoria e obediência à Igreja."
 ---
 
