@@ -26,7 +26,6 @@ Aos quarenta e dois anos, Hildegarda recebeu uma ordem que mudaria o rumo de sua
 
 ## A aprovação da Igreja e a fama de profetisa
 
-
 Hildegarda não se aventurou sozinha. Buscou conselho junto a São Bernardo de Claraval, a figura mais influente da Igreja naquele tempo, que a encorajou a prosseguir. Por volta de 1147, durante o Sínodo de Trier, o caso de Hildegarda chegou ao conhecimento do Papa Eugênio III. O pontífice enviou uma comissão de teólogos e bispos a Disibodenberg para examinar as visões da monja. O parecer foi favorável. O próprio Papa leu publicamente trechos do Scivias diante dos padres sinodais e declarou que tais visões eram fruto da inspiração do Espírito Santo. Eugênio III escreveu então a Hildegarda, exortando-a a continuar escrevendo o que conhecesse por graça divina.
 
 A aprovação papal transformou a vida de Hildegarda. Seu prestígio cresceu rapidamente, e ela passou a ser conhecida como a "profetisa teutônica" ou a "Sibila do Reno". Uma vasta correspondência se iniciou. Papas, imperadores, bispos, abades, príncipes e pessoas de todas as condições lhe escreviam pedindo conselhos, orientações espirituais e palavras de exortação. Conservam-se mais de quatrocentas cartas suas. Entre seus correspondentes estavam o imperador Frederico Barbarossa, que a recebeu em seu palácio de Ingelheim, Henrique II da Inglaterra e Leonor de Aquitânia. Hildegarda respondia a todos com clareza e autoridade, sem jamais se afastar da obediência à Igreja.
