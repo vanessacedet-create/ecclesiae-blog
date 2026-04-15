@@ -18,6 +18,7 @@ Reunimos aqui **três obras** que oferecem essa formação em níveis complement
 ## Três para Casar, de Fulton J. Sheen
 
 ![tRÊS PARA CASAR](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/posts-de-manuten--o-ingrid--82--1776258417865.png)
+<a href="https://ecclesiae.com.br/tres-para-casar-ecclesiae" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:6px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:16px 36px;font-size:16px;">Saiba mais</a>
 
 Fulton J. Sheen (1895-1979) foi um dos maiores comunicadores católicos do século XX. Bispo auxiliar de Nova York, apresentador de programas de televisão que alcançavam milhões de espectadores e autor de dezenas de livros, Sheen possuía o dom raro de expor verdades profundas com clareza e beleza. Três para Casar tornou-se um clássico sobre o amor e o matrimônio, traduzido para diversas línguas e lido por gerações de católicos em todo o mundo, permanecendo atual décadas após sua publicação.
 
