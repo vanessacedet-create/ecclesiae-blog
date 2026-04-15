@@ -23,11 +23,6 @@ Reunimos aqui **três obras** que oferecem essa formação em níveis complement
 Fulton J. Sheen (1895-1979) foi um dos maiores comunicadores católicos do século XX. Bispo auxiliar de Nova York, apresentador de programas de televisão que alcançavam milhões de espectadores e autor de dezenas de livros, Sheen possuía o dom raro de expor verdades profundas com clareza e beleza. Três para Casar tornou-se um clássico sobre o amor e o matrimônio, traduzido para diversas línguas e lido por gerações de católicos em todo o mundo, permanecendo atual décadas após sua publicação.
 
 A tese central do livro está contida no título. Para que o amor conjugal seja verdadeiro e duradouro, são necessárias três pessoas, pois o marido e a esposa precisam de um terceiro que os una num vínculo superior a ambos, e esse terceiro é Cristo. Sheen desenvolve essa ideia a partir da doutrina trinitária, mostrando que o próprio Deus é uma comunidade de amor entre Pai, Filho e Espírito Santo, de modo que o amor humano encontra seu modelo e sua fonte nessa realidade divina. Quando os cônjuges colocam Cristo no centro de seu casamento, participam de algo que os transcende e que confere sentido tanto às alegrias quanto às cruzes inevitáveis da vida a dois. Desse fundamento teológico decorrem todas as consequências práticas que o autor desenvolve ao longo da obra.
-
-O livro aborda com franqueza temas delicados, como as causas das crises conjugais e o papel da entrega mútua na construção da felicidade. Sheen desmonta as concepções materialistas e hedonistas que reduzem o matrimônio à satisfação de instintos, demonstrando que a verdadeira intimidade conjugal integra as dimensões corporal, afetiva e espiritual numa unidade indissolúvel. A obra termina com relatos de casais cuja vida foi transformada pela descoberta dessa verdade, oferecendo ao leitor testemunhos concretos que confirmam a doutrina exposta. Para quem deseja compreender o matrimônio em toda a sua profundidade, "Três para Casar" é leitura indispensável.
----
-
-
 ## Um Casal Exemplar, de Valentina Di Marco
 
 ![UM CASAL EXEMPLAR](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/um-casal-exemplar-1776258449610.png)
