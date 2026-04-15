@@ -28,7 +28,7 @@ O livro aborda com franqueza temas delicados, como as causas das crises conjugai
 
 ## Um Casal Exemplar, de Valentina Di Marco
 
-![UM CASAL EXEMPLAR](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/um-casal-exemplar-1776258449610.png)
+![UM CASAL EXEMPLAR](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/um-casal-exemplar-1776258449610.png) <a href="https://ecclesiae.com.br/um-casal-exemplar-santa-gianna-beretta-e-pietro-molla" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:6px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:16px 36px;font-size:16px;">Saiba mais</a>
 
 Se Fulton Sheen oferece a doutrina, Valentina Di Marco oferece o testemunho vivo de quem a encarnou. Santa Gianna Beretta Molla (1922-1962) foi uma médica italiana que se tornou conhecida por ter sacrificado a própria vida para salvar a filha que carregava no ventre, sendo canonizada por João Paulo II em 2004. O que muitos desconhecem, porém, é que sua santidade se manifestou ao longo de toda a vida conjugal ao lado do engenheiro Pietro Molla, e é precisamente essa dimensão cotidiana que o livro reconstrói com riqueza de detalhes.
 
