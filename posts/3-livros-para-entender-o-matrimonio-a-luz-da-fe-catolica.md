@@ -1,9 +1,13 @@
 ---
 title: "3 livros para entender o matrimônio à luz da fé católica"
 date: "2026-04-15"
+categories: ["Guias de leitura"]
+category: "Guias de leitura"
+author: "Redação Ecclesiae"
 excerpt: "Da doutrina ao testemunho, da teologia à orientação prática: um itinerário de formação para a vida conjugal."
 slug: "3-livros-para-entender-o-matrimonio-a-luz-da-fe-catolica"
 status: "draft"
+coverImage: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Edmund_Blair_Leighton_-_The_Wedding_Register.jpg"
 metaTitle: "3 livros para entender o matrimônio à luz da fé católica"
 metaDescription: "Da doutrina ao testemunho, da teologia à orientação prática: um itinerário de formação para a vida conjugal."
 ---
