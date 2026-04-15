@@ -4,6 +4,7 @@ date: "2026-04-13"
 categories: ["Vida dos santos"]
 category: "Vida dos santos"
 author: "Redação Ecclesiae"
+excerpt: "A Sibila do Reno que uniu visão mística, sabedoria e obediência à Igreja."
 slug: "a-vida-de-santa-hildegarda-de-bingen"
 status: "published"
 coverImage: "https://m.media-amazon.com/images/S/pv-target-images/f504a9e6d074cf9e6a75f724a6b93e130d5f7242a5b760dda10fd250c6d8e193.jpg"
