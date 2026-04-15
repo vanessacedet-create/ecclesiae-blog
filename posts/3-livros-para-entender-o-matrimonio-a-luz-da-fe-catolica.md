@@ -19,7 +19,6 @@ Reunimos aqui **três obras** que oferecem essa formação em níveis complement
 
 ![tRÊS PARA CASAR](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/posts-de-manuten--o-ingrid--82--1776258417865.png)
 
-
 Fulton J. Sheen (1895-1979) foi um dos maiores comunicadores católicos do século XX. Bispo auxiliar de Nova York, apresentador de programas de televisão que alcançavam milhões de espectadores e autor de dezenas de livros, Sheen possuía o dom raro de expor verdades profundas com clareza e beleza. Três para Casar tornou-se um clássico sobre o amor e o matrimônio, traduzido para diversas línguas e lido por gerações de católicos em todo o mundo, permanecendo atual décadas após sua publicação.
 
 A tese central do livro está contida no título. Para que o amor conjugal seja verdadeiro e duradouro, são necessárias três pessoas, pois o marido e a esposa precisam de um terceiro que os una num vínculo superior a ambos, e esse terceiro é Cristo. Sheen desenvolve essa ideia a partir da doutrina trinitária, mostrando que o próprio Deus é uma comunidade de amor entre Pai, Filho e Espírito Santo, de modo que o amor humano encontra seu modelo e sua fonte nessa realidade divina. Quando os cônjuges colocam Cristo no centro de seu casamento, participam de algo que os transcende e que confere sentido tanto às alegrias quanto às cruzes inevitáveis da vida a dois. Desse fundamento teológico decorrem todas as consequências práticas que o autor desenvolve ao longo da obra. 
@@ -35,8 +34,6 @@ Se Fulton Sheen oferece a doutrina, Valentina Di Marco oferece o testemunho vivo
 A autora narra a história do casal por meio de cartas, testemunhos diretos e documentos de época. Acompanhamos o namoro iniciado quando Pietro, então com quarenta e dois anos, se encantou pela jovem médica;  o casamento realizado poucos meses depois na Basílica de São Martinho em Magenta; o nascimento dos filhos; e as alegrias e dificuldades do cotidiano de uma família católica italiana do pós-guerra. Destaca-se a figura de Pietro, um homem de fé que soube corresponder à grandeza espiritual de sua esposa. As cartas trocadas entre os dois revelam um amor profundo, marcado pela oração comum, pelo respeito mútuo e pela consciência de que o matrimônio era para ambos um caminho de santificação. O livro conta ainda com a colaboração de Monsenhor Ennio Apeciti, responsável pelas causas dos santos na Arquidiocese de Milão, e com o testemunho de Gianna Emanuela Molla, filha do casal.
 
 Confrontando a espiritualidade cotidiana de Gianna e Pietro com os documentos do Magistério sobre família, a autora demonstra que o casal foi verdadeiro precursor dos ensinamentos que a Igreja desenvolveria nas décadas seguintes. Para quem busca modelos concretos de vida conjugal, este livro é um tesouro, pois prova que a santidade matrimonial floresce nas circunstâncias ordinárias da existência, entre consultas médicas, viagens de trabalho, fraldas e contas a pagar.
-
----
 
 ## Vida Matrimonial, do Pe. Matheus Pigozzo
 
