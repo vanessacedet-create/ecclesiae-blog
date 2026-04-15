@@ -40,8 +40,9 @@ Confrontando a espiritualidade cotidiana de Gianna e Pietro com os documentos do
 
 ---
 
-
 ## Vida Matrimonial, do Pe. Matheus Pigozzo
+
+![VIDA MATRIMONIAL](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/vida-matrimonial-1776258497922.png)
 
 Com o processo de secularização das sociedades ocidentais, a tarefa de orientar casais em suas dificuldades foi transferida dos diretores espirituais para psicólogos, terapeutas e analistas. Essa mudança trouxe perdas significativas, pois o matrimônio católico possui uma dimensão sobrenatural que escapa às categorias da psicologia secular e que merece ser orientada e custodiada do melhor modo possível. Padre Matheus Pigozzo, Sacerdote Católico, dedicou-se desde o tempo de seminário ao estudo da moral matrimonial e ao acompanhamento espiritual de casais, acumulando uma experiência que agora coloca à disposição dos leitores.
 
