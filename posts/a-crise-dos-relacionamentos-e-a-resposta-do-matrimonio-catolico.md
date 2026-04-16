@@ -3,6 +3,7 @@ title: "A crise dos relacionamentos e a resposta do matrimônio católico"
 date: "2026-04-16"
 slug: "a-crise-dos-relacionamentos-e-a-resposta-do-matrimonio-catolico"
 status: "draft"
+coverImage: "https://upload.wikimedia.org/wikipedia/commons/2/29/Frederick_Morgan_-_Off_for_the_Honeymoon.jpg"
 ---
 
 A notícia de mais um divórcio entre conhecidos já não surpreende. Casamentos que pareciam sólidos se desfazem em poucos anos, às vezes em poucos meses, e os envolvidos seguem adiante como se nada de extraordinário houvesse acontecido. Essa naturalização da ruptura reflete uma mudança profunda no modo como a sociedade contemporânea compreende o amor e o compromisso. 
