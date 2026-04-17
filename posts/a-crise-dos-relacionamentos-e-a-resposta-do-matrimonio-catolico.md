@@ -17,6 +17,7 @@ Diante desse cenário, muitos casais católicos se perguntam como construir um m
 Entre os diversos temas tratados na obra, quatro merecem destaque especial por tocarem em pontos nevrálgicos da crise contemporânea dos relacionamentos. O primeiro diz respeito à preparação para o casamento, que começa muito antes da cerimônia e exige uma formação séria durante o namoro e o noivado. O segundo refere-se ao diálogo conjugal, essa arte cada vez mais rara num mundo de conexões superficiais e distrações permanentes. O terceiro aborda a fidelidade, compreendida em sua dimensão mais ampla como postura de vida e testemunho público. O quarto trata do auxílio mútuo dos cônjuges na luta contra o pecado, tema delicado que toca a essência da vocação matrimonial como caminho de santificação.
 
 ## Preparar-se para a missão: do namoro ao noivado
+![Posts de Manutenção   Ingrid (8)](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/posts-de-manuten--o-ingrid--8--1776426176078.png)
 
 A liquidez dos relacionamentos contemporâneos tem uma de suas raízes na falta de preparação para a vida conjugal. Muitos jovens chegam ao casamento sem nunca terem refletido seriamente sobre as exigências da vocação que estão abraçando, e depois se espantam quando a realidade se mostra diferente das expectativas alimentadas por filmes e redes sociais!
 
