@@ -49,6 +49,7 @@ Para quem tem temperamento mais fechado, o diálogo pode ser custoso, e o autor 
 
 ## Companheiros de caminhada: o auxílio mútuo contra o pecado
 
+![Posts de Manutenção   Ingrid (7)](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/posts-de-manuten--o-ingrid--7--1776426390221.png)
 
 Os relacionamentos líquidos evitam qualquer tema desconfortável. O medo de conflitos e de julgamentos leva muitos casais a manterem uma cordialidade superficial que nunca toca nas feridas verdadeiras. Os pecados e fraquezas de cada um permanecem ocultos, tratados em privado (quando tratados), sem que o cônjuge tenha qualquer participação. Essa dinâmica empobrece o matrimônio e priva os esposos de uma das graças mais preciosas do sacramento, que é precisamente o auxílio mútuo no caminho da santificação.
 
