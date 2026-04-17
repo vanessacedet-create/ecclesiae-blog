@@ -27,7 +27,7 @@ O Pe. Matheus é enfático ao afirmar que o namoro cristão deve ser compreendid
 
 Enquanto a cultura atual incentiva os jovens a "experimentarem" relacionamentos para descobrir o que lhes agrada, tratando o outro como meio de satisfação pessoal, a visão católica propõe algo radicalmente diferente. O autor observa que "namoro cristão é amizade" e que podemos dizer que é "conhecimento de almas, e não de corpos". Os namorados precisam criar oportunidades de partilhar a história um do outro, as dificuldades que enfrentam no crescimento humano, os gostos pessoais, e devem estabelecer uma pequena rotina semanal de oração. Esse conhecimento mútuo em profundidade, que dispensa contatos físicos impróprios e se alimenta da convivência respeitosa, é o verdadeiro fundamento de um matrimônio.
 
-![Posts de Manutenção   Ingrid (10)](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/posts-de-manuten--o-ingrid--10--1776426244706.png)
+![Posts de Manutenção   Ingrid (15)](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/posts-de-manuten--o-ingrid--15--1776426458630.png)
 
 Se o casal reúne as mínimas virtudes necessárias (altruísmo, ordem, prudência, constância), se deseja viver a missão matrimonial um com o outro, se a convivência passou por tempo razoável de maturidade e se já possuem a mínima estrutura material para a instauração de um novo lar, pode ser oportuno avançar. 
 
