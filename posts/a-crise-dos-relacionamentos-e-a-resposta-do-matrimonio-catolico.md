@@ -8,6 +8,8 @@ excerpt: "Orientações  para casais que desejam construir um amor sólido e dur
 slug: "a-crise-dos-relacionamentos-e-a-resposta-do-matrimonio-catolico"
 status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/2/29/Frederick_Morgan_-_Off_for_the_Honeymoon.jpg"
+metaTitle: "A crise dos relacionamentos e a resposta do matrimônio católico"
+metaDescription: "Orientações  para casais que desejam construir um amor sólido e duradouro, em um tempo em que os vínculos se dissolvem com a mesma facilidade com que se formam."
 tags: ["relacionamento", "matrimônio", "catolicismo", "casamento católico"]
 ---
 
