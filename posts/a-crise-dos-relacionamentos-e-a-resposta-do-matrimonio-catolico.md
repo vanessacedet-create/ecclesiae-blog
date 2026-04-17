@@ -1,6 +1,9 @@
 ---
 title: "A crise dos relacionamentos e a resposta do matrimônio católico"
 date: "2026-04-16"
+categories: ["Catolicismo"]
+category: "Catolicismo"
+author: "Redação Ecclesiae"
 slug: "a-crise-dos-relacionamentos-e-a-resposta-do-matrimonio-catolico"
 status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/2/29/Frederick_Morgan_-_Off_for_the_Honeymoon.jpg"
