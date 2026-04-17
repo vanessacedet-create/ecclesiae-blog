@@ -4,9 +4,11 @@ date: "2026-04-16"
 categories: ["Catolicismo"]
 category: "Catolicismo"
 author: "Redação Ecclesiae"
+excerpt: "Orientações  para casais que desejam construir um amor sólido e duradouro, em um tempo em que os vínculos se dissolvem com a mesma facilidade com que se formam."
 slug: "a-crise-dos-relacionamentos-e-a-resposta-do-matrimonio-catolico"
 status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/2/29/Frederick_Morgan_-_Off_for_the_Honeymoon.jpg"
+tags: ["relacionamento", "matrimônio", "catolicismo", "casamento católico"]
 ---
 
 A notícia de mais um divórcio entre conhecidos já não surpreende. Casamentos que pareciam sólidos se desfazem em poucos anos, às vezes em poucos meses, e os envolvidos seguem adiante como se nada de extraordinário houvesse acontecido. Essa naturalização da ruptura reflete uma mudança profunda no modo como a sociedade contemporânea compreende o amor e o compromisso. 
