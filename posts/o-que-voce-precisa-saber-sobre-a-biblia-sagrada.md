@@ -1,11 +1,15 @@
 ---
 title: "O que você precisa saber sobre a Bíblia Sagrada"
 date: "2026-04-20"
+categories: ["Bíblia"]
+category: "Bíblia"
+author: "Redação Ecclesiae"
 excerpt: "10 perguntas e respostas para compreender a estrutura, a origem e o significado das Sagradas Escrituras segundo a Tradição da Igreja Católica."
 slug: "o-que-voce-precisa-saber-sobre-a-biblia-sagrada"
 status: "draft"
 metaTitle: "O que você precisa saber sobre a Bíblia Sagrada"
 metaDescription: "10 perguntas e respostas para compreender a estrutura, a origem e o significado das Sagradas Escrituras segundo a Tradição da Igreja Católica."
+tags: ["Bíblia", "Sagradas Escrituras", "Faq", "Catequese"]
 ---
 
 A Bíblia é o livro mais lido, mais traduzido e mais influente da história da humanidade, porém muitos católicos ainda têm dúvidas básicas sobre sua estrutura, sua composição e o modo correto de lê-la. Saber quantos livros a compõem, como estão organizados, quem os escreveu e sob qual autoridade foram reunidos no cânon sagrado são conhecimentos fundamentais para quem deseja crescer na fé e aprofundar-se na Palavra de Deus. 
