@@ -7,6 +7,7 @@ author: "Redação Ecclesiae"
 excerpt: "10 perguntas e respostas para compreender a estrutura, a origem e o significado das Sagradas Escrituras segundo a Tradição da Igreja Católica."
 slug: "o-que-voce-precisa-saber-sobre-a-biblia-sagrada"
 status: "draft"
+coverImage: "https://upload.wikimedia.org/wikipedia/commons/f/fd/EDWAERT_COLLIER_VANITAS_STILL_LIFE.jpg"
 metaTitle: "O que você precisa saber sobre a Bíblia Sagrada"
 metaDescription: "10 perguntas e respostas para compreender a estrutura, a origem e o significado das Sagradas Escrituras segundo a Tradição da Igreja Católica."
 tags: ["Bíblia", "Sagradas Escrituras", "Faq", "Catequese"]
