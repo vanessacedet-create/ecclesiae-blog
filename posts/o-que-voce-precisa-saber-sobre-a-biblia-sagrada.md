@@ -54,18 +54,23 @@ A inspiração bíblica é uma doutrina fundamental da fé católica. Segundo o 
 A Bíblia foi escrita originalmente em três línguas. A maior parte do Antigo Testamento foi composta em hebraico, a língua do povo de Israel. Algumas porções menores do Antigo Testamento (partes de Daniel e Esdras) foram escritas em aramaico, língua semítica aparentada ao hebraico que se tornou comum na região após o exílio babilônico. O Novo Testamento foi escrito inteiramente em grego, a língua franca do mundo mediterrâneo na época dos Apóstolos, o que facilitou a difusão do Evangelho por todo o Império Romano.
 
 ***9. O que são os Evangelhos e por que são apenas quatro?***
+
 Evangelho é uma palavra de origem grega que significa "boa nova". Empregada pelos escritores sagrados do Novo Testamento, ela designa a boa nova por excelência, que é a redenção trazida à humanidade por Jesus Cristo. São apenas quatro os Evangelhos reconhecidos pela Igreja como divinamente inspirados, a saber, os Evangelhos segundo São Mateus, São Marcos, São Lucas e São João. Embora outros evangelhos tenham sido escritos por hereges ou por cristãos animados de falso zelo, a Igreja sempre os rejeitou como não inspirados. Os quatro Evangelhos canônicos oferecem testemunhos complementares sobre a vida, os ensinamentos, a morte e a ressurreição de Jesus Cristo.
 
 ***10. O que são os Salmos e para que servem?***
+
 Os Salmos são hinos sagrados por meio dos quais o povo de Deus costumava louvar o Senhor, implorar a sua misericórdia, agradecer os benefícios recebidos e recordar os prodígios da providência divina em favor de Israel. Foram compostos por vários escritores sagrados, sendo Davi o autor da maior parte. O Livro dos Salmos, também chamado Saltério, contém 150 salmos e constitui o livro de orações por excelência da Igreja. Santo Ambrósio afirmava que nos Salmos se encontram todos os mistérios da religião cristã, tudo o que os profetas vaticinaram, a graça das revelações, os testemunhos da ressurreição de Jesus Cristo, e os meios para confessar e detestar os pecados.
 
 ### Você sabia?
 
 *O Salmo 117 é o capítulo mais curto da Bíblia, e o Salmo 119 é o mais longo.*
+
 O Salmo 117, com apenas dois versículos, é o capítulo mais breve de toda a Escritura, mas contém um convite universal ao louvor divino. Já o Salmo 119, com 176 versículos, é o mais extenso capítulo da Bíblia. Trata-se de um poema acróstico composto por 22 estrofes de 8 versículos cada, correspondendo às 22 letras do alfabeto hebraico. Todo o salmo é um elogio à Lei de Deus e ao amor pela Palavra divina.
 
 *Matusalém viveu 969 anos, sendo a pessoa mais longeva mencionada na Bíblia.*
+
 Segundo o Livro do Gênesis, Matusalém foi o homem que mais viveu entre os patriarcas antediluvianos, alcançando 969 anos. Seu nome tornou-se sinônimo de longevidade extrema em diversas línguas. Os comentadores explicam essa idade extraordinária pela pureza do clima primitivo, pela frugalidade da alimentação e pela vontade divina de propagar rapidamente a espécie humana e conservar perfeitas as tradições religiosas nos primeiros tempos da humanidade.
 
 *A Bíblia contém cerca de 3.500 promessas de Deus aos homens.*
+
 Ao longo de ambos os Testamentos, Deus fez aproximadamente 3.500 promessas registradas na Escritura. Essas promessas abrangem desde a vinda do Messias e a salvação eterna até a proteção cotidiana, a provisão material, a sabedoria e a paz interior. A fidelidade de Deus às suas promessas constitui um dos temas centrais da Bíblia e o fundamento da esperança cristã.
