@@ -19,3 +19,9 @@ A palavra Bíblia vem do grego "biblía", que significa "livros". Etimologicamen
 
 **2. Em quantas partes a Bíblia se divide?**
 A Bíblia divide-se em duas grandes partes, o Antigo Testamento e o Novo Testamento. O Antigo Testamento é a coleção dos livros sagrados que contêm a história da aliança contraída por Deus com Abraão e o seu povo, bem como as condições e as leis desta aliança. O Novo Testamento, por sua vez, é a coleção dos livros sagrados que contêm a história da nova aliança contraída por Jesus Cristo com os homens, sancionada com o seu sangue, juntamente com as principais condições e leis desta aliança.
+
+**3. Quantos livros compõem a Bíblia Católica?**
+Segundo o Concílio de Trento, são 73 os livros da Bíblia, sendo 46 do Antigo Testamento e 27 do Novo Testamento. Essa quantidade difere das Bíblias protestantes, que possuem apenas 66 livros, pois os reformadores do século XVI removeram sete livros do Antigo Testamento (Tobias, Judite, Sabedoria, Eclesiástico, Baruc, 1 e 2 Macabeus) e partes de outros dois (Daniel e Ester). A Igreja Católica preserva o cânon completo, reconhecendo esses livros como divinamente inspirados desde os primeiros séculos.
+
+**4. Como os livros do Antigo Testamento estão organizados?**
+Os 46 livros do Antigo Testamento podem ser divididos em quatro categorias, conforme o assunto e a forma. O Pentateuco ou a Lei compreende os cinco primeiros livros (Gênesis, Êxodo, Levítico, Números e Deuteronômio). Os Livros Históricos incluem Josué, Juízes, Rute, 1 e 2 Samuel, 1 e 2 Reis, 1 e 2 Crônicas, Esdras, Neemias, Tobias, Judite, Ester e 1 e 2 Macabeus. Os Livros Didáticos ou Sapienciais são Jó, Salmos, Provérbios, Eclesiastes, Cântico dos Cânticos, Sabedoria e Eclesiástico. Os Livros Proféticos englobam os quatro profetas maiores (Isaías, Jeremias com Lamentações e Baruc, Ezequiel e Daniel) e os doze profetas menores (Oséias, Joel, Amós, Abdias, Jonas, Miquéias, Naum, Habacuc, Sofonias, Ageu, Zacarias e Malaquias).
