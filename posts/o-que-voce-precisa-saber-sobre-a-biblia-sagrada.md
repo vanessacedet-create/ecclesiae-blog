@@ -43,3 +43,6 @@ Os 27 livros do Novo Testamento também se dividem em categorias. Os Livros Hist
 ***7. O que significa dizer que a Bíblia é "inspirada"?***
 
 A inspiração bíblica é uma doutrina fundamental da fé católica. Segundo o Papa Leão XIII na encíclica Providentissimus Deus, a inspiração consiste em que Deus, sobrenaturalmente, excitou e moveu os hagiógrafos (autores sagrados) a escrever, e lhes assistiu no seu trabalho, de forma que devidamente pensassem, fielmente quisessem realizar, e de fato exprimissem com infalível verdade tudo e só aquilo que Ele mandava. Desta forma, Deus é a causa principal da Escritura, e o homem é a causa instrumental. O instrumento humano conserva sua forma própria, incluindo estilo, qualidades e até imperfeições linguísticas, mas o conteúdo transmitido é garantido por Deus.
+
+**8. A Bíblia foi escrita em quais línguas?**
+A Bíblia foi escrita originalmente em três línguas. A maior parte do Antigo Testamento foi composta em hebraico, a língua do povo de Israel. Algumas porções menores do Antigo Testamento (partes de Daniel e Esdras) foram escritas em aramaico, língua semítica aparentada ao hebraico que se tornou comum na região após o exílio babilônico. O Novo Testamento foi escrito inteiramente em grego, a língua franca do mundo mediterrâneo na época dos Apóstolos, o que facilitou a difusão do Evangelho por todo o Império Romano.
