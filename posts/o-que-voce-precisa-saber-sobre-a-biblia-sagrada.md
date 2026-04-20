@@ -57,12 +57,11 @@ Os Salmos são hinos sagrados por meio dos quais o povo de Deus costumava louvar
 
 ### Você sabia?
 
-
-O Salmo 117 é o capítulo mais curto da Bíblia, e o Salmo 119 é o mais longo.
+*O Salmo 117 é o capítulo mais curto da Bíblia, e o Salmo 119 é o mais longo.*
 O Salmo 117, com apenas dois versículos, é o capítulo mais breve de toda a Escritura, mas contém um convite universal ao louvor divino. Já o Salmo 119, com 176 versículos, é o mais extenso capítulo da Bíblia. Trata-se de um poema acróstico composto por 22 estrofes de 8 versículos cada, correspondendo às 22 letras do alfabeto hebraico. Todo o salmo é um elogio à Lei de Deus e ao amor pela Palavra divina.
 
-Matusalém viveu 969 anos, sendo a pessoa mais longeva mencionada na Bíblia.
+*Matusalém viveu 969 anos, sendo a pessoa mais longeva mencionada na Bíblia.*
 Segundo o Livro do Gênesis, Matusalém foi o homem que mais viveu entre os patriarcas antediluvianos, alcançando 969 anos. Seu nome tornou-se sinônimo de longevidade extrema em diversas línguas. Os comentadores explicam essa idade extraordinária pela pureza do clima primitivo, pela frugalidade da alimentação e pela vontade divina de propagar rapidamente a espécie humana e conservar perfeitas as tradições religiosas nos primeiros tempos da humanidade.
 
-A Bíblia contém cerca de 3.500 promessas de Deus aos homens.
+*A Bíblia contém cerca de 3.500 promessas de Deus aos homens.*
 Ao longo de ambos os Testamentos, Deus fez aproximadamente 3.500 promessas registradas na Escritura. Essas promessas abrangem desde a vinda do Messias e a salvação eterna até a proteção cotidiana, a provisão material, a sabedoria e a paz interior. A fidelidade de Deus às suas promessas constitui um dos temas centrais da Bíblia e o fundamento da esperança cristã.
