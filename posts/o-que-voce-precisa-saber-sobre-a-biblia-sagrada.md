@@ -26,7 +26,7 @@ A Bíblia divide-se em duas grandes partes, o Antigo Testamento e o Novo Testame
 
 ***3. Quantos livros compõem a Bíblia Católica?***
 
-Segundo o Concílio de Trento, são 73 os livros da Bíblia, sendo 46 do Antigo Testamento e 27 do Novo Testamento. Essa quantidade difere das Bíblias protestantes, que possuem apenas 66 livros, pois os reformadores do século XVI removeram sete livros do Antigo Testamento (Tobias, Judite, Sabedoria, Eclesiástico, Baruc, 1 e 2 Macabeus) e partes de outros dois (Daniel e Ester). A Igreja Católica preserva o cânon completo, reconhecendo esses livros como divinamente inspirados desde os primeiros séculos.
+Segundo o Concílio de Trento, são **73** os livros da Bíblia, sendo 46 do Antigo Testamento e 27 do Novo Testamento. Essa quantidade difere das Bíblias protestantes, que possuem apenas 66 livros, pois os reformadores do século XVI removeram sete livros do Antigo Testamento (Tobias, Judite, Sabedoria, Eclesiástico, Baruc, 1 e 2 Macabeus) e partes de outros dois (Daniel e Ester). A Igreja Católica preserva o cânon completo, reconhecendo esses livros como divinamente inspirados desde os primeiros séculos.
 
 ***4. Como os livros do Antigo Testamento estão organizados?***
 
