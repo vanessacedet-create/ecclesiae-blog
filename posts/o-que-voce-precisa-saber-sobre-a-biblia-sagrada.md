@@ -14,5 +14,5 @@ Este guia responde às perguntas mais frequentes sobre as Sagradas Escrituras, s
 
 <a href="https://ecclesiae.com.br/biblia-sagrada-traducao-do-pe-manuel-de-matos-soares" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Garanta sua edição da Bíblia</a>
 
-
-
+***1. O que significa a palavra "Bíblia"?***
+A palavra Bíblia vem do grego "biblía", que significa "livros". Etimologicamente, portanto, Bíblia designa o livro por excelência, o livro dos livros. Essa denominação expressa a convicção de que, entre todos os escritos produzidos pela humanidade, nenhum se compara em dignidade e importância às Sagradas Escrituras, pois nelas Deus fala diretamente aos homens para revelar-lhes o caminho da salvação.
