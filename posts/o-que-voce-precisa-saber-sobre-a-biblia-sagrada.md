@@ -16,3 +16,6 @@ Este guia responde às perguntas mais frequentes sobre as Sagradas Escrituras, s
 
 ***1. O que significa a palavra "Bíblia"?***
 A palavra Bíblia vem do grego "biblía", que significa "livros". Etimologicamente, portanto, Bíblia designa o livro por excelência, o livro dos livros. Essa denominação expressa a convicção de que, entre todos os escritos produzidos pela humanidade, nenhum se compara em dignidade e importância às Sagradas Escrituras, pois nelas Deus fala diretamente aos homens para revelar-lhes o caminho da salvação.
+
+**2. Em quantas partes a Bíblia se divide?**
+A Bíblia divide-se em duas grandes partes, o Antigo Testamento e o Novo Testamento. O Antigo Testamento é a coleção dos livros sagrados que contêm a história da aliança contraída por Deus com Abraão e o seu povo, bem como as condições e as leis desta aliança. O Novo Testamento, por sua vez, é a coleção dos livros sagrados que contêm a história da nova aliança contraída por Jesus Cristo com os homens, sancionada com o seu sangue, juntamente com as principais condições e leis desta aliança.
