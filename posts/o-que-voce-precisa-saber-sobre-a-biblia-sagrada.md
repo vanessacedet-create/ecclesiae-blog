@@ -47,3 +47,4 @@ A inspiração bíblica é uma doutrina fundamental da fé católica. Segundo o 
 ***8. A Bíblia foi escrita em quais línguas?***
 
 A Bíblia foi escrita originalmente em três línguas. A maior parte do Antigo Testamento foi composta em hebraico, a língua do povo de Israel. Algumas porções menores do Antigo Testamento (partes de Daniel e Esdras) foram escritas em aramaico, língua semítica aparentada ao hebraico que se tornou comum na região após o exílio babilônico. O Novo Testamento foi escrito inteiramente em grego, a língua franca do mundo mediterrâneo na época dos Apóstolos, o que facilitou a difusão do Evangelho por todo o Império Romano.
+
