@@ -54,7 +54,6 @@ Evangelho é uma palavra de origem grega que significa "boa nova". Empregada pel
 ***10. O que são os Salmos e para que servem?***
 Os Salmos são hinos sagrados por meio dos quais o povo de Deus costumava louvar o Senhor, implorar a sua misericórdia, agradecer os benefícios recebidos e recordar os prodígios da providência divina em favor de Israel. Foram compostos por vários escritores sagrados, sendo Davi o autor da maior parte. O Livro dos Salmos, também chamado Saltério, contém 150 salmos e constitui o livro de orações por excelência da Igreja. Santo Ambrósio afirmava que nos Salmos se encontram todos os mistérios da religião cristã, tudo o que os profetas vaticinaram, a graça das revelações, os testemunhos da ressurreição de Jesus Cristo, e os meios para confessar e detestar os pecados.
 
-
 ### Você sabia?
 
 *O Salmo 117 é o capítulo mais curto da Bíblia, e o Salmo 119 é o mais longo.*
