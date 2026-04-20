@@ -18,7 +18,7 @@ Este guia responde às perguntas mais frequentes sobre as Sagradas Escrituras, s
 
 ***1. O que significa a palavra "Bíblia"?***
 
-A palavra Bíblia vem do grego "biblía", que significa "livros". Etimologicamente, portanto, Bíblia designa o livro por excelência, o livro dos livros. Essa denominação expressa a convicção de que, entre todos os escritos produzidos pela humanidade, nenhum se compara em dignidade e importância às Sagradas Escrituras, pois nelas Deus fala diretamente aos homens para revelar-lhes o caminho da salvação.
+A palavra Bíblia vem do grego "biblía", que significa "livros". Etimologicamente, portanto, Bíblia designa o livro por excelência, o livro dos livros. Essa denominação expressa a convicção de que, entre todos os escritos produzidos pela humanidade, nenhum se compara em dignidade e importância às Sagradas Escrituras, pois nelas **Deus** fala diretamente aos homens para revelar-lhes o caminho da salvação.
 
 **2. Em quantas partes a Bíblia se divide?**
 
