@@ -6,7 +6,7 @@ category: "Bíblia"
 author: "Redação Ecclesiae"
 excerpt: "10 perguntas e respostas para compreender a estrutura, a origem e o significado das Sagradas Escrituras segundo a Tradição da Igreja Católica."
 slug: "o-que-voce-precisa-saber-sobre-a-biblia-sagrada"
-status: "published"
+status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/f/fd/EDWAERT_COLLIER_VANITAS_STILL_LIFE.jpg"
 metaTitle: "O que você precisa saber sobre a Bíblia Sagrada"
 metaDescription: "10 perguntas e respostas para compreender a estrutura, a origem e o significado das Sagradas Escrituras segundo a Tradição da Igreja Católica."
@@ -28,6 +28,8 @@ A palavra Bíblia vem do grego "biblía", que significa "livros". Etimologicamen
 **2. Em quantas partes a Bíblia se divide?**
 
 A Bíblia divide-se em duas grandes partes, o Antigo Testamento e o Novo Testamento. O Antigo Testamento é a coleção dos livros sagrados que contêm a história da aliança contraída por Deus com Abraão e o seu povo, bem como as condições e as leis desta aliança. O Novo Testamento, por sua vez, é a coleção dos livros sagrados que contêm a história da nova aliança contraída por Jesus Cristo com os homens, sancionada com o seu sangue, juntamente com as principais condições e leis desta aliança.
+
+![shepher](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/shepher-1776691893632.jpg)
 
 ***3. Quantos livros compõem a Bíblia Católica?***
 
