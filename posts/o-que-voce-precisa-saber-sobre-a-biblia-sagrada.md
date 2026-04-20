@@ -1,11 +1,11 @@
 ---
 title: "O que você precisa saber sobre a Bíblia Sagrada"
 date: "2026-04-20"
-excerpt: "15 perguntas e respostas para compreender a estrutura, a origem e o significado das Sagradas Escrituras segundo a Tradição da Igreja Católica."
+excerpt: "10 perguntas e respostas para compreender a estrutura, a origem e o significado das Sagradas Escrituras segundo a Tradição da Igreja Católica."
 slug: "o-que-voce-precisa-saber-sobre-a-biblia-sagrada"
 status: "draft"
 metaTitle: "O que você precisa saber sobre a Bíblia Sagrada"
-metaDescription: "15 perguntas e respostas para compreender a estrutura, a origem e o significado das Sagradas Escrituras segundo a Tradição da Igreja Católica."
+metaDescription: "10 perguntas e respostas para compreender a estrutura, a origem e o significado das Sagradas Escrituras segundo a Tradição da Igreja Católica."
 ---
 
 A Bíblia é o livro mais lido, mais traduzido e mais influente da história da humanidade, porém muitos católicos ainda têm dúvidas básicas sobre sua estrutura, sua composição e o modo correto de lê-la. Saber quantos livros a compõem, como estão organizados, quem os escreveu e sob qual autoridade foram reunidos no cânon sagrado são conhecimentos fundamentais para quem deseja crescer na fé e aprofundar-se na Palavra de Deus. 
@@ -47,4 +47,3 @@ A inspiração bíblica é uma doutrina fundamental da fé católica. Segundo o 
 ***8. A Bíblia foi escrita em quais línguas?***
 
 A Bíblia foi escrita originalmente em três línguas. A maior parte do Antigo Testamento foi composta em hebraico, a língua do povo de Israel. Algumas porções menores do Antigo Testamento (partes de Daniel e Esdras) foram escritas em aramaico, língua semítica aparentada ao hebraico que se tornou comum na região após o exílio babilônico. O Novo Testamento foi escrito inteiramente em grego, a língua franca do mundo mediterrâneo na época dos Apóstolos, o que facilitou a difusão do Evangelho por todo o Império Romano.
-
