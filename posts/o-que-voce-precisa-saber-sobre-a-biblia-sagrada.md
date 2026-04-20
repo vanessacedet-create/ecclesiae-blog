@@ -64,7 +64,7 @@ Evangelho é uma palavra de origem grega que significa "boa nova". Empregada pel
 Os Salmos são hinos sagrados por meio dos quais o povo de Deus costumava louvar o Senhor, implorar a sua misericórdia, agradecer os benefícios recebidos e recordar os prodígios da providência divina em favor de Israel. Foram compostos por vários escritores sagrados, sendo Davi o autor da maior parte. O Livro dos Salmos, também chamado Saltério, contém 150 salmos e constitui o livro de orações por excelência da Igreja. Santo Ambrósio afirmava que nos Salmos se encontram todos os mistérios da religião cristã, tudo o que os profetas vaticinaram, a graça das revelações, os testemunhos da ressurreição de Jesus Cristo, e os meios para confessar e detestar os pecados.
 
 ### Você sabia?
-
+---
 *O Salmo 117 é o capítulo mais curto da Bíblia, e o Salmo 119 é o mais longo.*
 
 O Salmo 117, com apenas dois versículos, é o capítulo mais breve de toda a Escritura, mas contém um convite universal ao louvor divino. Já o Salmo 119, com 176 versículos, é o mais extenso capítulo da Bíblia. Trata-se de um poema acróstico composto por 22 estrofes de 8 versículos cada, correspondendo às 22 letras do alfabeto hebraico. Todo o salmo é um elogio à Lei de Deus e ao amor pela Palavra divina.
