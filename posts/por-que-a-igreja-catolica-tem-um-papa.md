@@ -1,8 +1,11 @@
 ---
 title: "Por que a Igreja Católica tem um Papa?"
 date: "2026-04-22"
+categories: ["Catolicismo"]
+category: "Catolicismo"
 slug: "por-que-a-igreja-catolica-tem-um-papa"
 status: "draft"
+tags: ["papa", "igreja católica", "dúvidas"]
 ---
 
 Entre as características que distinguem a Igreja Católica das demais confissões cristãs, poucas são tão visíveis quanto a figura do Papa. O Bispo de Roma, Vigário de Cristo na terra, Sucessor de São Pedro, Sumo Pontífice da Igreja Universal. Esses títulos podem parecer estranhos ou até excessivos para quem se aproxima da fé católica vindo de outras tradições, porém expressam verdades fundamentais que remontam ao próprio Cristo e que a Igreja preserva há dois milênios. Compreender por que existe um Papa e o que significa a Sucessão Apostólica é essencial para entender a natureza mesma da Igreja fundada por Jesus.
