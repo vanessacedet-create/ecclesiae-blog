@@ -3,11 +3,11 @@ title: "Por que a Igreja Católica tem um Papa?"
 date: "2026-04-22"
 categories: ["Catolicismo"]
 category: "Catolicismo"
-excerpt: "Por que a Igreja Católica tem um Papa?"
+excerpt: "Compreender por que existe um Papa e o que significa a Sucessão Apostólica é essencial para entender a natureza da Igreja"
 slug: "por-que-a-igreja-catolica-tem-um-papa"
 status: "draft"
 metaTitle: "Por que a Igreja Católica tem um Papa?"
-metaDescription: "Por que a Igreja Católica tem um Papa?"
+metaDescription: "Compreender por que existe um Papa e o que significa a Sucessão Apostólica é essencial para entender a natureza da Igreja"
 tags: ["papa", "igreja católica", "dúvidas"]
 ---
 
