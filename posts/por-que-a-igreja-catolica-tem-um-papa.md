@@ -5,7 +5,7 @@ categories: ["Catolicismo"]
 category: "Catolicismo"
 excerpt: "Compreender por que existe um Papa e o que significa a Sucessão Apostólica é essencial para entender a natureza da Igreja"
 slug: "por-que-a-igreja-catolica-tem-um-papa"
-status: "draft"
+status: "published"
 coverImage: "https://onepeterfive-wp.s3.amazonaws.com/wp-content/uploads/2021/11/Raffaello_Sanzio_-_Ritratto_di_Leone_X_coi_cardinali_Giulio_de_Medici_e_Luigi_de_Rossi_-_Google_Art_Project.jpeg"
 metaTitle: "Por que a Igreja Católica tem um Papa?"
 metaDescription: "Compreender por que existe um Papa e o que significa a Sucessão Apostólica é essencial para entender a natureza da Igreja"
