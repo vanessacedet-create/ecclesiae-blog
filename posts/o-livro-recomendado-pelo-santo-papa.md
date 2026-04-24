@@ -43,7 +43,7 @@ As Máximas Espirituais apresentam seis meios para adquirir a presença de Deus 
 O quarto é formar interiormente pequenas palavras de amor, como "Meu Deus, sou todo Seu" ou "Senhor, faça-me segundo Seu coração". O quinto é perseverar sem desânimo quando se falha, pois o hábito só se forma através do esforço repetido. O sexto é a mortificação dos sentidos, condição para abandonar o criado e permanecer com o Criador.
 
 *Sugestões para a leitura*
-
+---
 Por ser um livro breve, há a tentação de lê-lo rapidamente como se fosse um manual de técnicas. Essa abordagem desperdiçaria a riqueza da obra. Recomenda-se ler uma conversa ou uma carta por dia, meditando sobre o texto e buscando aplicá-lo nas ocupações cotidianas. As Máximas podem ser lidas em separado, uma seção por semana, como matéria de exame. O Elogio a Frei Lourenço, que abre a obra, oferece o contexto biográfico necessário para compreender a profundidade do testemunho. A Apresentação do Pe. José Eduardo situa o livro na tradição espiritual católica e adverte contra possíveis mal-entendidos, como confundir a presença de Deus com fuga do real ou quietismo.
 
 O próprio Papa Leão XIV indicou este livro como chave para compreender sua espiritualidade pessoal. Segundo ele, a obra descreve "um tipo de oração e espiritualidade que consiste em simplesmente entregar a vida ao Senhor e permitir que o Senhor o conduza". Que o leitor se aproxime destas páginas com a mesma disposição, buscando não apenas conhecimento, e sim transformação. Pois, como escreveu Frei Lourenço, não há circunstância tão humilde que não se possa tornar lugar de adoração, nem trabalho tão repetitivo que não se possa tornar oblação, nem vida tão simples que não se possa tornar uma vida em presença de Deus.
