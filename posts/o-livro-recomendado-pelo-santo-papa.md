@@ -19,6 +19,9 @@ Este guia apresenta a estrutura da obra, orienta a leitura de cada seção e des
 <a href="https://ecclesiae.com.br/a-pratica-da-presenca-de-deus" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Tenha essa obra em mãos!</a>
 
 ## Quem foi Frei Lourenço da Ressurreição
+
+![ChatGPT Image Apr 24, 2026, 12 53 18 PM](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/chatgpt-image-apr-24--2026--12-53-18-pm-1777046017737.png)
+
 Nicolas Herman nasceu na Lorena, França, numa família piedosa que lhe inspirou desde cedo o temor de Deus. As turbulências da Guerra dos Trinta Anos levaram-no a abraçar a profissão das armas, e numa incursão sueca foi ferido em Rambervillers, o que o obrigou a voltar à casa dos pais. Esse acontecimento preparava uma virada interior, pois foi nessa época, aos dezoito anos, que Deus lhe concedeu um favor singular. Num dia de inverno, ao contemplar uma árvore despida de folhas e considerar que em breve suas folhas seriam renovadas e depois viriam flores e frutos, recebeu uma visão tão elevada da Providência e do poder de Deus que jamais seria apagada de sua alma.
 
 Após trabalhar como criado e passar por uma experiência de solidão eremítica, foi a Paris e pediu o hábito entre os conversos dos Carmelitas Descalços, tomando o nome de Frei Lourenço da Ressurreição. Destinado aos ofícios mais humildes, trabalhou na cozinha do convento durante muitos anos. Atravessou dez anos de penas interiores terríveis, temendo estar no caminho errado, até que um dia resolveu suportar aquele sofrimento pelo resto da vida se assim agradasse a Deus. Desde aquele momento, as trevas se dissiparam e ele entrou numa paz que não mais o abandonaria até sua morte, em 12 de fevereiro de 1691.
