@@ -7,6 +7,7 @@ author: "Redação Ecclesiae"
 excerpt: "Como ler e aproveitar a obra de Frei Lourenço da Ressurreição."
 slug: "o-livro-recomendado-pelo-santo-papa"
 status: "draft"
+coverImage: "https://eclecticlight.co/wp-content/uploads/2021/05/vibertmarveloussauce.jpg?w=1024"
 metaTitle: "O livro recomendado pelo Santo Papa!"
 metaDescription: "Como ler e aproveitar a obra de Frei Lourenço da Ressurreição."
 tags: ["livro", "lançamento", "guia de leitura", "recomendação"]
