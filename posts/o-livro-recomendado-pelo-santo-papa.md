@@ -10,4 +10,17 @@ status: "draft"
 
 Frei Lourenço da Ressurreição, carmelita descalço do século XVII, descobriu que é possível viver em contínua conversação com o Senhor mesmo no meio das ocupações mais humildes, e passou os últimos quarenta anos de sua vida praticando esse exercício com tal fidelidade que sua alma permanecia em paz tanto na cozinha do convento quanto diante do Santíssimo Sacramento.
 
-Este guia apresenta a estrutura da obra, orienta a leitura de cada seção e destaca os elementos que fazem deste pequeno livro um clássico perene da espiritualidade cristã, capaz de transformar a vida de quem o lê com abertura de coração.
+Este guia apresenta a estrutura da obra, orienta a leitura de cada seção e destaca os elementos que fazem deste pequeno livro um clássico da espiritualidade cristã, capaz de transformar a vida de quem o lê com abertura de coração.
+
+
+## Quem foi Frei Lourenço da Ressurreição
+
+Nicolas Herman nasceu na Lorena, França, numa família piedosa que lhe inspirou desde cedo o temor de Deus. As turbulências da Guerra dos Trinta Anos levaram-no a abraçar a profissão das armas, e numa incursão sueca foi ferido em Rambervillers, o que o obrigou a voltar à casa dos pais. Esse acontecimento preparava uma virada interior, pois foi nessa época, aos dezoito anos, que Deus lhe concedeu um favor singular. Num dia de inverno, ao contemplar uma árvore despida de folhas e considerar que em breve suas folhas seriam renovadas e depois viriam flores e frutos, recebeu uma visão tão elevada da Providência e do poder de Deus que jamais seria apagada de sua alma.
+
+Após trabalhar como criado e passar por uma experiência de solidão eremítica, foi a Paris e pediu o hábito entre os conversos dos Carmelitas Descalços, tomando o nome de Frei Lourenço da Ressurreição. Destinado aos ofícios mais humildes, trabalhou na cozinha do convento durante muitos anos. Atravessou dez anos de penas interiores terríveis, temendo estar no caminho errado, até que um dia resolveu suportar aquele sofrimento pelo resto da vida se assim agradasse a Deus. Desde aquele momento, as trevas se dissiparam e ele entrou numa paz que não mais o abandonaria até sua morte, em 12 de fevereiro de 1691.
+
+
+## Estrutura da obra e como lê-la
+O livro não foi escrito por Frei Lourenço como um tratado sistemático, e sim compilado a partir de suas conversas, cartas e anotações espirituais. Essa origem confere à obra um caráter íntimo e fragmentário que exige do leitor uma abordagem meditativa. A edição da Ecclesiae organiza o material em três partes distintas, cada qual com características próprias.
+
+A primeira parte contém quatro Conversas registradas por um visitante que frequentou Frei Lourenço entre 1666 e 1667. Essas conversas revelam o método pelo qual ele chegou à prática contínua da presença de Deus, suas lutas interiores e os conselhos que oferecia a quem o procurava. A leitura dessas páginas deve ser pausada, pois cada frase contém densidade espiritual que recompensa a meditação. A segunda parte reúne dezesseis Cartas escritas a diversas pessoas que lhe pediam orientação. Nas cartas, Frei Lourenço adapta seu ensinamento às circunstâncias concretas de cada destinatário, o que permite ao leitor identificar-se com situações semelhantes às suas.
