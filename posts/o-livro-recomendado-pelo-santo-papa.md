@@ -7,6 +7,8 @@ author: "Redação Ecclesiae"
 excerpt: "Como ler e aproveitar a obra de Frei Lourenço da Ressurreição."
 slug: "o-livro-recomendado-pelo-santo-papa"
 status: "draft"
+metaTitle: "O livro recomendado pelo Santo Papa!"
+metaDescription: "Como ler e aproveitar a obra de Frei Lourenço da Ressurreição."
 ---
 
 Frei Lourenço da Ressurreição, carmelita descalço do século XVII, descobriu que é possível viver em contínua conversação com o Senhor mesmo no meio das ocupações mais humildes, e passou os últimos quarenta anos de sua vida praticando esse exercício com tal fidelidade que sua alma permanecia em paz tanto na cozinha do convento quanto diante do Santíssimo Sacramento.
