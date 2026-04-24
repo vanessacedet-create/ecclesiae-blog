@@ -12,6 +12,7 @@ Frei Lourenço da Ressurreição, carmelita descalço do século XVII, descobriu
 
 Este guia apresenta a estrutura da obra, orienta a leitura de cada seção e destaca os elementos que fazem deste pequeno livro um clássico da espiritualidade cristã, capaz de transformar a vida de quem o lê com abertura de coração.
 
+<a href="https://ecclesiae.com.br/a-pratica-da-presenca-de-deus" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Tenha essa obra em mãos!</a>
 
 ## Quem foi Frei Lourenço da Ressurreição
 Nicolas Herman nasceu na Lorena, França, numa família piedosa que lhe inspirou desde cedo o temor de Deus. As turbulências da Guerra dos Trinta Anos levaram-no a abraçar a profissão das armas, e numa incursão sueca foi ferido em Rambervillers, o que o obrigou a voltar à casa dos pais. Esse acontecimento preparava uma virada interior, pois foi nessa época, aos dezoito anos, que Deus lhe concedeu um favor singular. Num dia de inverno, ao contemplar uma árvore despida de folhas e considerar que em breve suas folhas seriam renovadas e depois viriam flores e frutos, recebeu uma visão tão elevada da Providência e do poder de Deus que jamais seria apagada de sua alma.
@@ -20,7 +21,7 @@ Após trabalhar como criado e passar por uma experiência de solidão eremítica
 
 
 ## Estrutura da obra e como lê-la
-O livro não foi escrito por Frei Lourenço como um tratado sistemático, e sim compilado a partir de suas conversas, cartas e anotações espirituais. Essa origem confere à obra um caráter íntimo e fragmentário que exige do leitor uma abordagem meditativa. A edição da Ecclesiae organiza o material em três partes distintas, cada qual com características próprias.
+[O livro](https://ecclesiae.com.br/a-pratica-da-presenca-de-deus) não foi escrito por Frei Lourenço como um tratado sistemático, e sim compilado a partir de suas conversas, cartas e anotações espirituais. Essa origem confere à obra um caráter íntimo e fragmentário que exige do leitor uma abordagem meditativa. A edição da Ecclesiae organiza o material em três partes distintas, cada qual com características próprias.
 
 A primeira parte contém quatro Conversas registradas por um visitante que frequentou Frei Lourenço entre 1666 e 1667. Essas conversas revelam o método pelo qual ele chegou à prática contínua da presença de Deus, suas lutas interiores e os conselhos que oferecia a quem o procurava. A leitura dessas páginas deve ser pausada, pois cada frase contém densidade espiritual que recompensa a meditação. A segunda parte reúne dezesseis Cartas escritas a diversas pessoas que lhe pediam orientação. Nas cartas, Frei Lourenço adapta seu ensinamento às circunstâncias concretas de cada destinatário, o que permite ao leitor identificar-se com situações semelhantes às suas.
 
