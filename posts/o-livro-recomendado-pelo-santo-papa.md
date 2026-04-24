@@ -4,6 +4,7 @@ date: "2026-04-24"
 categories: ["Guias de leitura"]
 category: "Guias de leitura"
 author: "Redação Ecclesiae"
+excerpt: "Como ler e aproveitar a obra de Frei Lourenço da Ressurreição."
 slug: "o-livro-recomendado-pelo-santo-papa"
 status: "draft"
 ---
