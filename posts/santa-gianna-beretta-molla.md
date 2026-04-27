@@ -4,6 +4,7 @@ date: "2026-04-27"
 categories: ["Vida dos santos"]
 category: "Vida dos santos"
 author: "Redação Ecclesiae"
+excerpt: "Santa Gianna mostrou que a mulher católica não precisa renunciar a nada para ser santa, apenas amar até o fim."
 slug: "santa-gianna-beretta-molla"
 status: "draft"
 metaTitle: " Santa Gianna Beretta Molla"
