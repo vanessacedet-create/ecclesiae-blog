@@ -15,6 +15,8 @@ No dia 28 de abril, a Igreja celebra a memória de Santa Gianna Beretta Molla, m
 
 Gianna Beretta nasceu em Magenta, na Lombardia italiana, em 4 de outubro de 1922, numa família numerosa e profundamente católica. Desde jovem demonstrou piedade sólida e inclinação para o serviço ao próximo, o que a levou a cursar Medicina na Universidade de Milão, diplomando-se em 1949. Especializou-se em Pediatria e abriu um consultório em Mesero, onde atendia com dedicação especial às mães, aos idosos e aos pobres. Paralelamente à vida profissional, participava ativamente da Ação Católica e das Conferências Vicentinas, além de cultivar o gosto pela música, pela pintura e pelo alpinismo.
 
+## O amor que moveu sua vida
+
 Em 1955, casou-se com o engenheiro Pietro Molla na Basílica de São Martinho em Magenta. O casal teve três filhos, Pierluigi, Maria Zita e Laura, e vivia uma vida conjugal marcada pela oração comum, pelo respeito mútuo e pela alegria. Em 1961, já grávida do quarto filho, Gianna descobriu um fibroma uterino que exigia intervenção cirúrgica.
 
 Os médicos lhe apresentaram três opções, duas das quais salvariam sua vida às custas da criança. Gianna escolheu a terceira, que preservaria a vida do bebê mesmo com risco para si mesma. Antes da operação, pediu aos médicos que, se tivessem de escolher entre ela e a criança, salvassem a criança.
