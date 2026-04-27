@@ -1,6 +1,9 @@
 ---
 title: "Santa Gianna Beretta Molla"
 date: "2026-04-27"
+categories: ["Vida dos santos"]
+category: "Vida dos santos"
+author: "Redação Ecclesiae"
 slug: "santa-gianna-beretta-molla"
 status: "draft"
 ---
