@@ -19,7 +19,7 @@ Em 1955, casou-se com o engenheiro Pietro Molla na Basílica de São Martinho em
 
 Os médicos lhe apresentaram três opções, duas das quais salvariam sua vida às custas da criança. Gianna escolheu a terceira, que preservaria a vida do bebê mesmo com risco para si mesma. Antes da operação, pediu aos médicos que, se tivessem de escolher entre ela e a criança, salvassem a criança.
 
-Em 21 de abril de 1962, nasceu Gianna Emanuela, saudável.
+**Em 21 de abril de 1962, nasceu Gianna Emanuela, saudável.**
 
 A mãe, porém, desenvolveu uma peritonite séptica e, apesar de todos os esforços médicos, faleceu uma semana depois, em 28 de abril, repetindo até o fim as palavras "Jesus, eu te amo". Tinha 39 anos de idade. Seu sacrifício comoveu o mundo católico e logo começaram a chegar relatos de graças obtidas por sua intercessão.
 
