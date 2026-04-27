@@ -7,6 +7,8 @@ author: "Redação Ecclesiae"
 excerpt: "Santa Gianna mostrou que a mulher católica não precisa renunciar a nada para ser santa, apenas amar até o fim."
 slug: "santa-gianna-beretta-molla"
 status: "draft"
+coverImage: "https://img.cancaonova.com/cnimages/canais/uploads/sites/6/2017/11/formacao_conheca-santa-gianna-beretta-e-seus-valores-familiares.jpg"
+coverPosition: "top center"
 metaTitle: " Santa Gianna Beretta Molla"
 metaDescription: "Santa Gianna mostrou que a mulher católica não precisa renunciar a nada para ser santa, apenas amar até o fim."
 ---
