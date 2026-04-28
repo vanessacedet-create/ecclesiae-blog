@@ -11,6 +11,7 @@ coverImage: "https://img.cancaonova.com/cnimages/canais/uploads/sites/6/2017/11/
 coverPosition: "top center"
 metaTitle: " Santa Gianna Beretta Molla"
 metaDescription: "Santa Gianna mostrou que a mulher católica não precisa renunciar a nada para ser santa, apenas amar até o fim."
+tags: ["santa", "vida", "memória"]
 ---
 
 No dia 28 de abril, a Igreja celebra a memória de Santa Gianna Beretta Molla, médica italiana que se tornou modelo de santidade conjugal e maternal ao sacrificar a própria vida para salvar a filha que carregava no ventre. Sua festa litúrgica recorda o dia de sua morte, ocorrida em 1962, e convida os fiéis a contemplar o testemunho de uma mulher que viveu com heroísmo as virtudes cristãs no meio das ocupações ordinárias de esposa, mãe e profissional.
