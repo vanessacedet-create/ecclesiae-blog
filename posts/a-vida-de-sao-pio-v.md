@@ -4,9 +4,11 @@ date: "2026-04-28"
 categories: ["Vida dos santos"]
 category: "Vida dos santos"
 author: "Redação Ecclesiae"
+excerpt: "O Papa que uniu a Europa cristã, derrotou os turcos em Lepanto e instituiu a festa de Nossa Senhora do Rosário."
 slug: "a-vida-de-sao-pio-v"
 status: "draft"
 metaTitle: "A vida de São Pio V"
+metaDescription: "O Papa que uniu a Europa cristã, derrotou os turcos em Lepanto e instituiu a festa de Nossa Senhora do Rosário."
 ---
 
 A Igreja celebra no dia 30 de abril a memória de São Pio V, o Papa dominicano que salvou a Cristandade da invasão otomana e implementou com vigor as reformas do Concílio de Trento. Seu pontificado, embora breve (1566-1572), marcou profundamente a história da Igreja e da Europa, deixando um legado que perdura até nossos dias na liturgia, na disciplina eclesiástica e na devoção mariana.
