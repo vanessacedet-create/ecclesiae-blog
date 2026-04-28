@@ -7,6 +7,8 @@ author: "Redação Ecclesiae"
 excerpt: "O Papa que uniu a Europa cristã, derrotou os turcos em Lepanto e instituiu a festa de Nossa Senhora do Rosário."
 slug: "a-vida-de-sao-pio-v"
 status: "draft"
+coverImage: "https://r2.padrepauloricardo.org/fd990gce78pjo7jzfhi4ztyyuj56"
+coverPosition: "top center"
 metaTitle: "A vida de São Pio V"
 metaDescription: "O Papa que uniu a Europa cristã, derrotou os turcos em Lepanto e instituiu a festa de Nossa Senhora do Rosário."
 ---
