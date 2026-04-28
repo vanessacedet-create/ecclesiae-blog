@@ -23,6 +23,5 @@ E o feito mais célebre de São Pio V foi a formação da Liga Santa contra o Im
 
 Naquele mesmo dia, estando em Roma, São Pio V interrompeu subitamente uma reunião, dirigiu-se à janela e, olhando para o céu, exclamou que era hora de agradecer a Deus pela vitória que acabava de conceder ao exército cristão. A notícia oficial só chegaria dias depois, confirmando o que o Papa já sabia por luz sobrenatural. Em ação de graças à Virgem Maria, cuja intercessão atribuiu a vitória, Pio V instituiu a festa de Nossa Senhora da Vitória, posteriormente chamada Nossa Senhora do Rosário, celebrada em 7 de outubro.
 
-
 ## Morte e canonização
 Debilitado por longa enfermidade, São Pio V faleceu em 1º de maio de 1572, aos 68 anos de idade. Seus restos mortais repousam até hoje na Basílica de Santa Maria Maior, em Roma. Cem anos após sua morte, foi beatificado pelo Papa Clemente X em 27 de abril de 1672, e canonizado pelo Papa Clemente XI em 22 de maio de 1712. Sua festa litúrgica, originalmente celebrada em 5 de maio, foi transferida em 1969 para o dia 30 de abril, véspera do aniversário de sua morte. São Pio V permanece como modelo de reformador zeloso, defensor intrépido da fé e devoto fervoroso da Virgem Maria.
