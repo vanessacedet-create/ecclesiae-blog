@@ -10,7 +10,7 @@ No agreste pernambucano de 1936, em uma aldeia do distrito de Cimbres, a Virgem 
 Esse episódio mariano teve seu reconhecimento canônico em 2021, pelo decreto episcopal de Dom José Luiz Ferreira Salles, da Diocese de Pesqueira, depois de comissão de investigação científico-teológica conduzida segundo as Normas vigentes. Esta é, então, a primeira mariofania reconhecida em terras brasileiras.
 
 
-### A posição contra o Comunismo
+## A posição contra o Comunismo
 
 A oposição da Virgem Maria começa antes mesmo de Cimbres, começa em Nazaré. Quando a jovem ergue a voz na casa de Isabel e proclama no Magnificat que o Senhor derruba os poderosos de seus tronos e exalta os humildes, ela inaugura uma teologia da história em que o protagonismo pertence inteiramente a Deus. O equívoco contemporâneo está em ler esse cântico como manifesto revolucionário avant la lettre, um suposto Magnificat marxista.
 
