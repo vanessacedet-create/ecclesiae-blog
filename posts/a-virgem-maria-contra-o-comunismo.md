@@ -18,5 +18,14 @@ A leitura mariana tem outra natureza, derruba os soberbos sem ódio e sem vingan
 
 Essa incompatibilidade foi articulada pela Igreja muito antes de qualquer aparição moderna. Pio IX denunciou em 1849 as seitas socialistas e niilistas. Leão XIII, na Quod Apostolici Muneris de 1878, identificou nelas a negação simultânea da autoridade legítima, da família e da propriedade, três pilares da lei natural. Pio XI, em 1937, publicou a Divini Redemptoris, encíclica em que afirmou de modo lapidar a perversidade intrínseca dessa ideologia e advertiu sobre sua tática mais sutil, a capacidade de mascarar-se sob bandeiras sedutoras como a paz e a justiça social, infiltrando-se inclusive entre os fiéis.
 
-
 > O magistério pontifício, portanto, já havia traçado o mapa do erro quando Maria desceu sobre Cimbres.
+
+Foi esse ponto que ela veio reforçar com sua autoridade materna. A Mãe de Deus não substitui a voz da Igreja, ela a confirma e a amplifica, levando a doutrina dos pontífices ao coração simples do povo brasileiro.
+
+As mensagens da Aparição em Cimbres foram, nesse sentido, mais explícitas do que tudo o que havia sido dito em Fátima dezenove anos antes.
+
+Quando indagada sobre o que fazer diante de tanto caos, a Virgem ofereceu a única solução que jamais se cansou de oferecer aos seus. Rezar muito e fazer penitência.
+
+Dessa forma, a Mãe do Salvador não propõe um programa político alternativo, não convoca a contra-revolução, não levanta exércitos. Aponta para a oração que une o céu e a terra, para a metanoia que devolve o homem ao estado de graça do qual ele se afastou ao colocar-se no centro do universo. Onde o Comunismo promete o paraíso terreno mediante a violência organizada, a Virgem promete a salvação eterna mediante a conversão do coração. Onde aquele exalta a luta de classes, esta exalta a vida sacramental. Onde aquele suprime Deus, esta restitui o homem a Deus.
+
+A Senhora da(s) Graça(s) de Cimbres não veio ao Brasil para fazer política. Veio para cumprir o seu ofício de mãe diante de um perigo que já havia derramado rios de sangue na Rússia e que ameaçava chegar à América. Ouvi-la a tempo permanece como Graça.
