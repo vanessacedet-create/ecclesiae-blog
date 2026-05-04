@@ -1,6 +1,6 @@
 ---
 title: "Super-hábitos: o sistema de virtudes para uma vida bem-sucedida"
-date: "2026-05-04"
+date: "2026-05-01"
 categories: ["Guias de leitura"]
 category: "Guias de leitura"
 excerpt: "O que Santo Tomás de Aquino tem a ensinar sobre produtividade e realização pessoal"
