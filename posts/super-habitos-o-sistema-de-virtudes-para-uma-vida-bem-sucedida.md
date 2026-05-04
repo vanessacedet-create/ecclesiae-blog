@@ -41,4 +41,4 @@ Entre os super-hábitos apresentados na obra estão a Contenção (para lidar co
 
 Cada capítulo apresenta a virtude, fundamenta-a na pesquisa científica, oferece exemplos contemporâneos e sugere práticas concretas para desenvolvê-la.
 
-Super-hábitos recupera uma sabedoria milenar, validada pela ciência moderna e apresentada numa linguagem acessível ao leitor contemporâneo. Se você está cansado de acumular técnicas avulsas e deseja finalmente um sistema integrado para construir uma vida bem-sucedida, esta obra oferece exatamente isso: o mapa completo, com a indicação de por onde começar e como avançar. Santo Tomás de Aquino, o Doutor Angélico, continua tendo algo a ensinar ao homem do século XXI.
+Super-hábitos recupera uma sabedoria milenar, validada pela ciência moderna e apresentada numa linguagem acessível ao leitor contemporâneo. Se você está cansado de acumular técnicas avulsas e deseja finalmente um sistema integrado para construir uma vida bem-sucedida, esta obra oferece o mapa completo, com a indicação de por onde começar e como avançar. Santo Tomás de Aquino, o Doutor Angélico, continua tendo algo a ensinar ao homem do século XXI.
