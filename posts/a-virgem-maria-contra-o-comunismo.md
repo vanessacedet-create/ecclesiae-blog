@@ -24,7 +24,7 @@ Foi esse ponto que ela veio reforçar com sua autoridade materna. A Mãe de Deus
 
 As mensagens da Aparição em Cimbres foram, nesse sentido, mais explícitas do que tudo o que havia sido dito em Fátima dezenove anos antes.
 
-> Ora, nas aparições de Cimbres, Pe. José Kehrle inicia questionamentos a Virgem Santíssima, na Serra do Ororubá, sobre diversas situações conflitantes e preocupantes, e é ele que coloca o tema da ideologia marxista em pauta nos diálogos com a Virgem Maria.
+> Ora, nas aparições de Cimbres, Pe. José Kehrle inicia questionamentos a Virgem Santíssima, na Serra do Ororubá, sobre diversas situações conflitantes e preocupantes, e é ele que coloca o tema da ideologia marxista em pauta nos diálogos com a Virgem Maria. Interpretamos do Comunismo que essa ideologia seria um dos castigos prometidos por Deus, porque é o próprio Pe. José Kehrle que o interpreta assim e a Senhora da(s) Graça(s) nem concorda e nem discorda, mas diz como combater para se evitar um mal maior.
 
 Quando indagada sobre o que fazer diante de tanto caos, a Virgem ofereceu a única solução que jamais se cansou de oferecer aos seus. Rezar muito e fazer penitência.
 
