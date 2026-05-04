@@ -20,6 +20,7 @@ A Editora Ecclesiae acaba de lançar Super-hábitos, do Dr. Andrew Abela. Garant
 Vivemos cercados de livros que prometem transformar nossa vida. Um nos manda ter garra, outro recomenda pensar grande, um terceiro sugere ligar para nada. Há métodos para criar hábitos atômicos, regras para conquistar poder, técnicas para vencer a procrastinação. O problema é que, ao final de tantas leituras, ficamos com a sensação de ter acumulado ferramentas avulsas sem nunca ter encontrado o manual completo. Como tudo isso se encaixa? Por onde começar? Qual hábito merece mais atenção neste momento da minha vida?
 
 O Dr. Andrew Abela, reitor fundador da Busch School of Business da Universidade Católica da América, percebeu que a resposta para essas perguntas já havia sido dada há 750 anos por um monge italiano chamado Tomás de Aquino. O sistema de virtudes desenvolvido pelo Doutor Angélico oferece exatamente o que os livros contemporâneos de autoajuda não conseguem fornecer, a saber, uma arquitetura completa e integrada para o desenvolvimento humano, testada por séculos de experiência e agora validada pela pesquisa científica moderna.
+![1 we4QwSxLgOwLRp U8qsdeA](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/1-we4qwsxlgowlrp-u8qsdea-1777893801807.jpg)
 
 
 ## O que são os super-hábitos
