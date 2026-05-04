@@ -7,6 +7,8 @@ author: "Redação Ecclesiae"
 excerpt: "Reconhecida pela Igreja, a primeira mariofania brasileira anunciou o mal do Comunismo."
 slug: "a-virgem-maria-contra-o-comunismo"
 status: "draft"
+metaTitle: "A Virgem Maria contra o Comunismo"
+metaDescription: "Reconhecida pela Igreja, a primeira mariofania brasileira anunciou o mal do Comunismo."
 ---
 
 No agreste pernambucano de 1936, em uma aldeia do distrito de Cimbres, a Virgem Maria apareceu a duas crianças de uma família e anunciou, com a serenidade de quem conhece o desfecho da história, a chegada do Comunismo ao Brasil. Profetizou perseguições, sangue derramado, fé enfraquecida entre os filhos do país. Foram quarenta aparições no Sítio Guarda, ao longo de 1936 e 1937, e em todas elas a Mãe de Deus assumiu uma posição que ainda hoje constrange certas leituras pacificadas do cristianismo.
