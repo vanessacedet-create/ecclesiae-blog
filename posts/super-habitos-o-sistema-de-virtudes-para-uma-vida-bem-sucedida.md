@@ -18,7 +18,9 @@ Vivemos cercados de livros que prometem transformar nossa vida. Um nos manda ter
 
 O Dr. Andrew Abela, reitor fundador da Busch School of Business da Universidade Católica da América, percebeu que a resposta para essas perguntas já havia sido dada há 750 anos por um monge italiano chamado Tomás de Aquino. O sistema de virtudes desenvolvido pelo Doutor Angélico oferece exatamente o que os livros contemporâneos de autoajuda não conseguem fornecer, a saber, uma arquitetura completa e integrada para o desenvolvimento humano, testada por séculos de experiência e agora validada pela pesquisa científica moderna.
 
-O que são os super-hábitos
+
+## O que são os super-hábitos
+
 O termo "super-hábito" é a tradução contemporânea da palavra "virtude" em seu sentido clássico. Abela evita usar a palavra virtude porque ela adquiriu conotações diversas ao longo do tempo, algumas das quais distorcem seu significado original. Para muitas pessoas, virtude sugere fraqueza, passividade ou moralismo. No vocabulário de Santo Tomás de Aquino, porém, virtude (virtus) significa força, excelência, capacidade de agir bem. Os super-hábitos são precisamente isso, hábitos de excelência que nos tornam capazes de agir com rapidez, facilidade e alegria mesmo nas circunstâncias mais desafiadoras.
 A diferença entre um hábito comum e um super-hábito está no escopo e nos resultados. Fazer as malas com uma lista é um hábito útil, mas restrito a uma única atividade. A Contenção, por outro lado, é um super-hábito que melhora dezenas de aspectos da vida, da alimentação aos relacionamentos, das finanças à saúde mental. Pesquisas em psicologia positiva demonstram que pessoas com o hábito da Contenção tendem a se alimentar melhor, exercitar-se com mais frequência, ter notas mais altas, relacionamentos mais fortes, menos ansiedade e maior satisfação com a vida. O mesmo vale para os demais super-hábitos: Humildade, Diligência, Perdão, Coragem, Sabedoria Prática, Justiça.
 Por que São Tomás de Aquino
