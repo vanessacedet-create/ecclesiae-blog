@@ -4,6 +4,7 @@ date: "2026-05-04"
 categories: ["Catolicismo"]
 category: "Catolicismo"
 author: "Redação Ecclesiae"
+excerpt: "Reconhecida pela Igreja, a primeira mariofania brasileira anunciou o mal do Comunismo."
 slug: "a-virgem-maria-contra-o-comunismo"
 status: "draft"
 ---
