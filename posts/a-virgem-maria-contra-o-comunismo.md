@@ -17,3 +17,6 @@ A oposição da Virgem Maria começa antes mesmo de Cimbres, começa em Nazaré.
 A leitura mariana tem outra natureza, derruba os soberbos sem ódio e sem vingança, recupera os humildes pela misericórdia divina e não pela liquidação do adversário. O Comunismo, em sentido oposto, faz da luta de classes o motor da história, pretende redimir o homem sem Deus e termina por destruir o homem mesmo. Há aqui uma incompatibilidade de princípio, e dela decorre tudo o mais.
 
 Essa incompatibilidade foi articulada pela Igreja muito antes de qualquer aparição moderna. Pio IX denunciou em 1849 as seitas socialistas e niilistas. Leão XIII, na Quod Apostolici Muneris de 1878, identificou nelas a negação simultânea da autoridade legítima, da família e da propriedade, três pilares da lei natural. Pio XI, em 1937, publicou a Divini Redemptoris, encíclica em que afirmou de modo lapidar a perversidade intrínseca dessa ideologia e advertiu sobre sua tática mais sutil, a capacidade de mascarar-se sob bandeiras sedutoras como a paz e a justiça social, infiltrando-se inclusive entre os fiéis.
+
+
+> O magistério pontifício, portanto, já havia traçado o mapa do erro quando Maria desceu sobre Cimbres.
