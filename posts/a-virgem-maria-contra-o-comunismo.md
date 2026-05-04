@@ -1,6 +1,9 @@
 ---
 title: "A Virgem Maria contra o Comunismo"
 date: "2026-05-04"
+categories: ["Catolicismo"]
+category: "Catolicismo"
+author: "Redação Ecclesiae"
 slug: "a-virgem-maria-contra-o-comunismo"
 status: "draft"
 ---
