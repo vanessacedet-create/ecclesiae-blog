@@ -24,6 +24,8 @@ Foi esse ponto que ela veio reforçar com sua autoridade materna. A Mãe de Deus
 
 As mensagens da Aparição em Cimbres foram, nesse sentido, mais explícitas do que tudo o que havia sido dito em Fátima dezenove anos antes.
 
+> Ora, nas aparições de Cimbres, Pe. José Kehrle inicia questionamentos a Virgem Santíssima, na Serra do Ororubá, sobre diversas situações conflitantes e preocupantes, e é ele que coloca o tema da ideologia marxista em pauta nos diálogos com a Virgem Maria.
+
 Quando indagada sobre o que fazer diante de tanto caos, a Virgem ofereceu a única solução que jamais se cansou de oferecer aos seus. Rezar muito e fazer penitência.
 
 Dessa forma, a Mãe do Salvador não propõe um programa político alternativo, não convoca a contra-revolução, não levanta exércitos. Aponta para a oração que une o céu e a terra, para a metanoia que devolve o homem ao estado de graça do qual ele se afastou ao colocar-se no centro do universo. Onde o Comunismo promete o paraíso terreno mediante a violência organizada, a Virgem promete a salvação eterna mediante a conversão do coração. Onde aquele exalta a luta de classes, esta exalta a vida sacramental. Onde aquele suprime Deus, esta restitui o homem a Deus.
