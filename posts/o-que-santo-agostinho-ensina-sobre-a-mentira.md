@@ -1,6 +1,9 @@
 ---
 title: "O que Santo Agostinho ensina sobre a mentira"
 date: "2026-05-08"
+categories: ["Catolicismo", "Guias de leitura"]
+category: "Catolicismo"
+author: "Redação Ecclesiae"
 slug: "o-que-santo-agostinho-ensina-sobre-a-mentira"
 status: "draft"
 ---
