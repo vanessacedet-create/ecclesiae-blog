@@ -6,7 +6,7 @@ category: "Catolicismo"
 author: "Redação Ecclesiae"
 excerpt: "Reconhecida pela Igreja, a primeira mariofania brasileira anunciou o mal do Comunismo."
 slug: "a-virgem-maria-contra-o-comunismo"
-status: "published"
+status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg/960px-Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg"
 metaTitle: "A Virgem Maria contra o Comunismo"
 metaDescription: "Reconhecida pela Igreja, a primeira mariofania brasileira anunciou o mal do Comunismo."
@@ -15,8 +15,9 @@ tags: ["Aparição Mariana", "Virgem Maria", "Análise"]
 
 No agreste pernambucano de 1936, em uma aldeia do distrito de Cimbres, a Virgem Maria apareceu a duas crianças de uma família e anunciou, com a serenidade de quem conhece o desfecho da história, a chegada do Comunismo ao Brasil. Profetizou perseguições, sangue derramado, fé enfraquecida entre os filhos do país. Foram quarenta aparições no Sítio Guarda, ao longo de 1936 e 1937, e em todas elas a Mãe de Deus assumiu uma posição que ainda hoje constrange certas leituras pacificadas do cristianismo.
 
-Esse episódio mariano teve seu reconhecimento canônico em 2021, pelo decreto episcopal de Dom José Luiz Ferreira Salles, da Diocese de Pesqueira, depois de comissão de investigação científico-teológica conduzida segundo as Normas vigentes. Esta é, então, a primeira mariofania reconhecida em terras brasileiras.
+Esse episódio mariano teve seu reconhecimento canônico em 2021, pelo decreto episcopal de Dom José Luiz Ferreira Salles, da Diocese de Pesqueira, depois de comissão de investigação científico-teológica conduzida segundo as Normas vigentes. Esta é, então, a mariofania reconhecida canônicamente em terras brasileiras.
 
+<a href="https://ecclesiae.com.br/a-virgem-maria-se-opoe-ao-comunismo-nas-aparicoes-de-cimbres-por-que?search=em%20cimbres" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:8px 20px;font-size:12px;">Saiba mais</a>
 
 ## A posição contra o Comunismo
 
