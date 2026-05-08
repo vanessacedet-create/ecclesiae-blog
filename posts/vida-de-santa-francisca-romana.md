@@ -7,6 +7,8 @@ author: "Redação Ecclesiae"
 excerpt: "Santa Francisca Romana: a nobre que santificou a vida de esposa e mãe"
 slug: "vida-de-santa-francisca-romana"
 status: "draft"
+coverImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_Wounded_Angel_-_Hugo_Simberg.jpg/1280px-The_Wounded_Angel_-_Hugo_Simberg.jpg"
+coverPosition: "top center"
 metaTitle: "Vida de Santa Francisca Romana"
 metaDescription: "Santa Francisca Romana: a nobre que santificou a vida de esposa e mãe"
 tags: ["Vida de santos", "santidade", "mãe santa", "vida espiritual"]
