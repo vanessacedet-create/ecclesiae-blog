@@ -7,7 +7,8 @@ status: "draft"
 
 Você mentiria para salvar a vida de um inocente? E se um assassino batesse à sua porta perguntando onde está escondida sua vítima, você diria a verdade? Essas perguntas não são meros exercícios acadêmicos, pois são dúvidas de reflexão moral que continuam inquietando a consciência de quem leva a sério a vida ética. A resposta fácil seria dizer que mentir é sempre errado, ponto final. A resposta cínica seria dizer que todo mundo mente e que não há por que se preocupar com isso. Santo Agostinho recusa ambas as saídas e nos conduz por um caminho mais difícil, porém mais honesto.
 
-No tratado "Sobre a Mentira", escrito no final do século IV, o Bispo de Hipona enfrenta o tema com seriedade.
+No tratado "Sobre a Mentira", escrito no final do século IV, o Bispo de Hipona enfrenta o tema com seriedade. E a Editora Ecclesiae publica a segunda edição deste livro na tradução de Tiago Tondinelli, com apresentação e notas que situam o texto em seu contexto histórico e teológico.
+
 
 Vivemos cercados de meias-verdades, *fake news*, assessorias de imprensa treinadas para "gerenciar narrativas" e uma cultura que relativiza a mentira conforme a conveniência. Santo Agostinho nos lembra que a questão não é nova, que os homens sempre mentiram e sempre se perguntaram se deveriam fazê-lo...
 
