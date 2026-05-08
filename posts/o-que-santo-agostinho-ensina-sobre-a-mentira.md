@@ -1,7 +1,7 @@
 ---
 title: "O que Santo Agostinho ensina sobre a mentira"
 date: "2026-05-08"
-categories: ["Catolicismo", "Guias de leitura"]
+categories: ["Catolicismo"]
 category: "Catolicismo"
 author: "Redação Ecclesiae"
 excerpt: "Santo Agostinho enfrenta o dilema da mentira: é sempre errado mentir? E se for para salvar uma vida? Conheça o tratado que continua atual."
