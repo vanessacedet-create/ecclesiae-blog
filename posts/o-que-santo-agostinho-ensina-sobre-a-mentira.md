@@ -6,7 +6,7 @@ category: "Catolicismo"
 author: "Redação Ecclesiae"
 excerpt: "Santo Agostinho enfrenta o dilema da mentira: é sempre errado mentir? E se for para salvar uma vida? Conheça o tratado que continua atual."
 slug: "o-que-santo-agostinho-ensina-sobre-a-mentira"
-status: "published"
+status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/f/fa/El_triunfo_de_San_Agust%C3%ADn_%28Claudio_Coello%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
 metaTitle: "O que Santo Agostinho ensina sobre a mentira"
 metaDescription: "Santo Agostinho enfrenta o dilema da mentira: é sempre errado mentir? E se for para salvar uma vida? Conheça o tratado que continua atual."
@@ -16,6 +16,7 @@ tags: ["Leitura", "Pecado", "Santo Agostinho"]
 Você mentiria para salvar a vida de um inocente? E se um assassino batesse à sua porta perguntando onde está escondida sua vítima, você diria a verdade? Essas perguntas não são meros exercícios acadêmicos, pois são dúvidas de reflexão moral que continuam inquietando a consciência de quem leva a sério a vida ética. A resposta fácil seria dizer que mentir é sempre errado, ponto final. A resposta cínica seria dizer que todo mundo mente e que não há por que se preocupar com isso. Santo Agostinho recusa ambas as saídas e nos conduz por um caminho mais difícil, porém mais honesto.
 
 No tratado "Sobre a Mentira", escrito no final do século IV, o Bispo de Hipona enfrenta o tema com seriedade. E a Editora Ecclesiae publica a segunda edição deste livro na tradução de Tiago Tondinelli, com apresentação e notas que situam o texto em seu contexto histórico e teológico.
+
 <a href="https://ecclesiae.com.br/sobre-a-mentira-2-edicao?search=sobre%20a%20mentira" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:8px 20px;font-size:12px;">Conheça e garanta e obra</a>
 
 Vivemos cercados de meias-verdades, *fake news*, assessorias de imprensa treinadas para "gerenciar narrativas" e uma cultura que relativiza a mentira conforme a conveniência. Santo Agostinho nos lembra que a questão não é nova, que os homens sempre mentiram e sempre se perguntaram se deveriam fazê-lo...
