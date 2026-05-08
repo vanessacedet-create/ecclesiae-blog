@@ -4,8 +4,11 @@ date: "2026-05-06"
 categories: ["Vida dos santos"]
 category: "Vida dos santos"
 author: "Redação Ecclesiae"
+excerpt: "Santa Francisca Romana: a nobre que santificou a vida de esposa e mãe"
 slug: "vida-de-santa-francisca-romana"
 status: "draft"
+metaTitle: "Vida de Santa Francisca Romana"
+metaDescription: "Santa Francisca Romana: a nobre que santificou a vida de esposa e mãe"
 ---
 
 Francisca nasceu em 1384 no bairro do Parione, em Roma, filha mais velha do casal Paulo Bussa de Leoni e Jacobela de Roffredeschi, membros da nobreza romana. Seus pais escolheram o nome em homenagem a São Francisco de Assis, sem imaginar o quanto esse gesto teria de profético, pois aquela menina dedicaria toda a vida ao serviço dos pobres e necessitados de sua cidade. A Roma em que Francisca cresceu era uma pequena aldeia de não mais de vinte e cinco mil habitantes, dizimada pela peste negra de 1348, cercada por ruínas milenares e agitada por disputas sangrentas entre as principais famílias. Era o final do século XIV, período que o historiador Huizinga chamou de "outono da Idade Média", quando o cristianismo católico enfrentava o Grande Cisma do Ocidente e a Igreja parecia abalada em seus próprios alicerces.
