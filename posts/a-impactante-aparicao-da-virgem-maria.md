@@ -8,7 +8,7 @@ excerpt: "Reconhecida pela Igreja, a primeira mariofania brasileira anunciou o m
 slug: "a-impactante-aparicao-da-virgem-maria"
 status: "draft"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg/960px-Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg"
-metaTitle: "A Virgem Maria contra o Comunismo"
+metaTitle: "A Mais impactante aparição da Virgem Maria no Brasil"
 metaDescription: "Reconhecida pela Igreja, a primeira mariofania brasileira anunciou o mal do Comunismo."
 tags: ["Aparição Mariana", "Virgem Maria", "Análise"]
 ---
