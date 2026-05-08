@@ -1,6 +1,9 @@
 ---
 title: "Vida de Santa Francisca Romana"
 date: "2026-05-06"
+categories: ["Vida dos santos"]
+category: "Vida dos santos"
+author: "Redação Ecclesiae"
 slug: "vida-de-santa-francisca-romana"
 status: "draft"
 ---
