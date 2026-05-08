@@ -9,7 +9,7 @@ Você mentiria para salvar a vida de um inocente? E se um assassino batesse à s
 
 No tratado "Sobre a Mentira", escrito no final do século IV, o Bispo de Hipona enfrenta o tema com seriedade.
 
-Vivemos cercados de meias-verdades, fake news, spin doctors, assessorias de imprensa treinadas para "gerenciar narrativas" e uma cultura que relativiza a mentira conforme a conveniência. Agostinho nos lembra que a questão não é nova, que os homens sempre mentiram e sempre se perguntaram se deveriam fazê-lo, e que a resposta exige mais do que slogans moralistas ou cinismo pragmático.
+Vivemos cercados de meias-verdades, *fake news*, assessorias de imprensa treinadas para "gerenciar narrativas" e uma cultura que relativiza a mentira conforme a conveniência. Agostinho nos lembra que a questão não é nova, que os homens sempre mentiram e sempre se perguntaram se deveriam fazê-lo, e que a resposta exige mais do que slogans moralistas ou cinismo pragmático.
 
 O que é, afinal, uma mentira
 A primeira dificuldade está na própria definição. Nem toda informação falsa é mentira, pois quem transmite algo que sinceramente acredita ser verdade, ainda que esteja objetivamente errado, não mente. Pode ser acusado de ignorância, de negligência, de erro de julgamento, mas não de mentira. A mentira exige dois elementos simultâneos, a saber, a falsidade objetiva da informação e a intenção de enganar. Uma pessoa que sabe ou supõe ser falso o que diz, e mesmo assim o diz com o propósito de induzir outra ao erro, essa pessoa mente. O coração do mentiroso, como observa Agostinho, é dúplice, pois possui dois pensamentos, um sobre o que sabe ser verdade e outro sobre o que escolhe dizer.
