@@ -40,4 +40,5 @@ O santo reconhece que os homens são seres imperfeitos, que vivem em circunstân
 
 O tratado "Sobre a Mentira" te leva a um exame de consciência, à reflexão sobre o que significa ser verdadeiro num mundo que premia a dissimulação. Agostinho escreve para cristãos que desejam viver segundo a verdade, mas que se encontram diante de situações em que a verdade parece cruel e a mentira misericordiosa.
 
-Para quem está cansado das simplificações moralistas e do relativismo cínico, para quem deseja enfrentar as questões éticas com a seriedade que merecem, Sobre a Mentira é leitura indispensável. Santo Agostinho, como sempre, não facilita a vida do leitor, mas recompensa quem aceita o desafio de pensar junto com ele.
+Para quem está cansado do relativismo cínico e deseja enfrentar as questões éticas, "Sobre a Mentira é leitura indispensável". Santo Agostinho, como sempre, não facilita a vida do leitor, mas recompensa quem aceita o desafio de pensar junto com ele.
+
