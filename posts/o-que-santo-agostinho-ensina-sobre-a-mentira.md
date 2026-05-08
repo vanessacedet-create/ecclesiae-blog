@@ -9,6 +9,7 @@ slug: "o-que-santo-agostinho-ensina-sobre-a-mentira"
 status: "draft"
 metaTitle: "O que Santo Agostinho ensina sobre a mentira"
 metaDescription: "Santo Agostinho enfrenta o dilema da mentira: é sempre errado mentir? E se for para salvar uma vida? Conheça o tratado que continua atual."
+tags: ["Leitura", "Pecado", "Santo Agostinho"]
 ---
 
 Você mentiria para salvar a vida de um inocente? E se um assassino batesse à sua porta perguntando onde está escondida sua vítima, você diria a verdade? Essas perguntas não são meros exercícios acadêmicos, pois são dúvidas de reflexão moral que continuam inquietando a consciência de quem leva a sério a vida ética. A resposta fácil seria dizer que mentir é sempre errado, ponto final. A resposta cínica seria dizer que todo mundo mente e que não há por que se preocupar com isso. Santo Agostinho recusa ambas as saídas e nos conduz por um caminho mais difícil, porém mais honesto.
