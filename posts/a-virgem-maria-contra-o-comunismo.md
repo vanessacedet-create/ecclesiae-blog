@@ -1,5 +1,5 @@
 ---
-title: "A Virgem Maria contra o Comunismo"
+title: "A Mais impactante aparição da Virgem Maria no Brasil"
 date: "2026-05-04"
 categories: ["Catolicismo"]
 category: "Catolicismo"
