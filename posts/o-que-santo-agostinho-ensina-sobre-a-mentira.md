@@ -42,3 +42,4 @@ O tratado "Sobre a Mentira" te leva a um exame de consciência, à reflexão sob
 
 Para quem está cansado do relativismo cínico e deseja enfrentar as questões éticas, "Sobre a Mentira é leitura indispensável". Santo Agostinho, como sempre, não facilita a vida do leitor, mas recompensa quem aceita o desafio de pensar junto com ele.
 
+<a href="https://ecclesiae.com.br/sobre-a-mentira-2-edicao?search=sobre%20a%20mentira" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:12px 28px;font-size:14px;">Saiba mais</a>
