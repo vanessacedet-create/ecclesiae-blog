@@ -9,6 +9,8 @@ slug: "a-vida-de-sao-tomas-de-aquino"
 status: "draft"
 coverImage: "https://r2.padrepauloricardo.org/od3rsrjujs2acihm7lyicqrbsbpk"
 coverPosition: "top center"
+metaTitle: "A Vida de São Tomás de Aquino"
+metaDescription: "A história do mais sábio dos santos e o mais santo dos sábios."
 tags: ["Santo", "Intelectual", "São Tomás", "Canonização"]
 ---
 
