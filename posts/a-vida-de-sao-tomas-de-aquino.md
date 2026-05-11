@@ -37,9 +37,8 @@ A santidade de Tomás não consistiu apenas no desenvolvimento intelectual, mas 
 
 Seu confrade Frei Reginaldo testemunhou que ele adquiriu seu conhecimento não pelo engenho humano, mas pelo mérito da oração, pois todas as vezes que quis estudar, disputar, ler ou escrever, ia primeiro ao recolhimento da oração, e o que lhe era duvidoso ficava evidente por milagre divino.
 
-Certa vez, escrevendo sobre a terceira parte da Suma Teológica, na capela de São Nicolau em Nápoles, foi visto levitando dois côvados acima do chão, e ouviu-se uma voz procedendo da imagem do Crucificado que lhe disse que havia escrito bem sobre Ele. Quando Cristo lhe perguntou que recompensa desejava pelo seu trabalho, Tomás respondeu simplesmente, 
+Certa vez, escrevendo sobre a terceira parte da Suma Teológica, na capela de São Nicolau em Nápoles, foi visto levitando dois côvados acima do chão, e ouviu-se uma voz procedendo da imagem do Crucificado que lhe disse que havia escrito bem sobre Ele. Quando Cristo lhe perguntou que recompensa desejava pelo seu trabalho, Tomás respondeu simplesmente:
 > "Senhor, nada senão a Ti".
-
 
 Convocado pelo Papa Gregório X para o Concílio de Lião em 1274, Tomás adoeceu gravemente no caminho e foi levado à abadia cisterciense de Fossanova, pois nenhum convento de sua ordem estava próximo. Ali, com muita devoção e pureza de mente e de corpo, recebeu os últimos sacramentos, confessou o Símbolo da fé e colocou todos os seus escritos nas mãos da Igreja Romana, submetendo-os à reta fé Católica e Apostólica. Morreu em 7 de março de 1274, aos quarenta e nove anos de idade, tendo sido professor por vinte anos e deixando uma obra monumental que inclui a Suma Teológica, a Suma contra os Gentios, comentários a Aristóteles e à Sagrada Escritura, questões disputadas e dezenas de opúsculos. Na mesma noite de sua morte, apareceu em sonho a seu irmão, o conde de Aquino, entregando-lhe uma carta com letras de ouro que dizia simplesmente, "Hoje me tornei doutor em Jerusalém".
 
