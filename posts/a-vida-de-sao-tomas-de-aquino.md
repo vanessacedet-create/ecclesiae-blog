@@ -4,6 +4,7 @@ date: "2026-05-11"
 categories: ["Vida dos santos"]
 category: "Vida dos santos"
 author: "Redação Ecclesiae"
+excerpt: "A vida do mais sábio dos santos e o mais santo dos sábios."
 slug: "a-vida-de-sao-tomas-de-aquino"
 status: "draft"
 coverImage: "https://r2.padrepauloricardo.org/od3rsrjujs2acihm7lyicqrbsbpk"
