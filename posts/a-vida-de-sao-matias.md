@@ -20,7 +20,9 @@ O nome que já dizia tudo! Matias, em hebraico, significa dom de Deus. E é exat
 
 Embora não tenha sido chamado por Cristo durante a vida pública, Matias recebeu o Espírito Santo no mesmo dia, na mesma sala e com a mesma intensidade que os outros onze. A Igreja entende, desde os primeiros séculos, que ele foi verdadeiramente apóstolo, sem qualquer redução de dignidade.
 
-Os feitos e a missão
+
+## Os feitos e a missão
+
 Os relatos sobre o ministério de Matias são fragmentados, como acontece com vários dos apóstolos que se afastaram do círculo mais conhecido em torno de Pedro e Paulo. Ainda assim, a tradição da Igreja preservou um itinerário razoavelmente consistente.
 
 Matias evangelizou primeiro na Judeia, terra que conhecia bem por ter caminhado por ali com Jesus. Em seguida, dirigiu-se à Capadócia, região da atual Turquia, onde anunciou a Boa Nova entre povos de língua e cultura distintas das suas. A última etapa de sua missão, segundo Clemente de Alexandria e outras fontes antigas, foi a Etiópia, descrita em alguns textos com o nome simbólico de "terra dos canibais", uma referência à hostilidade extrema que ele teria encontrado por lá.
