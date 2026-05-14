@@ -34,8 +34,10 @@ Em todas essas regiões, conduziu multidões ao batismo e enfrentou perseguiçõ
 
 *A morte de Matias está envolta em duas tradições principais, que convivem sem se anularem.*
 
-A primeira, mais difundida no Oriente, afirma que ele foi apedrejado por hostis em terra etíope e, depois de morto, decapitado, à maneira do martírio que se aplicava aos profetas rebeldes. É essa a tradição que justifica sua representação artística clássica, segurando um machado ou uma alabarda, instrumento de sua execução.
-A segunda, registrada por Hipólito de Roma e mais antiga, sustenta que Matias morreu em idade avançada, em Jerusalém, depois de uma vida inteira dedicada à pregação. As fontes históricas não permitem decidir com certeza entre as duas versões, e a Igreja convive serenamente com essa indeterminação, reconhecendo que o que importa, no fim, é a fidelidade testemunhada ao longo da vida inteira.
+
+- A primeira, mais difundida no Oriente, afirma que ele foi apedrejado por hostis em terra etíope e, depois de morto, decapitado, à maneira do martírio que se aplicava aos profetas rebeldes. É essa a tradição que justifica sua representação artística clássica, segurando um machado ou uma alabarda, instrumento de sua execução.
+
+- A segunda, registrada por Hipólito de Roma e mais antiga, sustenta que Matias morreu em idade avançada, em Jerusalém, depois de uma vida inteira dedicada à pregação. As fontes históricas não permitem decidir com certeza entre as duas versões, e a Igreja convive serenamente com essa indeterminação, reconhecendo que o que importa, no fim, é a fidelidade testemunhada ao longo da vida inteira.
 
 O que se sabe com segurança é que santa Helena, mãe do imperador Constantino, mandou trasladar suas relíquias para Roma, no século IV. Parte delas permanece até hoje na Basílica de Santa Maria Maior, e a outra parte foi levada para a cidade de Tréveris, na Alemanha, onde se encontra na antiquíssima Igreja de São Matias. Tréveris o tem como padroeiro, e foi evangelizada, segundo a tradição local, por discípulos diretos do apóstolo.
 
