@@ -29,7 +29,9 @@ Matias evangelizou primeiro na Judeia, terra que conhecia bem por ter caminhado 
 
 Em todas essas regiões, conduziu multidões ao batismo e enfrentou perseguições. Os escritos mais antigos que mencionam pequenos fragmentos atribuídos a ele insistem em duas virtudes que marcavam sua pregação, a firmeza doutrinária e a coragem de quem sabia que sua vocação não veio por escolha humana, mas por designação divina.
 
-O martírio
+
+## O martírio
+
 A morte de Matias está envolta em duas tradições principais, que convivem sem se anularem.
 
 A primeira, mais difundida no Oriente, afirma que ele foi apedrejado por hostis em terra etíope e, depois de morto, decapitado, à maneira do martírio que se aplicava aos profetas rebeldes. É essa a tradição que justifica sua representação artística clássica, segurando um machado ou uma alabarda, instrumento de sua execução.
