@@ -30,6 +30,8 @@ Embora não tenha sido chamado por Cristo durante a vida pública, Matias recebe
 
 ## Os feitos e a missão
 
+![SÃO MATIAS](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/s-o-matias-1778779454683.png)
+
 Os relatos sobre o ministério de Matias são fragmentados, como acontece com vários dos apóstolos que se afastaram do círculo mais conhecido em torno de Pedro e Paulo. Ainda assim, a tradição da Igreja preservou um itinerário razoavelmente consistente.
 
 Matias evangelizou primeiro na Judeia, terra que conhecia bem por ter caminhado por ali com Jesus. Em seguida, dirigiu-se à Capadócia, região da atual Turquia, onde anunciou a Boa Nova entre povos de língua e cultura distintas das suas. A última etapa de sua missão, segundo Clemente de Alexandria e outras fontes antigas, foi a Etiópia, descrita em alguns textos com o nome simbólico de "terra dos canibais", uma referência à hostilidade extrema que ele teria encontrado por lá.
