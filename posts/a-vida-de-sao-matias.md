@@ -49,5 +49,5 @@ A vida de São Matias carrega uma lição que atravessa os séculos com força p
 Os outros apóstolos foram chamados pessoalmente por Cristo nas margens do lago, nas portas de Cafarnaum, nos caminhos da Galileia. Matias foi escolhido pelo discernimento orante da comunidade e pelo gesto que entregava a decisão final às mãos do próprio Deus. Em uma época em que a vocação é frequentemente confundida com preferência pessoal, sua história lembra que existem chamados que vêm de fora de nós, e que dependem de um sim livre, mas humilde.
 
 Ele foi o décimo segundo. Não estava entre os primeiros chamados, e talvez por isso mesmo seja um dos mais eloquentes testemunhos de que a graça não tem hora marcada nem ordem fixa.
-
-São Matias, apóstolo e mártir, rogai por nós!
+**
+São Matias, apóstolo e mártir, rogai por nós!**
