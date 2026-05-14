@@ -1,8 +1,9 @@
 ---
 title: "A vida de São Matias"
-date: "2026-05-14"
+date: "2026-05-15"
 categories: ["Vida dos santos"]
 category: "Vida dos santos"
+author: "Redação Ecclesiae"
 slug: "a-vida-de-sao-matias"
 status: "draft"
 ---
