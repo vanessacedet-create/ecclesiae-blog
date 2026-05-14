@@ -4,8 +4,11 @@ date: "2026-05-15"
 categories: ["Vida dos santos"]
 category: "Vida dos santos"
 author: "Redação Ecclesiae"
+excerpt: "Um apóstolo cuja entrada no colégio dos Doze não aconteceu nas margens do mar da Galileia, nem em uma vila qualquer da Judeia. São Matias, e a história de sua eleição é uma das mais singulares dos primórdios da Igreja."
 slug: "a-vida-de-sao-matias"
 status: "draft"
+metaTitle: "A vida de São Matias"
+metaDescription: "Um apóstolo cuja entrada no colégio dos Doze não aconteceu nas margens do mar da Galileia, nem em uma vila qualquer da Judeia. São Matias, e a sua história."
 ---
 
 Quando Cristo ascendeu ao céu, o grupo dos Doze trazia uma ferida aberta, pois Judas Iscariotes havia traído o Mestre e tirado a própria vida, e os Onze restantes compreenderam, ainda em Jerusalém, que era necessário restaurar o número simbólico dos Doze, que correspondia às doze tribos de Israel e à plenitude do povo de Deus.
