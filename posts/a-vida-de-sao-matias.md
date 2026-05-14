@@ -32,7 +32,7 @@ Em todas essas regiões, conduziu multidões ao batismo e enfrentou perseguiçõ
 
 ## O martírio
 
-A morte de Matias está envolta em duas tradições principais, que convivem sem se anularem.
+*A morte de Matias está envolta em duas tradições principais, que convivem sem se anularem.*
 
 A primeira, mais difundida no Oriente, afirma que ele foi apedrejado por hostis em terra etíope e, depois de morto, decapitado, à maneira do martírio que se aplicava aos profetas rebeldes. É essa a tradição que justifica sua representação artística clássica, segurando um machado ou uma alabarda, instrumento de sua execução.
 A segunda, registrada por Hipólito de Roma e mais antiga, sustenta que Matias morreu em idade avançada, em Jerusalém, depois de uma vida inteira dedicada à pregação. As fontes históricas não permitem decidir com certeza entre as duas versões, e a Igreja convive serenamente com essa indeterminação, reconhecendo que o que importa, no fim, é a fidelidade testemunhada ao longo da vida inteira.
