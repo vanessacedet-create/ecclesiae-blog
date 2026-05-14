@@ -39,7 +39,9 @@ A segunda, registrada por Hipólito de Roma e mais antiga, sustenta que Matias m
 
 O que se sabe com segurança é que santa Helena, mãe do imperador Constantino, mandou trasladar suas relíquias para Roma, no século IV. Parte delas permanece até hoje na Basílica de Santa Maria Maior, e a outra parte foi levada para a cidade de Tréveris, na Alemanha, onde se encontra na antiquíssima Igreja de São Matias. Tréveris o tem como padroeiro, e foi evangelizada, segundo a tradição local, por discípulos diretos do apóstolo.
 
-A lição que permanece
+
+## A lição que permanece
+
 A vida de São Matias carrega uma lição que atravessa os séculos com força particular. A vocação cristã não é uma conquista pessoal, nem uma carreira escolhida pelo próprio interessado. É um dom recebido, e o nome dele é o resumo perfeito dessa verdade. Matias, o dom de Deus.
 
 Os outros apóstolos foram chamados pessoalmente por Cristo nas margens do lago, nas portas de Cafarnaum, nos caminhos da Galileia. Matias foi escolhido pelo discernimento orante da comunidade e pelo gesto que entregava a decisão final às mãos do próprio Deus. Em uma época em que a vocação é frequentemente confundida com preferência pessoal, sua história lembra que existem chamados que vêm de fora de nós, e que dependem de um sim livre, mas humilde.
