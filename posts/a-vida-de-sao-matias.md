@@ -21,6 +21,7 @@ Dois homens preenchiam o requisito, José Barsabás, chamado Justo, e Matias. Os
 
 
 ## A sorte caiu sobre Matias
+![the calling of st matthew 1](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/the-calling-of-st-matthew-1-1778779325080.jpg)
 
 O nome que já dizia tudo! Matias, em hebraico, significa dom de Deus. E é exatamente assim que ele entra na história da Igreja, como um dom concedido pelo Espírito Santo para completar o colégio apostólico antes de Pentecostes. Poucos dias depois de sua eleição, quando o Espírito desceu sobre os apóstolos no Cenáculo em línguas de fogo, Matias estava lá. Em pé de igualdade com Pedro, com João, com Tiago, com Tomé e com os demais, recebeu a mesma efusão e a mesma missão.
 
