@@ -7,6 +7,8 @@ author: "Redação Ecclesiae"
 excerpt: "Um apóstolo cuja entrada no colégio dos Doze não aconteceu nas margens do mar da Galileia, nem em uma vila qualquer da Judeia. São Matias, e a história de sua eleição é uma das mais singulares dos primórdios da Igreja."
 slug: "a-vida-de-sao-matias"
 status: "draft"
+coverImage: "https://soundmindinvesting.com/img/asset/Y2xvdWQvMDYxNi12aWVubmEtc3QtbWF0dGhldy10aGUtZXZhbmdlbGlzdC1pbi1jYXJtZWxpdGVzLWNodXJjaC1waWN0dXJlLWlkNDgzMDQ2MjYxLmpwZw==?fit=crop&w=1660&h=896&s=23972622461190cad28fe3e14206b294"
+coverPosition: "top center"
 metaTitle: "A vida de São Matias"
 metaDescription: "Um apóstolo cuja entrada no colégio dos Doze não aconteceu nas margens do mar da Galileia, nem em uma vila qualquer da Judeia. São Matias, e a sua história."
 ---
