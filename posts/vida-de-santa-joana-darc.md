@@ -1,6 +1,9 @@
 ---
 title: "Vida de Santa Joana d'Arc"
 date: "2026-05-18"
+categories: ["Vida dos santos"]
+category: "Vida dos santos"
+author: "Redação Ecclesiae"
 slug: "vida-de-santa-joana-darc"
 status: "draft"
 ---
