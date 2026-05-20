@@ -27,6 +27,7 @@ A Igreja nascente experimenta continuamente sua assistência, e os escritos apos
 A Igreja sempre ensinou que os anjos são substâncias espirituais subsistentes, dotadas de inteligência e vontade, mas inteiramente desprovidas de matéria. Não ocupam lugar no espaço como os corpos, nem estão sujeitos às vicissitudes da geração e da corrupção. Sua forma de conhecer não depende dos sentidos, mas é intuitiva e proporcionada à sua natureza, de tal modo que neles a inteligibilidade não é obscurecida pela potencialidade corpórea. Os anjos são criaturas nas quais a forma subsiste sem matéria, e isso faz deles espelhos particularmente límpidos da perfeição divina, manifestando de modo mais puro a atualidade do ser e a imensidão das virtudes.
 
 Todavia, essa excelência ontológica não os coloca fora da ordem da dependência, pois quanto mais elevada é a criatura, tanto mais radical é sua relação de dependência para com o Criador, e a superioridade dos anjos não os afasta de Deus, mas os fixa mais firmemente n'Ele como princípio e fim de todas as coisas.
+![anjos graciosos](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/anjos-graciosos-1779285912185.jpg)
 
 Criados por Deus no estado de graça, os anjos foram submetidos a uma prova inicial, da qual resultou a distinção irreversível entre anjos bons e anjos maus. Os primeiros perseveraram na obediência e foram confirmados na visão beatífica, enquanto os segundos, por soberba, rebelaram-se contra a ordem divina e foram irrevogavelmente condenados.
 
