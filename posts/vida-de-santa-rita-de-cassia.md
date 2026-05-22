@@ -4,8 +4,11 @@ date: "2026-05-22"
 categories: ["Vida dos santos"]
 category: "Vida dos santos"
 author: "Redação Ecclesiae"
+excerpt: "Conheça a história da santa das causas impossíveis."
 slug: "vida-de-santa-rita-de-cassia"
 status: "draft"
+metaTitle: "Vida de Santa Rita de Cássia"
+metaDescription: "Conheça a história da santa das causas impossíveis."
 ---
 
 Margherita Lotti nasceu em 1381 no povoado de Roccaporena, situado a cinco quilômetros de Cássia, na região da Úmbria, Itália central. Seus pais, Antonio Lotti e Amata Ferri, eram camponeses piedosos que haviam esperado por muitos anos a graça de um filho, atribuindo seu nascimento tardio a um favor divino.
