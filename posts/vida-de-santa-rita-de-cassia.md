@@ -1,6 +1,9 @@
 ---
 title: "Vida de Santa Rita de Cássia"
 date: "2026-05-22"
+categories: ["Vida dos santos"]
+category: "Vida dos santos"
+author: "Redação Ecclesiae"
 slug: "vida-de-santa-rita-de-cassia"
 status: "draft"
 ---
