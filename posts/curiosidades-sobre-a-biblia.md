@@ -7,6 +7,7 @@ author: "Redação Ecclesiae"
 excerpt: "Fatos interessantes sobre o livro mais lido da história."
 slug: "curiosidades-sobre-a-biblia"
 status: "draft"
+coverImage: "https://upload.wikimedia.org/wikipedia/commons/6/64/Creaci%C3%B3n_de_Ad%C3%A1n_%28Miguel_%C3%81ngel%29.jpg"
 metaTitle: "Curiosidades sobre a Bíblia"
 ---
 
