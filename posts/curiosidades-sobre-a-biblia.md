@@ -3,6 +3,8 @@ title: "Curiosidades sobre a Bíblia Sagrada"
 date: "2026-05-25"
 categories: ["Bíblia"]
 category: "Bíblia"
+author: "Redação Ecclesiae"
+excerpt: "Fatos interessantes sobre o livro mais lido da história."
 slug: "curiosidades-sobre-a-biblia"
 status: "draft"
 metaTitle: "Curiosidades sobre a Bíblia"
