@@ -7,6 +7,7 @@ author: "Redação Ecclesiae"
 excerpt: "Aprenda mais com o autoconhecimento e empatia a serviço do amor conjugal."
 slug: "temperamentos-no-matrimonio"
 status: "draft"
+coverImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Edmund_Blair_Leighton_-_The_End_of_the_Song_%281902%29.jpg/1280px-Edmund_Blair_Leighton_-_The_End_of_the_Song_%281902%29.jpg"
 ---
 
 Já sentiu a sensação de que o cônjuge reage ao mundo de um modo que parece, às vezes, completamente diferente do seu?
