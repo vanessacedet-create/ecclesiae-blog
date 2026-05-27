@@ -13,7 +13,8 @@ A tradição clássica descreve quatro temperamentos — o colérico, o sanguín
 
 Como escreveu o casal católico Art e Laraine Bennett, quando cônjuges descobrem como são profundas as raízes de suas reações na natureza de cada um, se aumenta consideravelmente a aceitação entre eles, tornando-os capazes de pequenas concessões que honram o temperamento do outro.
 
-1. O que o temperamento tem a ver com o casamento
+
+### 1. O que o temperamento tem a ver com o casamento
 
 O temperamento não é um rótulo que define o que alguém é, nem uma sentença sobre o que alguém pode se tornar. O temperamento explica uma predisposição a reagir de determinadas maneiras ao mundo, seja com rapidez ou com lentidão, com intensidade ou com calma, direcionando-se para o exterior ou recolhendo-se ao interior. Essa tendência afeta as emoções, a sociabilidade, a atenção e os humores predominantes de uma pessoa, e por isso inevitavelmente entra na trama da vida conjugal.
 
