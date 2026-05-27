@@ -18,6 +18,7 @@ A tradição clássica descreve quatro temperamentos — o colérico, o sanguín
 
 Como escreveu o casal católico Art e Laraine Bennett, quando cônjuges descobrem como são profundas as raízes de suas reações na natureza de cada um, se aumenta consideravelmente a aceitação entre eles, tornando-os capazes de pequenas concessões que honram o temperamento do outro.
 
+<a href="https://ecclesiae.com.br/os-temperamentos-no-matrimonio" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:8px 20px;font-size:12px;">Saiba mais</a>
 
 ### 1. O que o temperamento tem a ver com o casamento
 
