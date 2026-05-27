@@ -23,7 +23,9 @@ O problema conjugal tende a crescer quando um ou ambos os esposos presumem que c
 
 Conhecer os temperamentos — o próprio e o do cônjuge — interrompe esse ciclo porque oferece uma explicação que não é uma justificativa para o erro, nem uma absolvição de responsabilidade, mas uma chave de leitura para a boa vontade que pode estar presente mesmo onde os comportamentos parecem difíceis. O autoconhecimento, nesse sentido, é o primeiro gesto de caridade dentro do casamento.
 
-2. Comunicação conjugal à luz do temperamento
+
+### 2. Comunicação conjugal à luz do temperamento
+
 A comunicação é frequentemente citada como o núcleo da vida conjugal, e com razão, porque o modo como conversamos com o cônjuge, especialmente diante de questões espinhosas ou conflitos pessoais, pode tanto abrir quanto fechar portas. O que nem sempre se percebe é que cada temperamento tem um estilo comunicativo próprio, com forças e fragilidades características, e que parte considerável dos desentendimentos conjugais nasce de uma diferença na forma de expressar e de ouvir.
 
 Quem tende à objetividade e à decisão rápida pode interpretar a necessidade de tempo do cônjuge para processar um assunto como fuga ou falta de comprometimento. Quem precisa de mais tempo para formular suas percepções pode sentir que está sendo atropelado antes mesmo de encontrar as palavras. Quem se energiza no contato social pode sentir falta de conversas mais profundas com o cônjuge que prefere o silêncio produtivo. Quem tem disposição mais reservada pode sentir-se sobrecarregado por demandas de interação que chegam antes que tenha tido tempo de descansar.
