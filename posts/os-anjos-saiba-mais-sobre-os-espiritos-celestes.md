@@ -10,6 +10,7 @@ status: "draft"
 coverImage: "https://fineart-restoration.co.uk/wp-content/uploads/2023/06/fineart-restoration-angel-article.jpg"
 metaTitle: "Os anjos: saiba mais sobre os espíritos celestes"
 metaDescription: "Conheça a doutrina católica sobre os anjos: sua existência, natureza espiritual, hierarquias celestes e missão."
+tags: ["Anjos", "Tradição", "igreja"]
 ---
 
 ## A existência dos anjos
