@@ -1,6 +1,7 @@
 ---
 title: "Temperamentos no matrimônio"
 date: "2026-05-27"
+excerpt: "Aprenda mais com o autoconhecimento e empatia a serviço do amor conjugal."
 slug: "temperamentos-no-matrimonio"
 status: "draft"
 ---
