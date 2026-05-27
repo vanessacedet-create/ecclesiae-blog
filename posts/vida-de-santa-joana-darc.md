@@ -6,11 +6,12 @@ category: "Vida dos santos"
 author: "Redação Ecclesiae"
 excerpt: "A jovem camponesa que ouviu as vozes do Céu e obedeceu até o fim, mesmo diante da fogueira"
 slug: "vida-de-santa-joana-darc"
-status: "draft"
+status: "published"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/c/ce/John_Everett_Millais_-_Joan_of_Arc.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
 coverPosition: "top center"
 metaTitle: "Vida de Santa Joana d'Arc"
 metaDescription: "A jovem camponesa que ouviu as vozes do Céu e obedeceu até o fim, mesmo diante da fogueira"
+tags: ["Santa", "Bíblia", "História"]
 ---
 
 Joana d'Arc nasceu por volta de 1412 em Domrémy, pequena aldeia do nordeste da França, filha de Jacques d'Arc e Isabelle Romée, camponeses piedosos e de vida honesta. Não aprendeu a ler nem a escrever, mas foi educada desde pequena no amor ao catolicismo e nos seus ensinamentos pela mãe, mulher de reconhecida piedade. Era uma menina direita, recatada e obediente, que ajudava nos trabalhos do campo e frequentava devotamente a igreja de sua paróquia. Nasceu em meio à Guerra dos Cem Anos, quando grandes porções do território francês estavam sob domínio inglês e o legítimo herdeiro do trono, Carlos VII, ainda não havia sido coroado rei. Por volta dos doze ou treze anos de idade, enquanto rezava, começou a ouvir vozes misteriosas que identificou como sendo de São Miguel Arcanjo, Santa Catarina de Alexandria e Santa Margarida de Antioquia. Estas vozes a instruíam a libertar a França do domínio estrangeiro e a conduzir Carlos VII até Reims para ser coroado. Joana chorou ao receber o chamado, pois queria que os santos a levassem consigo para o Céu, mas obedeceu à vontade de Deus.
