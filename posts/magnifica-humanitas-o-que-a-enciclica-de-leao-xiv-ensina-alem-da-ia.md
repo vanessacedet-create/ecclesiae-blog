@@ -6,9 +6,10 @@ slug: "magnifica-humanitas-o-que-a-enciclica-de-leao-xiv-ensina-alem-da-ia"
 status: "draft"
 ---
 
-A primeira encíclica do Papa parte da inteligência artificial para iluminar uma pergunta bem mais antiga sobre o que nos torna humanos.
 O Papa Leão XIV publicou a sua primeira encíclica, a Magnifica Humanitas, dedicada à salvaguarda da pessoa humana na era da inteligência artificial. Desde então, os trechos sobre a IA têm despertado um interesse fora do comum, e com toda a razão, porque o tema toca o futuro do trabalho, da verdade e da própria convivência entre os povos. Esses parágrafos já circulam por toda parte e merecem o debate que estão recebendo.
-O documento, porém, é bem mais largo do que esse recorte. Quem o lê de ponta a ponta percebe que a inteligência artificial funciona como a porta de entrada para uma reflexão que recolhe vinte séculos de pensamento cristão. Reunimos aqui o que mais nos chamou a atenção para além das máquinas.
+
+O documento, porém, é bem mais largo do que esse recorte. Quem o lê de ponta a ponta percebe que a inteligência artificial funciona como a porta de entrada para uma reflexão que recolhe vinte séculos de pensamento cristão e, por isso, reunimos aqui o que mais nos chamou a atenção para além das máquinas.
+
 Duas imagens antes de qualquer tecnologia
 Antes de falar de algoritmos, Leão XIV propõe duas cenas da Escritura. A primeira é a torre de Babel, erguida por uma humanidade que sonha alcançar o céu pela própria força, com uma só língua e uma só técnica, e que termina dispersa, incapaz de se entender. A segunda é a reconstrução das muralhas de Jerusalém no livro de Neemias, obra que renasce quando cada família assume a sua parte e todo o povo reconhece que a sua força vem de Deus.
 O Papa lê o nosso tempo à luz desse contraste. A pergunta decisiva diante de qualquer progresso recai sobre o amor que orienta quem constrói e quem utiliza a ferramenta. Por isso ele retoma Santo Agostinho e a imagem das duas cidades, edificadas por dois amores, o amor de Deus e o amor voltado apenas para si mesmo. A escolha entre erguer Babel ou reconstruir Jerusalém, observa o Pontífice, começa dentro do coração de cada um de nós.
