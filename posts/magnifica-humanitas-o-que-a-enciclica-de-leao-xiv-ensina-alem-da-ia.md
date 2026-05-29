@@ -33,7 +33,9 @@ E sabemos que Leão XIV se coloca dentro dessa linhagem e a descreve como um pat
 
 Ao adotar o nome "Leão", o Papa sinaliza que pretende fazer pela era digital algo semelhante ao que o seu predecessor fez diante da revolução industrial, oferecendo ao mundo do trabalho e da técnica uma palavra enraizada no Evangelho. A inteligência artificial aparece, assim, como a nova questão social do nosso século.
 
-De Agostinho a Tolkien, as vozes que sustentam o texto
+
+## De Agostinho a Tolkien, as vozes que sustentam o texto
+
 Um dos aspectos mais ricos do documento está na variedade de interlocutores que o Papa convoca. Ao lado da Escritura e do Concílio Vaticano II, surgem Santo Agostinho e São Tomás de Aquino, e também pensadores do século XX como Romano Guardini, Hannah Arendt e Viktor Frankl, este lembrado pela experiência de Auschwitz e pela busca de sentido em meio ao sofrimento.
 
 A presença que mais surpreende muito o leitor é a de J.R.R. Tolkien. Leão XIV o apresenta como um escritor católico do século XX e recorre a uma passagem de O Senhor dos Anéis para descrever a medida da nossa responsabilidade, onde pela voz de um personagem, Tolkien ensina que a nossa tarefa se limita a cuidar do tempo e do campo que nos foram confiados, arrancando o mal que está ao nosso alcance para que as gerações seguintes herdem uma terra limpa. Sabe-se que governar todas as marés do mundo escapa às nossas mãos, e o Papa colhe nessa humildade a chave da civilização do amor, aquela que se constrói com gestos pequenos e fiéis, a começar pelo modo como tratamos as palavras e as pessoas ao nosso redor.
