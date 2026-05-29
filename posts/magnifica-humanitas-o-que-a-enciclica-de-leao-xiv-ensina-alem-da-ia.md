@@ -1,6 +1,7 @@
 ---
 title: "Magnifica Humanitas: o que a encíclica de Leão XIV ensina"
 date: "2026-05-29"
+excerpt: "A primeira encíclica do Papa parte da inteligência artificial para iluminar uma pergunta bem mais antiga sobre o que nos torna humanos."
 slug: "magnifica-humanitas-o-que-a-enciclica-de-leao-xiv-ensina-alem-da-ia"
 status: "draft"
 ---
