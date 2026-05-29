@@ -17,7 +17,8 @@ O Papa Leão XIV [publicou a sua primeira encíclica,](https://www.vatican.va/co
 
 O documento, porém, é bem mais largo do que esse recorte. Quem o lê de ponta a ponta percebe que a inteligência artificial funciona como a porta de entrada para uma reflexão que recolhe vinte séculos de pensamento cristão e, por isso, reunimos aqui o que mais nos chamou a atenção para além das máquinas.
 
-Duas imagens antes de qualquer tecnologia
+
+## Duas imagens antes de qualquer tecnologia
 
 Antes de falar de algoritmos, Leão XIV propõe duas cenas da Escritura. A primeira é a torre de Babel, erguida por uma humanidade que sonha alcançar o céu pela própria força, com uma só língua e uma só técnica, e que termina dispersa, incapaz de se entender. A segunda é a reconstrução das muralhas de Jerusalém no livro de Neemias, obra que renasce quando cada família assume a sua parte e todo o povo reconhece que a sua força vem de Deus.
 
