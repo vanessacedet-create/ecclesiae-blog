@@ -24,7 +24,9 @@ Antes de falar de algoritmos, Leão XIV propõe duas cenas da Escritura. A prime
 
 O Papa lê o nosso tempo à luz desse contraste e reflete como a respnsabilidade diante de qualquer progresso recai sobre o amor que orienta quem constrói e quem utiliza a ferramenta e por isso ele retoma Santo Agostinho e a imagem das duas cidades, edificadas por dois amores, o amor de Deus e o amor voltado apenas para si mesmo. A escolha entre erguer Babel ou reconstruir Jerusalém, observa o Pontífice, começa dentro do coração de cada um de nós.
 
-Uma tradição viva que completa 135 anos
+
+## Uma tradição viva que completa 135 anos
+
 A encíclica nasce de uma data especial, pois em 2026 celebram-se os 135 anos da Rerum Novarum, de Leão XIII, o texto que inaugurou aquilo que hoje chamamos Doutrina Social da Igreja.
 
 E sabemos que Leão XIV se coloca dentro dessa linhagem e a descreve como um patrimônio vivo, feito de princípios para pensar, critérios para discernir e orientações para agir. A escolha do próprio nome já anuncia o programa!
