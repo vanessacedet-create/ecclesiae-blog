@@ -26,6 +26,8 @@ O Papa lê o nosso tempo à luz desse contraste e reflete como a respnsabilidade
 
 
 ## Uma tradição viva que completa 135 anos
+![Caravaggio   The Incredulity of Saint Thomas](https://raw.githubusercontent.com/vanessacedet-create/ecclesiae-blog/main/public/images/caravaggio-the-incredulity-of-saint-thomas-1780078751250.jpg)
+
 
 A encíclica nasce de uma data especial, pois em 2026 celebram-se os 135 anos da Rerum Novarum, de Leão XIII, o texto que inaugurou aquilo que hoje chamamos Doutrina Social da Igreja.
 
