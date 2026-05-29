@@ -9,6 +9,7 @@ slug: "magnifica-humanitas-o-que-a-enciclica-de-leao-xiv-ensina-alem-da-ia"
 status: "draft"
 coverImage: "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR6FHnFaSLimebEM88MC5qoVANyfuiT5SitvvY3TkOEKUofYqqVjIPriSbaWqwLzllJEK6u2MFtXnIBBeE"
 coverPosition: "top center"
+metaTitle: "Magnifica Humanitas: o que a encíclica de Leão XIV ensina"
 ---
 
 O Papa Leão XIV publicou a sua primeira encíclica, a Magnifica Humanitas, dedicada à salvaguarda da pessoa humana na era da inteligência artificial. Desde então, os trechos sobre a IA têm despertado um interesse fora do comum, e com toda a razão, porque o tema toca o futuro do trabalho, da verdade e da própria convivência entre os povos. Esses parágrafos já circulam por toda parte e merecem o debate que estão recebendo.
