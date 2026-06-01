@@ -3,6 +3,7 @@ title: "Quatro livros para edificar a família sobre a rocha"
 date: "2026-06-01"
 categories: ["Guias de leitura"]
 category: "Guias de leitura"
+author: "Redação Ecclesiae"
 excerpt: "Da conversão dos pais à voz do Magistério, um percurso de leitura para quem deseja transformar o próprio lar em Igreja doméstica. "
 slug: "quatro-livros-para-edificar-a-familia-sobre-a-rocha"
 status: "draft"
