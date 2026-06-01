@@ -7,6 +7,8 @@ author: "Redação Ecclesiae"
 excerpt: "Da conversão dos pais à voz do Magistério, um percurso de leitura para quem deseja transformar o próprio lar em Igreja doméstica. "
 slug: "quatro-livros-para-edificar-a-familia-sobre-a-rocha"
 status: "draft"
+coverImage: "https://www.meisterdrucke.pt/kunstwerke/1000px/Luigi_Bechi_-_The_Happy_Couple_-_%28MeisterDrucke-820833%29.jpg"
+coverPosition: "top center"
 ---
 
 Nenhum casal recebe, no dia do casamento, o manual que explicaria como conduzir uma vida inteira a dois e, depois, a três, a quatro, a cinco. As virtudes do lar se aprendem aos poucos, na escola paciente da convivência, e há livros que funcionam como bons mestres nesse aprendizado. Reunimos quatro deles, que se completam como degraus de um mesmo caminho, do diagnóstico da nossa época à fonte de onde vem toda a luz sobre o matrimônio.
