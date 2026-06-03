@@ -1,6 +1,9 @@
 ---
 title: "A origem e o sentido da festa do Corpo de Cristo"
 date: "2026-06-03"
+categories: ["Catolicismo"]
+category: "Catolicismo"
+author: "Redação Ecclesiae"
 slug: "a-origem-e-o-sentido-da-festa-do-corpo-de-cristo"
 status: "draft"
 ---
