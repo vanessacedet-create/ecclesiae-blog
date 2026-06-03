@@ -12,7 +12,8 @@ Nascida de uma visão medieval e cantada nos hinos de São Tomás de Aquino, a s
 
 Há uma antiga oração que a tradição católica guarda com particular ternura, na qual a alma se dirige a cada realidade do Senhor crucificado e lhe pede que a santifique, a salve, a lave e a esconda dentro das suas chagas. Quem a reza suplica para nunca se separar de Cristo e para ser chamado por Ele na hora da morte. Essa prece, conhecida pelas suas primeiras palavras latinas, **Anima Christi,** brotou do mesmo fervor eucarístico que atravessou os séculos XIII e XIV, e é, no fundo, a voz de uma alma ajoelhada diante do Corpo do Senhor. A festa de Corpus Christi é a tradução pública e festiva desse mesmo gesto, o momento em que toda a Igreja faz em coro aquilo que a oração faz em segredo.
 
-Uma visão na cidade de Liège
+## Uma visão na cidade de Liège
+
 A história da festa começa com uma mulher. Santa Juliana de Liège, religiosa agostiniana nascida por volta de 1192, recebeu desde jovem uma visão que se repetia. Via a lua cheia em todo o seu esplendor, atravessada por uma faixa escura que lhe estragava a perfeição. Durante anos não compreendeu o sentido daquela imagem, até reconhecer nela um sinal. A lua representava o calendário litúrgico da Igreja, belo e completo, e a faixa escura indicava a ausência de uma festa dedicada de modo próprio ao Santíssimo Sacramento.
 
 Juliana guardou o segredo por longo tempo, temendo a incompreensão, e só aos poucos confiou o desejo a teólogos e bispos de confiança. O bispo de Liège acolheu a causa, e em 1246 a diocese celebrou pela primeira vez uma festa em honra do Corpo de Cristo. Foi um começo modesto, restrito a uma cidade, surgido da perseverança de uma religiosa que soube esperar e da humildade de quem reconheceu naquela insistência uma voz vinda do alto.
