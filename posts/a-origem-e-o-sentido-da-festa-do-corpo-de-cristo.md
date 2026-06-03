@@ -18,14 +18,26 @@ A história da festa começa com uma mulher. Santa Juliana de Liège, religiosa 
 
 Juliana guardou o segredo por longo tempo, temendo a incompreensão, e só aos poucos confiou o desejo a teólogos e bispos de confiança. O bispo de Liège acolheu a causa, e em 1246 a diocese celebrou pela primeira vez uma festa em honra do Corpo de Cristo. Foi um começo modesto, restrito a uma cidade, surgido da perseverança de uma religiosa que soube esperar e da humildade de quem reconheceu naquela insistência uma voz vinda do alto.
 
-Urbano IV e a festa do mundo inteiro
+
+## Urbano IV e a festa do mundo inteiro
+
 O que nascera em Liège ganharia, poucos anos depois, dimensão universal. Um antigo arcediago daquela mesma diocese, que conhecera de perto a causa de Juliana, foi eleito Papa com o nome de Urbano IV. A tradição associa a sua decisão a um episódio ocorrido em 1263, quando um sacerdote que duvidava da presença real, ao celebrar a Missa em Bolsena, teria visto sangue brotar da hóstia sobre o corporal. A relíquia foi levada a Orvieto, onde o Pontífice se encontrava, e a Igreja venera ali aquele tecido até hoje.
+
 Em 1264, pela bula Transiturus de hoc mundo, Urbano IV estendeu a solenidade do Corpo de Cristo a toda a Igreja, o primeiro documento papal a instituir uma festa de alcance universal. Para revesti-la de beleza, confiou a São Tomás de Aquino a composição dos textos litúrgicos. Do gênio do Doutor Angélico nasceram hinos que a cristandade canta há mais de sete séculos, entre eles o Pange Lingua, cujas estrofes finais formam o Tantum Ergo entoado na bênção do Santíssimo, e a sequência Lauda Sion, proclamada na Missa do dia. A morte de Urbano IV, ainda em 1264, retardou a difusão da festa, que se firmaria de modo definitivo sob Clemente V e João XXII, nas primeiras décadas do século seguinte.
-O que se adora no altar
+
+## O que se adora no altar
+
 A solenidade não recorda apenas um acontecimento do passado. Aquilo que ela celebra é a fé da Igreja na presença real de Cristo na Eucaristia, vivo e inteiro sob as espécies do pão e do vinho, com o seu Corpo, o seu Sangue, a sua Alma e a sua Divindade. A Quinta-feira Santa já evoca a instituição da Eucaristia, mas o faz dentro do clima sóbrio da Paixão, à beira do Calvário. Corpus Christi devolve à Igreja a possibilidade de celebrar o mesmo dom em plena alegria, fora da sombra do Tríduo, com a gratidão de quem contempla o tesouro recebido e deseja proclamá-lo diante de todos.
 Por isso a festa encontrou na procissão a sua expressão mais própria. O sacerdote ergue a hóstia consagrada no ostensório e conduz o Senhor pelas ruas, e a comunidade que o segue confessa publicamente aquilo em que crê. A cidade inteira torna-se, por algumas horas, o espaço de uma adoração que costuma permanecer recolhida no silêncio das igrejas.
-A fé que sai às ruas
+
+
+## A fé que sai às ruas
+
 No Brasil, essa dimensão pública ganhou contornos inconfundíveis. Em inúmeras cidades, sobretudo no interior, os fiéis passam a véspera ajoelhados no chão, compondo longos tapetes de serragem colorida, sal, flores e borra de café por onde o Santíssimo será conduzido. Cada metro de rua se transforma numa página de oração feita à mão, e o trabalho de uma noite inteira existe para durar apenas o tempo de uma passagem. Há nisso uma lição silenciosa sobre o que merece o nosso esforço e sobre a beleza que se oferece sem reservas.
+
 Para o fiel, porém, a festa não se esgota no que os olhos veem. Ela renova o convite a aproximar-se da comunhão com fé viva e a demorar-se em adoração diante do sacrário, ali onde a alma reencontra aquela intimidade que a procissão apenas torna visível. O feriado, que para muitos é descanso, guarda no seu centro a memória de um encontro pessoal, o mesmo a que se referem as grandes orações eucarísticas da tradição.
-O eco da oração
+
+
+## O eco da oração
+
 Talvez seja esse o sentido último da festa. A alma que pede para nunca se separar de Cristo e para ser escondida dentro das suas chagas recebe, na Eucaristia, a resposta exata para o seu anseio, a presença real daquele de quem não quer afastar-se. Uma vez por ano, a Igreja toma esse desejo guardado no coração de cada um dos seus filhos e o carrega pelas ruas à luz do dia, de modo que aquilo que cada fiel sussurra em adoração se torne uma única profissão visível. Corpus Christi é, no fim, a oração de tantas almas feita caminho, festa e cântico diante do mundo.
