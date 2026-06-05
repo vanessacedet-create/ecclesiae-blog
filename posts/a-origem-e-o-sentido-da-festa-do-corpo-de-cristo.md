@@ -6,6 +6,7 @@ category: "Catolicismo"
 author: "Redação Ecclesiae"
 slug: "a-origem-e-o-sentido-da-festa-do-corpo-de-cristo"
 status: "draft"
+coverImage: "https://upload.wikimedia.org/wikipedia/commons/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg"
 ---
 
 Nascida de uma visão medieval e cantada nos hinos de São Tomás de Aquino, a solenidade do Corpo de Cristo conduz a fé até aquilo que ela adora no altar.
