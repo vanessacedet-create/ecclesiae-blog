@@ -3,6 +3,7 @@ title: "Vida de São Bonifácio de Mogúncia"
 date: "2026-06-05"
 slug: "vida-de-sao-bonifacio-de-moguncia"
 status: "draft"
+coverImage: "https://cdn.prod.website-files.com/683ed37ff077394405011c9f/6a1c3288cb2062e811ecdfe1_240613fgsdlX2.jpg"
 ---
 
 Diante de um carvalho que os pagãos tinham por sagrado, consagrado ao deus Donar, um monge inglês ergueu o machado e desferiu o primeiro golpe. A árvore tombou sem que trovão algum descesse do céu para vingá-la, e a multidão que aguardava o castigo divino viu, no silêncio que se seguiu, a prova de que aqueles deuses nada podiam. O monge se chamava Bonifácio, e o episódio condensa a coragem com que ele dedicou a vida a anunciar o Evangelho a um continente que mal o conhecia.
