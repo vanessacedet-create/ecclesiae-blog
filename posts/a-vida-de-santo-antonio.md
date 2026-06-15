@@ -1,6 +1,9 @@
 ---
 title: "A vida de Santo Antônio"
 date: "2026-06-15"
+categories: ["Vida dos santos"]
+category: "Vida dos santos"
+author: "Redação Ecclesiae"
 excerpt: "O frade que escondia sob a humildade uma ciência admirável, até que a obediência o conduziu ao púlpito e revelou ao mundo o maior pregador de seu tempo."
 slug: "a-vida-de-santo-antonio"
 status: "draft"
