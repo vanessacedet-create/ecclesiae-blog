@@ -6,7 +6,7 @@ category: "Guias de leitura"
 author: "Redação Ecclesiae"
 excerpt: "Da conversão dos pais à voz do Magistério, um percurso de leitura para quem deseja transformar o próprio lar em Igreja doméstica. "
 slug: "quatro-livros-para-edificar-a-familia-sobre-a-rocha"
-status: "draft"
+status: "published"
 coverImage: "https://www.meisterdrucke.pt/kunstwerke/1000px/Luigi_Bechi_-_The_Happy_Couple_-_%28MeisterDrucke-820833%29.jpg"
 coverPosition: "top center"
 ---
