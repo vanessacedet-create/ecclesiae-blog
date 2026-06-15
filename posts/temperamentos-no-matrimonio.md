@@ -6,7 +6,7 @@ category: "Catolicismo"
 author: "Redação Ecclesiae"
 excerpt: "Aprenda mais com o autoconhecimento e empatia a serviço do amor conjugal."
 slug: "temperamentos-no-matrimonio"
-status: "draft"
+status: "published"
 coverImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Edmund_Blair_Leighton_-_The_End_of_the_Song_%281902%29.jpg/1280px-Edmund_Blair_Leighton_-_The_End_of_the_Song_%281902%29.jpg"
 ---
 
