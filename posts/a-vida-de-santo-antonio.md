@@ -7,6 +7,8 @@ author: "Redação Ecclesiae"
 excerpt: "O frade que escondia sob a humildade uma ciência admirável, até que a obediência o conduziu ao púlpito e revelou ao mundo o maior pregador de seu tempo."
 slug: "a-vida-de-santo-antonio"
 status: "draft"
+coverImage: "https://diocesedeosasco.com.br/wp-content/uploads/2022/06/santo-antonio.jpg"
+coverPosition: "top center"
 ---
 
 Nascido em Lisboa, por volta de 1195, e batizado com o nome de Fernando, aquele que o mundo viria a conhecer como Santo Antônio veio de família nobre e foi entregue cedo aos estudos na escola da catedral. Aos quinze anos, buscando algo mais alto do que a fortuna de seu sangue, ingressou entre os Cônegos Regrantes de Santo Agostinho, no Mosteiro de São Vicente de Fora. Mas as visitas constantes de parentes e amigos perturbavam-lhe o recolhimento, e o jovem pediu para ser transferido ao Mosteiro de Santa Cruz, em Coimbra — então o maior centro de cultura do reino. Ali, por oito anos, debruçou-se sobre a Sagrada Escritura e os Padres da Igreja com tal afinco que veio a sabê-las quase de cor.
