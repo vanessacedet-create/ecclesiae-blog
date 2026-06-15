@@ -6,7 +6,7 @@ category: "Vida dos santos"
 author: "Redação Ecclesiae"
 excerpt: "O frade que escondia sob a humildade uma ciência admirável, até que a obediência o conduziu ao púlpito e revelou ao mundo o maior pregador de seu tempo."
 slug: "a-vida-de-santo-antonio"
-status: "draft"
+status: "published"
 coverImage: "https://diocesedeosasco.com.br/wp-content/uploads/2022/06/santo-antonio.jpg"
 coverPosition: "top center"
 ---
