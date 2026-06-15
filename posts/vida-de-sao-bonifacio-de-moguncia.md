@@ -2,7 +2,7 @@
 title: "Vida de São Bonifácio de Mogúncia"
 date: "2026-06-05"
 slug: "vida-de-sao-bonifacio-de-moguncia"
-status: "draft"
+status: "published"
 coverImage: "https://cdn.prod.website-files.com/683ed37ff077394405011c9f/6a1c3288cb2062e811ecdfe1_240613fgsdlX2.jpg"
 ---
 
