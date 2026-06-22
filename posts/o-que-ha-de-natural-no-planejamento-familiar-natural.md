@@ -7,6 +7,7 @@ author: "Redação Ecclesiae"
 excerpt: "A única regulação da fertilidade que não age sobre a fertilidade: apenas a lê. E nessa leitura honesta expõe o casamento àquilo que ele de fato é, uma escola de amor."
 slug: "o-que-ha-de-natural-no-planejamento-familiar-natural"
 status: "draft"
+coverImage: "https://upload.wikimedia.org/wikipedia/commons/4/47/Titian%2C_Sacra_Conversazione%2C_The_Madonna_and_Child_with_Saints_Luke_and_Catherine_of_Alexandria.jpg"
 metaDescription: "A regulação da fertilidade que não age sobre a fertilidade: apenas a lê. E nessa leitura honesta expõe o casamento àquilo que ele de fato é, uma escola de amor."
 ---
 
