@@ -1,6 +1,10 @@
 ---
 title: "O que há de natural no Planejamento Familiar Natural"
 date: "2026-06-22"
+categories: ["Catolicismo"]
+category: "Catolicismo"
+author: "Redação Ecclesiae"
+excerpt: "A única regulação da fertilidade que não age sobre a fertilidade: apenas a lê. E nessa leitura honesta expõe o casamento àquilo que ele de fato é, uma escola de amor."
 slug: "o-que-ha-de-natural-no-planejamento-familiar-natural"
 status: "draft"
 ---
