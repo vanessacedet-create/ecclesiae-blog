@@ -7,6 +7,7 @@ author: "Redação Ecclesiae"
 excerpt: "A única regulação da fertilidade que não age sobre a fertilidade: apenas a lê. E nessa leitura honesta expõe o casamento àquilo que ele de fato é, uma escola de amor."
 slug: "o-que-ha-de-natural-no-planejamento-familiar-natural"
 status: "draft"
+metaDescription: "A regulação da fertilidade que não age sobre a fertilidade: apenas a lê. E nessa leitura honesta expõe o casamento àquilo que ele de fato é, uma escola de amor."
 ---
 
 Quem ouve a expressão pela primeira vez quase sempre a arquiva no mesmo lugar: Planejamento Familiar Natural, deve ser o jeito católico de não ter filho. Uma contracepção mais comportada, sem hormônio, sem látex, sem efeito colateral, mas com o mesmo objetivo de fundo. O engano é compreensível, e por isso mesmo precisa ser desfeito com cuidado, porque ele perde de vista o que há de mais sério na coisa toda. O adjetivo "natural" não descreve a ausência de plástico e de remédio. Descreve uma fidelidade à natureza do ato conjugal, do casamento e do próprio amor. E essa fidelidade não cabe numa tabela.
