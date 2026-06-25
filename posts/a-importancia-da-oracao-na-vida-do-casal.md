@@ -6,6 +6,8 @@ category: "Catolicismo"
 author: "Redação Ecclesiae"
 slug: "a-importancia-da-oracao-na-vida-do-casal"
 status: "draft"
+coverImage: "https://sdcason.com/content/images/2021/05/Joseph_von_F-hrich_-_Jakob_begegnet_Rahel_bei_den_Herden_ihres_Vaters_-_2095_-_Kunsthistorisches_Museum-1.jpg"
+coverPosition: "top center"
 metaTitle: "A importância da oração na vida do casal"
 ---
 
