@@ -4,11 +4,13 @@ date: "2026-06-26"
 categories: ["Catolicismo"]
 category: "Catolicismo"
 author: "Redação Ecclesiae"
+excerpt: "Por que rezar a dois sustenta o amor no namoro, no noivado e no casamento. Um olhar pela história de Tobias, pelo Catecismo e por João Paulo II."
 slug: "a-importancia-da-oracao-na-vida-do-casal"
-status: "draft"
+status: "published"
 coverImage: "https://sdcason.com/content/images/2021/05/Joseph_von_F-hrich_-_Jakob_begegnet_Rahel_bei_den_Herden_ihres_Vaters_-_2095_-_Kunsthistorisches_Museum-1.jpg"
 coverPosition: "top center"
 metaTitle: "A importância da oração na vida do casal"
+metaDescription: "Por que rezar a dois sustenta o amor no namoro, no noivado e no casamento. Um olhar pela história de Tobias, pelo Catecismo e por João Paulo II."
 ---
 
 Há uma cena no Livro de Tobias que deveria estar diante dos olhos de todo casal cristão. Tobias e Sara acabam de se casar; estão a sós, pela primeira vez, no quarto nupcial. Antes de qualquer gesto de intimidade, o jovem se levanta, ajoelha-se com ela e diz à esposa: "Levanta-te, Sara, e roguemos a Deus" (Tb 8,4). A oração de Tobias é límpida sobre o que os move: "não é para satisfazer a minha paixão que recebo a minha prima como esposa, mas unicamente com o desejo de suscitar uma posteridade, pela qual o vosso nome seja eternamente bendito" (Tb 8,9). Só depois, entregues ao Senhor, eles se entregam um ao outro. Nessa ordem está quase tudo o que um casamento precisa saber.
