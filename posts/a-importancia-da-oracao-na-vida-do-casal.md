@@ -5,7 +5,7 @@ categories: ["Catolicismo"]
 category: "Catolicismo"
 author: "Redação Ecclesiae"
 slug: "a-importancia-da-oracao-na-vida-do-casal"
-status: "published"
+status: "draft"
 metaTitle: "A importância da oração na vida do casal"
 ---
 
