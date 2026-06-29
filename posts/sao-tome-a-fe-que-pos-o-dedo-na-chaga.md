@@ -1,6 +1,9 @@
 ---
 title: "São Tomé: a fé que pôs o dedo na chaga"
 date: "2026-06-29"
+categories: ["Vida dos santos"]
+category: "Vida dos santos"
+author: "Redação Ecclesiae"
 slug: "sao-tome-a-fe-que-pos-o-dedo-na-chaga"
 status: "draft"
 ---
