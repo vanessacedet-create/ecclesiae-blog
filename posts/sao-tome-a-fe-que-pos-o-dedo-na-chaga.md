@@ -25,4 +25,4 @@ O que aconteceu com aquele homem depois de crer mede o tamanho da sua conversão
 
 Que a festa deste apóstolo nos console nas horas de dúvida e nos ensine, como ensinou a ele, que toda escuridão sincera pode desembocar na luz.
 
-Fontes: Evangelho de São João (caps. 11, 14 e 20); Bento XVI, Audiência Geral de 27 de setembro de 2006; tradição hagiográfica registrada no Martirológio Romano.
+*Fontes: Evangelho de São João (caps. 11, 14 e 20); Bento XVI, Audiência Geral de 27 de setembro de 2006; tradição hagiográfica registrada no Martirológio Romano.*
