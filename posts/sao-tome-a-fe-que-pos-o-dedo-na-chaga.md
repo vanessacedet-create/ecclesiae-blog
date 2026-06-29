@@ -7,7 +7,8 @@ status: "draft"
 
 No dia 3 de julho a Igreja celebra Tomé, o apóstolo que entrou para a memória cristã pela pergunta errada e saiu dela com a resposta mais alta. Ficou conhecido como o incrédulo, e poucos rótulos foram tão injustos com um homem.
 
-— O HOMEM POR TRÁS DO APELIDO —
+
+### — O HOMEM POR TRÁS DO APELIDO —
 
 Antes de duvidar da Ressurreição, Tomé já tinha dado provas de uma coragem que faltou aos outros. Quando Jesus resolve voltar à Judeia para socorrer Lázaro, sabendo que ali queriam matá-lo, é Tomé quem diz aos companheiros: "Vamos também nós, para morrermos com ele" (Jo 11,16). Na Última Ceia, foi a sua inquietação que arrancou de Cristo uma das frases que sustentam toda a fé cristã. Diante do anúncio da partida, Tomé interrompe: "Senhor, não sabemos para onde vais; como podemos conhecer o caminho?" E ouve em resposta: "Eu sou o caminho, a verdade e a vida" (Jo 14,5-6). A dúvida dele, ali, abriu espaço para uma revelação que valeu para todos.
 
