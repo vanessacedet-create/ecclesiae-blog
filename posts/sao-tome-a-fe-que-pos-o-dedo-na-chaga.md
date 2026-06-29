@@ -6,6 +6,7 @@ category: "Vida dos santos"
 author: "Redação Ecclesiae"
 slug: "sao-tome-a-fe-que-pos-o-dedo-na-chaga"
 status: "draft"
+coverImage: "https://pnsfatimatb.com.br/wp-content/uploads/2019/07/o-discipulo-que-cura-nossa-falta-de-fe-1.jpg"
 ---
 
 No dia 3 de julho a Igreja celebra Tomé, o apóstolo que entrou para a memória cristã pela pergunta errada e saiu dela com a resposta mais alta. Ficou conhecido como o incrédulo, e poucos rótulos foram tão injustos com um homem.
