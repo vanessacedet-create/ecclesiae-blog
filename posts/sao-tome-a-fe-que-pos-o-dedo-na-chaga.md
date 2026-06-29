@@ -20,7 +20,6 @@ Quando os outros lhe contam que viram o Ressuscitado, Tomé estava ausente, e re
 
 ### — DA DÚVIDA ATÉ A ÍNDIA —
 
-
 O que aconteceu com aquele homem depois de crer mede o tamanho da sua conversão. A tradição, recolhida já por Orígenes e Eusébio de Cesareia, manda Tomé pregar entre os persas e os partas e, mais longe que qualquer outro apóstolo, até a Índia. Em Mylapore, perto da atual Chennai, foi morto por volta do ano 72, trespassado por uma lança enquanto rezava. Sobre o seu túmulo ergueu-se uma basílica, e as comunidades do sul da Índia que se dizem "cristãos de São Tomé" guardam até hoje uma fé que remontam a ele. A Igreja latina celebrava sua memória em 21 de dezembro; depois da reforma do calendário, em 1969, passou a recordá-lo em 3 de julho. O apóstolo que precisou tocar para crer acabou levando o Evangelho aonde nenhum dos onze chegou, e selando com o próprio sangue aquilo que um dia hesitara em aceitar.
 
 Que a festa deste apóstolo nos console nas horas de dúvida e nos ensine, como ensinou a ele, que toda escuridão sincera pode desembocar na luz.
