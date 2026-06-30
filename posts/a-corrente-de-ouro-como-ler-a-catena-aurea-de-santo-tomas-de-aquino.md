@@ -10,8 +10,6 @@ Quem abre a *Catena Aurea* pela primeira vez costuma estranhar. A página não t
 
 <a href="https://ecclesiae.com.br/catena-aurea-1" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:8px 20px;font-size:12px;">Conheça o Kit Catena Aurea</a>
 
-
-
 ## O que é, afinal, uma "corrente de ouro"
 
 *Catena*, em latim, quer dizer cadeia, corrente. Uma catena bíblica é um gênero antigo: um comentário montado inteiramente com passagens de autores anteriores, encadeadas versículo por versículo, cada uma apresentada com o nome de quem a escreveu e ajustada o suficiente para que o conjunto se leia de modo contínuo. Metade do que os Padres comentaram sobre as Escrituras, dizem os estudiosos, sobreviveu apenas nessa forma de florilégio. A obra de Tomás de Aquino é a mais célebre das catenas latinas, e o adjetivo que a tradição lhe acrescentou — *aurea*, de ouro — diz o apreço em que foi tida desde cedo. Corrente de ouro: elos preciosos engastados um no outro.
@@ -36,7 +34,7 @@ O kit completo reúne os quatro Evangelhos em quatro tomos: Mateus, Marcos, Luca
 
 Ao fim de cada passagem, quem lê a *Catena* tem a sensação de não ter ficado sozinho diante da Palavra. É esse, talvez, o maior presente da corrente de ouro: lembrar que ninguém lê o Evangelho do nada, e que crer é entrar numa conversa começada muito antes de nós e que não terminará conosco.
 
-`[BOTÃO: Garanta o Kit Catena Aurea Completa — 4 volumes »]`
+<a href="https://ecclesiae.com.br/catena-aurea-1" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:8px 20px;font-size:12px;">Conheça o Kit Catena Aurea</a>
 
 **Fonte:**
 AQUINO, Tomás de. *Catena Aurea* (4 vols.: Mateus, Marcos, Lucas, João). Campinas: Ecclesiae. Contexto histórico conforme registros da própria obra (encomenda do Papa Urbano IV, 1262–1263) e verbete "Catena" da tradição de comentário bíblico.
