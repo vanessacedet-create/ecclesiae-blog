@@ -1,15 +1,16 @@
 ---
 title: "A corrente de ouro: como ler a Catena Aurea de Santo Tomás de Aquino"
 date: "2026-06-30"
+excerpt: "O Aquinate não escreveu este livro no sentido em que escreveu a* Suma*: ele costurou, versículo a versículo, a voz de quase oitenta Padres da Igreja numa só leitura contínua do Evangelho. Um guia para entrar nessa obra sem se perder."
 slug: "a-corrente-de-ouro-como-ler-a-catena-aurea-de-santo-tomas-de-aquino"
 status: "draft"
 ---
 
-*O Aquinate não escreveu este livro no sentido em que escreveu a* Suma*: ele costurou, versículo a versículo, a voz de quase oitenta Padres da Igreja numa só leitura contínua do Evangelho. Um guia para entrar nessa obra sem se perder.*
+Quem abre a *Catena Aurea* pela primeira vez costuma estranhar. A página não traz o texto corrido de um autor explicando o Evangelho. O que se vê é uma sucessão de vozes — Agostinho, João Crisóstomo, Jerônimo, Gregório Magno, Beda, Orígenes — que se revezam comentando um mesmo versículo, cada trecho com o nome de seu autor no alto. É essa a forma do livro, e entendê-la é o primeiro passo para tirar proveito dele.
 
 <a href="https://ecclesiae.com.br/catena-aurea-1" target="_blank" rel="noopener noreferrer" style="display:inline-block;background-color:#926d47;color:#ffffff;border-radius:0px;text-decoration:none;font-family:'Cinzel',serif;letter-spacing:0.15em;text-transform:uppercase;font-weight:600;padding:8px 20px;font-size:12px;">Conheça o Kit Catena Aurea</a>
 
-Quem abre a *Catena Aurea* pela primeira vez costuma estranhar. A página não traz o texto corrido de um autor explicando o Evangelho. O que se vê é uma sucessão de vozes — Agostinho, João Crisóstomo, Jerônimo, Gregório Magno, Beda, Orígenes — que se revezam comentando um mesmo versículo, cada trecho com o nome de seu autor no alto. É essa a forma do livro, e entendê-la é o primeiro passo para tirar proveito dele.
+
 
 ## O que é, afinal, uma "corrente de ouro"
 
