@@ -1,9 +1,13 @@
 ---
 title: "A corrente de ouro: como ler a Catena Aurea de Santo Tomás de Aquino"
 date: "2026-06-30"
+categories: ["Guias de leitura"]
+category: "Guias de leitura"
+author: "Redação Ecclesiae"
 excerpt: "O Aquinate não escreveu este livro no sentido em que escreveu a* Suma*: ele costurou, versículo a versículo, a voz de quase oitenta Padres da Igreja numa só leitura contínua do Evangelho. Um guia para entrar nessa obra sem se perder."
 slug: "a-corrente-de-ouro-como-ler-a-catena-aurea-de-santo-tomas-de-aquino"
 status: "draft"
+coverImage: "https://www.alejandradeargos.com/images/articulos/Iker/Santo_Tom%C3%A1s_de_Aquino_Antonio_del_Castillo.jpg"
 ---
 
 Quem abre a *Catena Aurea* pela primeira vez costuma estranhar. A página não traz o texto corrido de um autor explicando o Evangelho. O que se vê é uma sucessão de vozes — Agostinho, João Crisóstomo, Jerônimo, Gregório Magno, Beda, Orígenes — que se revezam comentando um mesmo versículo, cada trecho com o nome de seu autor no alto. É essa a forma do livro, e entendê-la é o primeiro passo para tirar proveito dele.
