@@ -1,5 +1,5 @@
 ---
-title: "A corrente de ouro: como ler a Catena Aurea de Santo Tomás de Aquino"
+title: "Como ler a Catena Aurea de Santo Tomás de Aquino"
 date: "2026-06-30"
 categories: ["Guias de leitura"]
 category: "Guias de leitura"
